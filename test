@@ -1,9 +1,3 @@
-#EXTINF:0 tvg-logo="https://apps.beinsports.com/dev/au/images/2.png" group-title="SPORT",BEIN SPORT2
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
- 
-#EXTINF:0 tvg-logo="https://apps.beinsports.com/dev/au/images/3.png" group-title="SPORT",BEIN SPORT3
-http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
- 
 #EXTINF:0 tvg-logo="http://worldsoccertalk.com/wp-content/uploads/2018/08/bein-sports-directv.jpg" group-title="SPORT",BEIN LaLiga
 http://server.stablechannels.tv:80/XSUKFH5e0/2nnJ6gx76G/16760
  
