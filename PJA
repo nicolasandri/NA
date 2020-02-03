@@ -59,6 +59,9 @@ https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL INDONESIA",INDOSIAR HD
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=B10B2C8D7C5EF65FE04AEAF62383D6B3647ED987&profile=pass
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/INDOSIAR_Logo.png" group-title="LOKAL INDONESIA",INDOSIAR BACKUP
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8#
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4yxHG0hM/ninmedia.png" group-title="LOKAL INDONESIA",INSPIRA TV
 http://stream1.ninmedia.tv/inspiratv/udp.stream_360p/playlist.m3u8
 
