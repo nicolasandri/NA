@@ -156,9 +156,6 @@ https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/MNC-Vision-Prime.jpg" group-title="LOKAL INDONESIA",VISION PRIME HD
 https://anevia114.mncnow.id:443/live/eds/VisionPrime/sa_hls/VisionPrime-avc1_1000000=7-mp4a_98800_eng=3.m3u
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JWwj6uk.png" group-title="LABEL",~ 24/7 Arabic News ~
-https://fluxustv.blogspot.com@bit.ly/fluxusfish?.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YICGlAh.png" group-title="24/7 ARABIC NEWS",Al Alam (IR) (Opt-1)
 http://live2.alalam.ir/live/Alalam/index.m3u8
 
@@ -607,7 +604,7 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 #EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="https://cdn0-a.production.vidio.static6.com/uploads/video/image/1177006/fox-movies-501-voice-from-the-stone-50b546.jpg" group-title="MOVIES PREMIUM", FOX MOVIES Sub Bahasa Indonesia (HD) +
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="MOVIES",Fox Action Movies HD [BACKUP]
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Fox_Action_Movies.png/revision/latest?cb=20190313090329" group-title="MOVIES PREMIUM",Fox Action Movies HD [BACKUP]
 https://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.net/wp-content/uploads/2017/06/fox-movies-logo.png" group-title="MOVIES PREMIUM",Fox Movies FHD [BACKUP]
@@ -1155,7 +1152,7 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.live/wp-content/uploads/2018/11/akaramkids1.png" tvg-country="IN" group-title="Kids/Animation",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NUflwTN.png" tvg-country="TW" tvg-url="" group-title=" Kids/Animation",BabyFirst??
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NUflwTN.png" tvg-country="TW" tvg-url="" group-title="Kids/Animation",BabyFirst??
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.logovaults.com/stock_thumb/preview-baby-tv-2013-01-27.jpg" group-title="Kids/Animation",BABY TV
@@ -1285,7 +1282,7 @@ http://tv.factoryiptv.com:80/fabio/fabio/57387
 #EXTINF:-1 tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="Knowledge",Home & Living SD
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMJU_9tQ7p7AL9yxk99lg7Ajr7muv151xM9D6HJObyzuJ3Z7Uu" group-title="Knowledg",OCEAN TV FHD 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMJU_9tQ7p7AL9yxk99lg7Ajr7muv151xM9D6HJObyzuJ3Z7Uu" group-title="Knowledge",OCEAN TV FHD 
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 
 LAGU LOKAL
