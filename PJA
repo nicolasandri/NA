@@ -636,50 +636,101 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g09bSJHX/Hollywood-Movies.png" group-title="MOVIES PREMIUM",Hollywood Movies 3
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO
+http://csrv.club:80/x5MEh/EZdEv/1805
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO BACKUP
+http://alaska.serveirc.com:25461/4FwKD6bfIu/2zlPjwj4q1/63192
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO Sub Bahasa Indonesia (FHD)
+http://idxcode.streamid.tv:25251/live/stream/ID/51.ts
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO (FHD) Backup
+http://95.170.215.118/hls/m3u8/HBO.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="MOVIES PREMIUM",HBO 2 (SD)
+http://tv.factoryiptv.com:80/fabio/fabio/37086
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO 2
+http://tv.minhalista.me:80/310819/310819/50789
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO 2 BACKUP
+http://csrv.club:80/x5MEh/EZdEv/1809
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO 2 (FHD) Backup
+http://95.170.215.118/hls/m3u8/HBO-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180616/fsj/kisspng-hbo-comedy-streaming-television-hbo-2-hbo-5b2563b4d39311.9631205115291770128666.jpg" group-title="MOVIES PREMIUM",HBO 3 
+http://93.138.96.14:6001/play/a03r
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO 3
+http://185.233.186.68:8080/v1lbzkw7wh/3j7guxenhm/5137
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO 3 (FHD) Backup
+http://95.170.215.118/hls/m3u8/HBO-3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO PLUS
+http://tv.minhalista.me:80/list/list/37084
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="MOVIES PREMIUM",HBO Comedy
+http://ok2.se:8000/07b8F7U9RATdmOqGQ/359aF9UmseNVAopZc/373
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO Comedy
+http://alaska.serveirc.com:25461/4FwKD6bfIu/2zlPjwj4q1/63193
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO Family BACKUP
+http://csrv.club:80/x5MEh/EZdEv/1806
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png" group-title="MOVIES PREMIUM",HBO Family Sub Bahasa Indonesia (HD)
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO Family
+http://62.210.124.111/redirect.php?key=0S013Ox48q4W2MN-8020
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO Family INDO
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=6A230BCD275160BC241A718EFB00115CB1F94794&profile=pass
+
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO Signature
+http://csrv.club:80/x5MEh/EZdEv/1801
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO Signature BACKUP
+http://disback.dyndns.tv:8000/mag00:1A:79:43:25:1A/ra2wyC7OCP/5853
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO Signature INDO
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A12851300CCFE97AAD81D0B030D&profile=pass
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="MOVIES PREMIUM",HBO Signature AISPLAY (HD) Backup
 https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="MOVIES PREMIUM",HBO Signature MNCplay Sub Bahasa Indonesia (SD)
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES PREMIUM",HBO SIGNATURE Sub Bahasa Indonesia (HD)
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO HITS INDO
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E326D9F96C522A9CA148626C6&profile=pass
+
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO HITS INDO BACKUP
+http://idxcode.streamid.tv:25251/live/stream/ID/52.ts
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/2yHf270r/hbo-hits.png" group-title="MOVIES PREMIUM",HBO Hits MNCplay (SD)
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO (FHD) Backup
-http://95.170.215.118/hls/m3u8/HBO.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO 2 (FHD) Backup
-http://95.170.215.118/hls/m3u8/HBO-2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO 3 (FHD) Backup
-http://95.170.215.118/hls/m3u8/HBO-3.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="MOVIES PREMIUM",HBO 2 (SD)
-http://tv.factoryiptv.com:80/fabio/fabio/37086
-
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180616/fsj/kisspng-hbo-comedy-streaming-television-hbo-2-hbo-5b2563b4d39311.9631205115291770128666.jpg" group-title="MOVIES PREMIUM",HBO 3 
-http://93.138.96.14:6001/play/a03r
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/HBO_Comedy_logo.png" group-title="MOVIES PREMIUM",HBO Comedy
-http://ok2.se:8000/07b8F7U9RATdmOqGQ/359aF9UmseNVAopZc/373
-
-#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_hbo_east_small.gif" group-title="MOVIES PREMIUM",HBO East
-http://ok2.se:8000/07b8F7U9RATdmOqGQ/359aF9UmseNVAopZc/371
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/H/HBO_Family-logo-AC467BC653-seeklogo.com.png" group-title="MOVIES PREMIUM",HBO Family Sub Bahasa Indonesia (HD)
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES PREMIUM",HBO HITS Sub Bahasa Indonesia (HD)
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES PREMIUM",HBO SIGNATURE Sub Bahasa Indonesia (HD)
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 
 #EXTINF:-1 group-title="MOVIES PREMIUM",HITS MNCplay Sub Bahasa Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 group-title="MOVIES PREMIUM",HITS MOVIES MNCplay Sub Bahasa Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/logo_hbo_east_small.gif" group-title="MOVIES PREMIUM",HBO East
+http://ok2.se:8000/07b8F7U9RATdmOqGQ/359aF9UmseNVAopZc/371
+
 
 #EXTINF:0 tvg-logo="" group-title="MOVIES PREMIUM",Hallmark (HD)
 http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/321
@@ -698,6 +749,9 @@ https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="MOVIES PREMIUM",Paramount (SD)
 http://tv.minhalista.me:80/rodrigo125/rodrigo125/37062
+
+#EXTINF:0 tvg-logo="" group-title="MOVIES PREMIUM",PRIME ASIA
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="MOVIES PREMIUM" tvg-logo="https://teevee-hd.com/img/red.png",RED BY HBO AISPLAY (HD)
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
@@ -737,6 +791,7 @@ https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1
 
 #EXTINF:-1 group-title="MOVIES PREMIUM",ZEE BIOSKOP SERVER 2 (SD)
 https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ggjJiDw.png" group-title="24/7 MANDARIN",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
