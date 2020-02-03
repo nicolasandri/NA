@@ -859,8 +859,6 @@ https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="EXTRA SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport2.jpg",BTSPORT 2
 https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:0 tvg-logo=https://www.doomovie-hd.com/assets/img/ch_logo/uk-btsport1.jpg” group-title="EXTRA SPORTS",BT Sport 1
-http://balkan-x.net:25461/t7GHgSyhge/Svhk2BoBRv/1491
 #EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="EXTRA SPORTS",CCTV 5
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="EXTRA SPORTS",Champions tv 1
