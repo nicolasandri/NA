@@ -1209,7 +1209,7 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.live/wp-content/uploads/2018/11/akaramkids1.png" tvg-country="IN" group-title="Kids/Animation",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NUflwTN.png" tvg-country="TW" tvg-url="" group-title=" Kids/Animation",BabyFirst??
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NUflwTN.png" tvg-country="TW" tvg-url="" group-title="Kids/Animation",BabyFirst??
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.logovaults.com/stock_thumb/preview-baby-tv-2013-01-27.jpg" group-title="Kids/Animation",BABY TV
