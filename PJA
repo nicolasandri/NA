@@ -1245,7 +1245,7 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9
 #EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network Bahasa Indonesia HD +
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 
-#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network SD
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network (SD)
 http://cust.myftp.org:443/Qa7EySn6at/9Op5qZId7b/23
 
 
