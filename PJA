@@ -1195,6 +1195,8 @@ https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (UHD)
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/jCYDqv4t/3-ABN-Kids.png" group-title="Kids/Animation",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
@@ -1207,7 +1209,7 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.live/wp-content/uploads/2018/11/akaramkids1.png" tvg-country="IN" group-title="Kids/Animation",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NUflwTN.png" tvg-country="TW" tvg-url="" group-title="Kids/Animation",BabyFirst??
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NUflwTN.png" tvg-country="TW" tvg-url="" group-title=" Kids/Animation",BabyFirst??
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.logovaults.com/stock_thumb/preview-baby-tv-2013-01-27.jpg" group-title="Kids/Animation",BABY TV
@@ -1225,23 +1227,45 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Kids/Animation",BOOMERANG
 http://cust.myftp.org:443/MOBEP3i0Vs/v2ZhBBOFGN/3535
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="Kids/Animation",Cartoon Network FHD ++
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation" group-title="KIDS",Cartoon Network
+http://cust.myftp.org:443/Qa7EySn6at/9Op5qZId7b/23
+
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation" group-title="KIDS",Cartoon Network BACKUP
+http://ok2.se:8000/9961F7UyyKUPj3qW0/eb2aF9ULHJIXjypHk/395
+
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation" group-title="KIDS",Cartoon Network BACKUP 2
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
+
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation Cartoon Network FHD ++
 http://188.35.9.11:21151/udp/185f
 
 #EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network HD +
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 
-#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network Bahasa Indonesia HD +
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
+
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network SD
 http://cust.myftp.org:443/Qa7EySn6at/9Op5qZId7b/23
 
-#EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="Kids/Animation",Disney Channel Bahasa Indonesia HD
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
 
 #EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="Kids/Animation",Disney Channel
 http://ok2.se:8000/3f18F7Up7q4IE6aco/1a6bF9U9mAyINu5ng/392
 
+#EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="Kids/Animation",Disney Channel Bahasa Indonesia HD
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
+
+#EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="Kids/Animation",Disney INDO
+http://203.153.218.28:9981/stream/channelid/31701170?ticket=2E48030DF49735395AFB9F80DD6626207B1579D5&profile=pass
+
+#EXTINF:0 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="Kids/Animation",Disney INDO BACKUP
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Kids/Animation",Disney XD
 http://xt.bossna-caffe.com:25461/3MwwVVGNzD/vG70BdzEKZ/1434
+
+#EXTINF:0#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Disney_XD_-_2015.svg" group-title="Kids/Animation",Disney XD BACKUP 2
+http://cust.myftp.org:443/HI1ozKMNZJ/m1QMpatJ7f/45
 
 #EXTINF:-1 tvg-ID="" tvg-name="DISNYJUNIOR ID" tvg-logo="https://seeklogo.com/images/D/disney-junior-logo-1F38185449-seeklogo.com.png" group-title="Kids/Animation",Disney Junior Bahasa Indonesia SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -1261,11 +1285,23 @@ https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_100
 #EXTINF:-1 tvg-logo="https://tbivision.com/files/2015/05/miao-logo.jpg" group-title="Kids/Animation",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Kids/Animation",NICK
+http://ok2.se:8000/9961F7UyyKUPj3qW0/eb2aF9ULHJIXjypHk/394
+
 #EXTINF:-1 tvg-logo="" group-title="Kids/Animation",NICK JR
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Kids/Animation",NICKJr.too
+http://cust.myftp.org:443/HI1ozKMNZJ/m1QMpatJ7f/31783
+
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-0462405B4C-seeklogo.com.png" group-title="Kids/Animation",Nickelodeon Asia
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
+
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-0462405B4C-seeklogo.com.png" group-title="Kids/Animation",Nickelodeon Asia Backup
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=0DB19E0638CE26116D1EAB88EABDF8BB02DA784A&profile=pass
+
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-0462405B4C-seeklogo.com.png" group-title="Kids/Animation",Nickelodeon Asia Backup 2
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/cIEUNEUUkiw/maxresdefault.jpg" group-title="Kids/Animation",NICK@Nite
 http://ok2.se:8000/68f2F7UcUla96Q9k6/0cedF9USgJLLBE7yy/394
@@ -1279,10 +1315,9 @@ http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://commodusprod.hooq.tv/cdnimagesprod/assets/feed/34c6ccfc44fa.png" group-title="Kids/Animation",THE PET COLLECTIVE
 https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1577080744~exp=9007200831821735~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=baa54452db02d00d42b3b34565dd2c7ac10da7fdec56bbe1e717ce4fccaba918
 
-#EXTINF:-1 tvg-logo="http://ai-turkey.com/wp-content/uploads/2016/05/AI-Turkey-Doraemon-Logo.png" group-title="Kids/Animation",24/7 Doraemon
-https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv
+#EXTINF:-1 tvg-logo="http://ai-turkey.com/wp-content/uploads/2016/05/AI-Turkey-Doraemon-Logo.png" group-title="Kids/Animation", Doraemon 
 
-#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="Kids/Animation",24/7 Tom & Jerry
+#EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="Kids/Animation",Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
 KNOWLEDGE
