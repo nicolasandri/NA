@@ -552,7 +552,7 @@ https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="MOVIES PREMIUM",AXN Sub Bahasa Indonesia
 http://210.210.155.66/h/h141/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES PREMIUM",Cinemax Sub Bahasa Indonesia MNCplay (HD) ++
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES PREMIUM",Cinemax Sub Bahasa Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES PREMIUM",Cinemax Sub Bahasa Indonesia (HD) +
@@ -570,7 +570,7 @@ https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-av
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnJTfRZF/Celestial.png" group-title="MOVIES PREMIUM",Celestial Movies Sub Bahasa Indonesia  (SD)
 https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
 
-#EXTINF:-1 group-title="MOVIES PREMIUM",CINEMA WORLD MNCplay Sub Bahasa Indonesia (HD) ++
+#EXTINF:-1 group-title="MOVIES PREMIUM",CINEMA WORLD Sub Bahasa Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bNCNHWNG/Citra-Drama.png" group-title="MOVIES PREMIUM",Citra Drama Bahasa Indonesia (HD) ++
@@ -585,10 +585,10 @@ http://146.200.240.172:9981/stream/channelid/194
 #EXTINF:0 tvg-logo="" group-title="MOVIES PREMIUM",Comedy Network (HD)
 http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/316
 
-#EXTINF:-1 group-title="MOVIES PREMIUM",FOX MNCplay Sub Indonesia (HD) ++
+#EXTINF:-1 group-title="MOVIES PREMIUM",FOX Sub Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 group-title="MOVIES PREMIUM",FOX MNCplay CRIME Sub Indonesia (HD) ++
+#EXTINF:-1 group-title="MOVIES PREMIUM",FOX CRIME Sub Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/Fox-logo-F6A19BA40C-seeklogo.com.png" tvg-name="FOX" group-title="MOVIES PREMIUM",FOX Sub Bahasa Indonesia (HD) +
@@ -621,7 +621,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 #EXTINF:0 tvg-logo="" group-title="MOVIES PREMIUM",FX (SD) 
 http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/314
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvNYk1vM/FX-movie.png" group-title="MOVIES PREMIUM",FX MNCplay Sub Bahasa Indonesia (HD) ++
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvNYk1vM/FX-movie.png" group-title="MOVIES PREMIUM",FX Sub Bahasa Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="MOVIES PREMIUM",FXX (FHD) 
@@ -706,7 +706,7 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=E20CE4FFE9600A1285
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="MOVIES PREMIUM",HBO Signature AISPLAY (HD) Backup
 https://livedoomovie.com/02_HBOSignature_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="MOVIES PREMIUM",HBO Signature MNCplay Sub Bahasa Indonesia (SD)
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOSignature.id.png" group-title="MOVIES PREMIUM",HBO Signature Sub Bahasa Indonesia (SD)
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIES PREMIUM",HBO SIGNATURE Sub Bahasa Indonesia (HD)
@@ -718,16 +718,16 @@ http://203.153.218.28:9981/stream/channelid/2038175895?ticket=6BFD6BDBFA641B9E32
 #EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",HBO HITS INDO BACKUP
 http://idxcode.streamid.tv:25251/live/stream/ID/52.ts
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yHf270r/hbo-hits.png" group-title="MOVIES PREMIUM",HBO Hits MNCplay (SD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/2yHf270r/hbo-hits.png" group-title="MOVIES PREMIUM",HBO Hits (SD)
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIES PREMIUM",HBO HITS Sub Bahasa Indonesia (HD)
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 
-#EXTINF:-1 group-title="MOVIES PREMIUM",HITS MNCplay Sub Bahasa Indonesia (HD) ++
+#EXTINF:-1 group-title="MOVIES PREMIUM",HITS Sub Bahasa Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 group-title="MOVIES PREMIUM",HITS MOVIES MNCplay Sub Bahasa Indonesia (HD) ++
+#EXTINF:-1 group-title="MOVIES PREMIUM",HITS MOVIES Sub Bahasa Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 
 
@@ -765,10 +765,10 @@ http://5.158.39.230:9981/stream/channelid/227721972
 #EXTINF:0 tvg-logo="" group-title="MOVIES PREMIUM",SYFY BACKUP (FHD)
 http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/339
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/L81r1SFH/Tvn-Movies.png" group-title="MOVIES PREMIUM",TvN MOVIES MNCplay Sub Bahasa Indonesia (HD) ++
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L81r1SFH/Tvn-Movies.png" group-title="MOVIES PREMIUM",TvN MOVIES Sub Bahasa Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
 
-#EXTINF:-1 group-title="MOVIES PREMIUM",THRILL MNCplay Sub Bahasa Indonesia (SD)
+#EXTINF:-1 group-title="MOVIES PREMIUM",THRILL Sub Bahasa Indonesia (SD)
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/T/tlc-logo-774E9A4AB6-seeklogo.com.png" group-title="MOVIES PREMIUM",TLC (HD)
@@ -783,7 +783,7 @@ http://158.69.228.135:8000/nataren/5ihvz77x/3938
 #EXTINF:-1 group-title="MOVIES PREMIUM",WARNER TV Sub Indonesia (SD)
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fPKLBfK/warner.png" group-title="MOVIES PREMIUM",Warner tv MNCplay Bahasa Indonesia (SD)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fPKLBfK/warner.png" group-title="MOVIES PREMIUM",Warner tv Bahasa Indonesia (SD)
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wixstatic.com/media/d29c53_4aaaf6ed2a0e4c72be4be21a2e3c3738~mv2.jpg"group-title="MOVIES PREMIUM",WOWOW (SD)
@@ -1491,40 +1491,40 @@ https://cdn02.mola.tv/Content/HLS/VOD/397ce7ab-d730-4ea9-b867-0e0a023f68ae/72f5c
 
 FILM BARAT
 2019
-#EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2020/01/n9SZTJcSBMjaWHVx98e2WTn7Twf.jpg?resize=60%2C90" group-title="VOD Film BARAT",Alone (2020)
+EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2020/01/n9SZTJcSBMjaWHVx98e2WTn7Twf.jpg?resize=60%2C90" group-title="VOD Film BARAT",Alone (2020)
 https://r5---sn-npoeenee.googlevideo.com/videoplayback?expire=1580725010&ei=8tY3XrDZKvyUz7sP8taymAg&ip=2400:6180:0:d1::69c:f001&id=05553b9e9dd5c348&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=4825.547&lmt=1580606858838131&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhANwlaZPdHzOJGWVgRtazbuZas8s_d01wp6NJFv0MXIjoAiEA1YZdfMZWKsgWr_aQGkb1iO1wDCi6-QuWyJItCzQ9PHg=&mip=167.71.204.81&redirect_counter=1&rm=sn-npolk76&req_id=c6a4968d618ea3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoeenee&ms=nxu&mt=1580717719&mv=m&mvi=4&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhALkrQ5VWvk8mVNb4nKewkvcgKld7zQrgi8xbunDloleTAiEAjHTgdjzX8fuO8aBGTz_bDcfvsYNhZb07FhGtvBQT8-Y%3D
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2020/01/7ykk0j8rtUXP8420J0xPLD34sni.jpg?resize=60%2C90" group-title="VOD Film BARAT",Angels Fallen (2020)
+EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2020/01/7ykk0j8rtUXP8420J0xPLD34sni.jpg?resize=60%2C90" group-title="VOD Film BARAT",Angels Fallen (2020)
 https://r3---sn-npoeen7k.googlevideo.com/videoplayback?expire=1580722860&ei=jM43XrvSI6WW1AbEl6LQCg&ip=2400:6180:0:d1::69c:f001&id=22d1fe5cd6dc3436&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5200.596&lmt=1580586611355564&sparams=expire,ei,ip,id,itag,source,requiressl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhAIwCfx5tCb0XPWrBMmB7yrlRKnmdmaJTNf4fuVbIyQfFAiBJ3kG1hKplKjC-8HDx70AdKsMkvZ_euaaxyRHy42mXcw==&mip=167.71.204.81&redirect_counter=1&rm=sn-npole7s&req_id=ead77a88c689a3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoeen7k&ms=nxu&mt=1580715562&mv=m&mvi=2&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgcAMw3YI-S81jY3URda3l1O83Y__JjKvz8xNWrVcl8nMCIBSqpQ6A2IbdDCEfFzfZAFzKlGJWP37eW8TiM-jxJlvt
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/01/3dXUctTWX3cCF2oSQdBTnyFRihQ.jpg?resize=60%2C90" group-title="VOD Film BARAT",Grand Theft Auto Girls (2020)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/01/3dXUctTWX3cCF2oSQdBTnyFRihQ.jpg?resize=60%2C90" group-title="VOD Film BARAT",Grand Theft Auto Girls (2020)
 https://r2---sn-npoeen7y.googlevideo.com/videoplayback?expire=1580721861&ei=pco3Xv8Zh76jA-Gms4AP&ip=2400:6180:0:d1::69c:f001&id=c2c708e905c03109&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5229.714&lmt=1580604265927689&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAJM7D4JvufrEFKS7_jl-qXvEEivMri3L165FUPyQeRGzAiEA4Z-qGgSGnZu3H49gSrsSyDzjpzXmGXANJprMoMj3i3o=&mip=167.71.204.81&redirect_counter=1&rm=sn-npold7l&req_id=152ff1737d81a3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoeen7y&ms=nxu&mt=1580714600&mv=m&mvi=1&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhAOUjfcLKi6m3VWaxFnWjyu3FWZpn9g286xfah3RnrGZ2AiEAg_7CCgiPmAQJO47PUYNJkjqnA8ukneCW4LcjOoI0O8M%3D
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/01/9YMM2audtZ2Qg0XOg1tW11IkHtV.jpg?resize=60%2C90" group-title="VOD Film BARAT",A Serial Killer’s Guide to Life (2020)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/01/9YMM2audtZ2Qg0XOg1tW11IkHtV.jpg?resize=60%2C90" group-title="VOD Film BARAT",A Serial Killer’s Guide to Life (2020)
 https://r6---sn-npoe7n7y.googlevideo.com/videoplayback?expire=1580723010&ei=Is83Xv2_NeWrz7sPm8ufiAg&ip=2400:6180:0:d1::69c:f001&id=09c21e829e28cb9d&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=4831.190&lmt=1580585677267179&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhALm5MMYsQOGS6VSNZk2J4yfBrJl-Hud_JNSXqliDSK3-AiEAvz-vyyzmcG87_8-jfGwFgwkQvufPYiXRPJluYjQTTbk=&mip=167.71.204.81&redirect_counter=1&rm=sn-npols7d&req_id=60d93ca9f70da3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoe7n7y&ms=nxu&mt=1580715741&mv=m&mvi=5&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgWn88vL4qeLTcvrHnuyc90W0duatMsjhgDhX9Gos2FrYCIQCg95uADQ4-6-B0OA4s3orojVbkyrj7bgA30fFVxBYrHA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2020/01/6uSR3687xtyS207S8nYp1voT9mR.jpg?resize=60%2C90" group-title="VOD Film BARAT",Inmate Zero (2020)
+EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2020/01/6uSR3687xtyS207S8nYp1voT9mR.jpg?resize=60%2C90" group-title="VOD Film BARAT",Inmate Zero (2020)
 https://r4---sn-npoe7nek.googlevideo.com/videoplayback?expire=1580728036&ei=xOI3Xvn5DY2HssUP34mxuAc&ip=2400:6180:0:d1::69c:f001&id=488b01ee2a3eaad4&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6391.733&lmt=1580607520269583&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAPf-f_jv9JktuG4A-Xu16dJrLMkNFyTccNpurPywCLgQAiEAyWptF-m34hhp1Q7iWSFYLyOn1GXcMJvDGQO0eLRZogE=&redirect_counter=1&rm=sn-npoey7z&req_id=d40ebdc8856ca3ee&ipbypass=yes&cms_redirect=yes&mip=167.71.204.81&mm=30&mn=sn-npoe7nek&ms=nxu&mt=1580720720&mv=m&mvi=3&pl=21&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgPNnE3gmXheP_svC0OP_G8lEUTuThrtTXYt66GHvWRJwCIQC9v4hvcJoHxqGg5W9y8tsrXGgshFcjT-PkfRZkpetdEw%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/02/gCAWeTGZ2o48nvNKPb4I7f4GQ5y.jpg?resize=170%2C255" group-title="VOD Film BARAT",John Henry (2020)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/02/gCAWeTGZ2o48nvNKPb4I7f4GQ5y.jpg?resize=170%2C255" group-title="VOD Film BARAT",John Henry (2020)
 https://r3---sn-npoeen7k.googlevideo.com/videoplayback?expire=1580723910&ei=ptI3XpnQH-mFssUPx6y1kA4&ip=2400:6180:0:d1::69c:f001&id=8747ad0edfeb0320&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5519.290&lmt=1580652617096906&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRAIgIcyfoNvhJmsmlsUMEAidxyUK2oTO39ZnppU-HPMySYgCIBRLyYORSmq8JQ_pB8xwvA9GwAXA6pSnU2WAvcrngdPb&cm2rm=sn-npoed7s,sn-npoed7s&req_id=3a93fddb92dca3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npole7s&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoeen7k&ms=ltu&mt=1580716641&mv=m&mvi=2&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIhAIo2ZKMs0qegsClR3C7Hd9Ey5N-PHUECshRs-muM8TwPAiA5u1055Xu2sJJXN5qEmF6iij0EyJzM7QkN_xi9zie3mw%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2020/01/23AsVnUINZpG3v8OiptOeZWTVDt.jpg?resize=60%2C90" group-title="VOD Film BARAT",Bloodhound (2020)
+EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2020/01/23AsVnUINZpG3v8OiptOeZWTVDt.jpg?resize=60%2C90" group-title="VOD Film BARAT",Bloodhound (2020)
 https://r1---sn-npoe7n7z.googlevideo.com/videoplayback?expire=1580720893&ei=3cY3XqqOEKWW1AbEl6LQCg&ip=2400:6180:0:d1::69c:f001&id=899f5b6964e0087c&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=4353.160&lmt=1580588229576080&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAOrpvmkvzfV6vWV1rB306XhjvbSf9FklWm_-oAL205-PAiEAwNZHWfYSOeFm1u-7G_nQLlhLlxNCzbhdU3oLOJNxaas=&mip=167.71.204.81&redirect_counter=1&rm=sn-npoek7e&req_id=bf6aa842c75ea3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoe7n7z&ms=nxu&mt=1580713640&mv=m&mvi=0&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgC_ECKvanH7AWkxxI72IRNt7w-YwgsY0ZcpNi0WBox8sCIF9Xf0R8G3zi-NOMlQFuHpCEHPC1VO8tXQVZlgvnc3Su
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/02/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg?resize=60%2C90" group-title="VOD Film BARAT",Film A Shaun the Sheep: Farmageddon (2019)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/02/p08FoXVFgcRm5QZBaGj0VKa2W2Y.jpg?resize=60%2C90" group-title="VOD Film BARAT",Film A Shaun the Sheep: Farmageddon (2019)
 https://r4---sn-npoe7nek.googlevideo.com/videoplayback?expire=1580719117&ei=7b83XtjcAbWQ1Aait4eAAQ&ip=2400:6180:0:d1::69c:f001&id=c085f00551baab49&itag=37&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5207.469&lmt=1580689464370246&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAPu_DYicCNCNq33IIOT3sY3DmhDliwziQF4leWhZFEV0AiEAq1IYNDdetRtCc_w8g1vwWh1KSdEo0WsqfZJV2Ujbll4=&mip=167.71.204.81&redirect_counter=1&rm=sn-nposr7z&req_id=5c6c86e8438a3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoe7nek&ms=nxu&mt=1580711843&mv=m&mvi=3&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgYhu5aDRSKnvvWJ-m94fTv3A3HpJfj1UyzSI1_6hzz5UCIQDi0TOM5-LMYZgukXNVVJwwNLPhaxsOx-AEMf1WJBjmEg%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2019/10/Ip-Man-4-The-Finale-2019.png?resize=60%2C90" group-title="VOD Film BARAT",Ip Man 4: The Finale (2019)
+EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2019/10/Ip-Man-4-The-Finale-2019.png?resize=60%2C90" group-title="VOD Film BARAT",Ip Man 4: The Finale (2019)
 https://r3---sn-npoe7ney.googlevideo.com/videoplayback?expire=1580723840&ei=YNI3Xr3xN6WW1AbEl6LQCg&ip=2400:6180:0:d1::69c:f001&id=86ba167e63163e7d&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=6101.879&lmt=1580659796863418&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIgRSt95Ug-CxGZdcTflOLVg8G-RnpHLbdCzppreG4hDQgCIQDcHh9iyXYJpreQd1h8opDRe2ypQ_oWU22-TP3szjL6TA==&mip=167.71.204.81&redirect_counter=1&rm=sn-npoz77s&req_id=52b494930478a3ee&cms_redirect=yes&ipbypass=yes&mm=30&mn=sn-npoe7ney&ms=nxu&mt=1580716521&mv=m&mvi=2&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgLL-yzbnhPDq-wkBdMoVjN9nCaWN86ODcQbRMVEoWcRECICgy-e3-JLbLWZ5UcHGz9EE5bSIDe1_nP8yV_mjo5YWq
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/12/db32LaOibwEliAmSL2jjDF6oDdj.jpg?resize=60%2C90" group-title="VOD Film BARAT",Star Wars: Episode IX – The Rise of Skywalker (2019)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/12/db32LaOibwEliAmSL2jjDF6oDdj.jpg?resize=60%2C90" group-title="VOD Film BARAT",Star Wars: Episode IX – The Rise of Skywalker (2019)
 https://r4---sn-npoe7ney.googlevideo.com/videoplayback?expire=1580718279&ei=prw3XvWQHLWQ1Aait4eAAQ&ip=2400:6180:0:d1::69c:f001&id=f171cbebceae3a26&itag=18&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&dur=8048.477&lmt=1580632287705979&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,dur,lmt&sig=ALgxI2wwRQIgV3TTLtUpUrynINP4stA6_-yZQQkWTjN_QzWzlhvlusYCIQDJM8RcXXE8SfvnkRdCL4YW6h5OwFIjEcMc5yVCyeMhjA==&cm2rm=sn-nposl7z,sn-npoz77z&req_id=4b3ac0d6c77a3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npoz77z&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoe7ney&ms=ltu&mt=1580711002&mv=m&mvi=3&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRQIgI8_LRyMZp_izi2oiqwavBsOF54SmAaKRRefqIiQRNIQCIQCd95JkIZuQ4rwbpySoa3-ggnXF-qrhHwVtp70UjuBgbQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2020/01/bHVy3bKsfi8AbVwzelliNBt3SUG.jpg?resize=60%2C90" group-title="VOD Film BARAT",The Assent (2019)
+EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2020/01/bHVy3bKsfi8AbVwzelliNBt3SUG.jpg?resize=60%2C90" group-title="VOD Film BARAT",The Assent (2019)
 https://r3---sn-npoe7n7s.googlevideo.com/videoplayback?expire=1580722247&ei=Jsw3XtzoMemQz7sPvKiWuAE&ip=2400:6180:0:d1::69c:f001&id=698c8d64fc30e34b&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=5266.355&lmt=1580644555290881&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRgIhAMzrsUonqtf6MLgXCZjdqhtcewvMlVUdn7bDe1DPkE_UAiEAzTDkEq7lsHsjrPz-VxoDiXT7ExNJFjCHQOu63YKdS4A=&cm2rm=sn-npozz7s,sn-npozz7s&req_id=e224f96bcda2a3ee&mip=167.71.204.81&redirect_counter=3&rm=sn-npoed7s&cms_redirect=yes&ipbypass=yes&mm=34&mn=sn-npoe7n7s&ms=ltu&mt=1580714959&mv=m&mvi=2&pl=63&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRgIhAOxxeetCJR6nIK5wMenYtSbYQKrDW3nGsUbEvacpwz6IAiEA1tOx71-5YD1VBJjopJ-RUzjojHTrjX2pmKLflkcwrG8%3D
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2020/02/pTZ3eiVBSX6LChecw2iIIir4ndA.jpg?resize=60%2C90" group-title="VOD Film BARAT",The Great Alaskan Race (2019)
+EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2020/02/pTZ3eiVBSX6LChecw2iIIir4ndA.jpg?resize=60%2C90" group-title="VOD Film BARAT",The Great Alaskan Race (2019)
 https://r2---sn-npoe7nlz.googlevideo.com/videoplayback?expire=1580724244&ei=9NM3XsyQCeWrz7sPm8ufiAg&ip=2400:6180:0:d1::69c:f001&id=d528d0b73d727319&itag=22&source=picasa&begin=0&requiressl=yes&sc=yes&ttl=transient&susc=ph&app=fife&mime=video/mp4&cnr=14&dur=2496.446&lmt=1580645439171865&sparams=expire,ei,ip,id,itag,source,requiressl,ttl,susc,app,mime,cnr,dur,lmt&sig=ALgxI2wwRQIhAILuIImUIhI48rMV8hNmJNYR5zor2ZBtbxhFs2L5HvNMAiAm-NqsPVejRmoNhFBnI67o7ad9pfhZoFP8baJI1MNdQQ==&redirect_counter=1&rm=sn-npolk7l&req_id=bb92feaf44a936e2&cms_redirect=yes&ipbypass=yes&mip=180.242.213.123&mm=30&mn=sn-npoe7nlz&ms=nxu&mt=1580721444&mv=m&mvi=1&pl=22&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl,sc&lsig=AHylml4wRAIgeQpkfKp_qsoVHZq50isSFIIMHGO56eCxVZH_CE6CAHYCIC08B0R1L5RB9ogriATCKHCtcbcORLtLUA3RHWiTqBRO
 
 
@@ -1605,35 +1605,35 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/2e72dfe0-9aec-4a58-b9d3
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/VOD/b546df13-c81c-40bb-a61a-f947764a5b9a/a7e4ab17-a5cf-3227-e855-c9907ebb5f13/manifest.mpd
 
 VOD SEGERA TAYANG
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/01/j8MRnCjuN7kpM8w3B5hM5mrvTaE.jpg?resize=152%2C228" group-title="VOD 2020 SEGERA TAYANG",The SpongeBob Movie: Sponge on the Run (2020)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/01/j8MRnCjuN7kpM8w3B5hM5mrvTaE.jpg?resize=152%2C228" group-title="VOD 2020 SEGERA TAYANG",The SpongeBob Movie: Sponge on the Run (2020)
 https://r1---sn-ab5szne7.googlevideo.com/videoplayback?expire=1580734059&ei=C8I3XuW4N5q0hwb-oob4CQ&ip=64.227.14.30&id=o-AFYVLWvuE4FmpuCCrxwmahf21og_E7OH33OvR0fk_VMm&itag=22&source=youtube&requiressl=yes&mm=31%2C26&mn=sn-ab5szne7%2Csn-5ualdnee&ms=au%2Conr&mv=m&mvi=0&pl=23&initcwndbps=376250&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=111.177&lmt=1574577436490204&mt=1580712339&fvip=1&fexp=23842630&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgaiMI8IpKGbSvwBx4Gd7YSI1abj-7qf5PMqdto1F8ndcCIQDjeRfZhiFUotf4xn68cAUOyJjsuD3xBFnhFpa60F24kQ%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhALnsRa7AHZJzWmnn43tvr0Lcos0vtiA_Dm4WjJTAyg7VAiAe3GKpsH8fWuU9Hf89rms5xa3mcfeDHiZ0-hKiOfv-vw%3D%3D&contentlength=37290981&video_id=HfiH_526qhY&title=The+SpongeBob+Movie-+Sponge+on+the+Run+%282020%29+-+Official+Trailer+-+Paramount+Pictures
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2020/01/cyAlYJUrE77k19MoH5pcMakh6YD.jpg?resize=152%2C228" group-title="VOD 2020 SEGERA TAYANG",Scoob! (2020)
+EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2020/01/cyAlYJUrE77k19MoH5pcMakh6YD.jpg?resize=152%2C228" group-title="VOD 2020 SEGERA TAYANG",Scoob! (2020)
 https://r2---sn-2uuxa3vh-2o3l.googlevideo.com/videoplayback?expire=1580734189&ei=jcI3Xt_JGsXL3LUPzPmwuAw&ip=180.242.213.123&id=o-AAjiC3IQH1TYZMBUsALEnigW9744ESigy8spl5cJUvYk&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-2o3l%2Csn-npoe7nlz&ms=au%2Crdu&mv=m&mvi=1&pl=22&initcwndbps=398750&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=159.637&lmt=1573483502326916&mt=1580712460&fvip=2&fexp=23842630&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgaDzt6L3VcwCcBx0bqsCh7ub8B5Hi7q9v6o9snrd2pb8CIQCGo3CbWO5WAWaDjZnc9P4RDKswdQ3q7oaM_VdntoKslw%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAMmYbqSZZFJxvrILZHaA8SPYjoC38dgvdfr4Fn5FJdw6AiAq_QYxhSJgvQ97eOV6sVQwtzRDTC5IY82PTjP5J8L0Hw%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/01/sRhaJ6D3x6gQB0swrV0UDqMwHJu.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",Black Widow (2020)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2020/01/sRhaJ6D3x6gQB0swrV0UDqMwHJu.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",Black Widow (2020)
 https://r4---sn-5nug503g-afve.googlevideo.com/videoplayback?expire=1580721126&ei=ho83XoOMLYnD7QTg3KuICQ&ip=176.118.49.54&id=o-ALz2WJboEUAu7rkbgxS9ruNcJwUhiZvJc7fSWz2Kl922&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-5nug503g-afve%2Csn-3c27sn7k&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=24&nh=%2CIgpwcjAxLmticDAzKgkxMjcuMC4wLjE&initcwndbps=868750&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=128.684&lmt=1577586559054159&mt=1580699445&fvip=17&fexp=23842630%2C23860863&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRAIgZ2ZpGh5BZBWpHV3XPsm54jAdZPRyySzDemB2CgSmhikCIFAXCn8AEJ2PhwnIQWFt2dwTREn_lm7fD77GWV9vFbj-&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cnh%2Cinitcwndbps&lsig=AHylml4wRQIgaE9VnFZttVfXoxoEqcw-pQLBo6TPTsnWz8TT8mUVrr0CIQCfICZCjdCIteUvkXkMTBNQOnI7L5c-8A-p-tiWVCgZ1w%3D%3D&contentlength=9499138&video_id=RxAtuMu_ph4&title=Marvel+Studios%27+Black+Widow+-+Official+Teaser+Trailer
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/12/1JHS96JFKNVROwBVD8nQGhqh5IJ.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",Bloodshot (2020)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/12/1JHS96JFKNVROwBVD8nQGhqh5IJ.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",Bloodshot (2020)
 https://r3---sn-p5qlsnsd.googlevideo.com/videoplayback?expire=1580735427&ei=Y8c3XpfpCfKMhwbxnrrgAw&ip=198.98.56.71&id=17de45936e792383&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-p5qlsnsd%2Csn-p5qs7nes&ms=au%2Crdu&mv=m&mvi=2&pl=21&initcwndbps=135000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=120.929&lmt=1571642484659229&mt=1580713717&fvip=3&fexp=23842630&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgPAVgu3Qaw-tVH8jv6bhFOUVsUGF1ggZ1sTSY-tipNKsCIQDH99dibtlkQZeWDGiPAbZAnYMnghtSvUe8rYdIH3nAPA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAIwPbzllqWxELI8_R-27w3gbe_bKu9gfdyOoeoLCgJczAiAw5Tt3bc4nIJ1WlAjjd4LObD1qs4-tL3n7wCzjcgf1Lg%3D%3D&contentlength=8424242&video_id=F95Fk255I4M&title=BLOODSHOT+%E2%80%93+International+Trailer
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/12/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",Bad Boys for Life (2020)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/12/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",Bad Boys for Life (2020)
 https://r6---sn-p5qlsns6.googlevideo.com/videoplayback?expire=1580722216&ei=yJM3Xrq9MIy2hwb_qYDAAw&ip=179.60.178.170&id=o-AKVkSWm_NqLi7Zivsdv_73KNtNQS_Tj3LjQrVySbXf4l&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-p5qlsns6%2Csn-p5qs7n7d&ms=au%2Crdu&mv=m&mvi=5&pl=23&pcm2=no&initcwndbps=666250&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=165.140&lmt=1578782463422898&mt=1580700517&fvip=6&fexp=23842630&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRAIgaod3HmeGyWai9kGlRHBUzisM2RlubHB6jASnLET3fv8CIBPqCYf0YawTwmUCoL1rQ2b2r9JNHjfk13mziIJCfuQL&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRgIhAK3Er-jN6nQeheoh0J-QQ1iwSgg0vyC9B01qLNKEtic4AiEAm3ZfUGv_jqZolhFNSGNJKli4QztrJvbAeQjHThAWJ-0%3D&contentlength=16107353&video_id=jKCj3XuPG8M&title=BAD+BOYS+FOR+LIFE+-+Official+Trailer
 
-#EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2019/12/pT2cxw776c4DPiFZEy6DFREV7fs.jpg?resize=170%2C255" group-title="VOD 2020 SEGERA TAYANG",Wonder Woman 1984 (2020)
+EXTINF:-1 tvg-logo="https://i0.wp.com/103.194.171.205/wp-content/uploads/2019/12/pT2cxw776c4DPiFZEy6DFREV7fs.jpg?resize=170%2C255" group-title="VOD 2020 SEGERA TAYANG",Wonder Woman 1984 (2020)
 https://r2---sn-2uuxa3vh-2o3l.googlevideo.com/videoplayback?expire=1580735564&ei=7Mc3XrTWMuDHz7sPpZ2h8AY&ip=180.242.213.123&id=o-APESQ9IceaVeBv1zi3SgcNvJPWZLjeEUjxHYX2IR_jsk&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-2o3l%2Csn-npoeeney&ms=au%2Crdu&mv=m&mvi=1&pl=22&initcwndbps=367500&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=144.288&lmt=1579552344965529&mt=1580713893&fvip=5&fexp=23842630&c=WEB&txp=5511222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIhAJKVmltXORiDPEzQq16S22KpsY1zdPKwEYJ33U7SeS4YAiBO3Kth_UzxBLtX-6POrAX7ypNHuumLhzLdLKZzEUUNLA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgKSwuwCOpxQnBA7_fjGEDYoBCteDNxj0OC_gqngMGNg8CIACWSNkg5ZKpDRuXNYNT47SOqIJUEPzIWvWBOLabgtYW
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2019/12/7Su8HBF7HgJdjIh7ZTgRRsWpHj4.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",Mulan (2020)
+EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2019/12/7Su8HBF7HgJdjIh7ZTgRRsWpHj4.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",Mulan (2020)
 https://r2---sn-2uuxa3vh-2o3l.googlevideo.com/videoplayback?expire=1580738925&ei=DdU3XouHEeax1AbExajwDg&ip=180.242.213.123&id=o-AMMoDcz3RqPgfw-c4kqX7ewUKa6Yv8mBIBJnMeUPi19y&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-2o3l%2Csn-npoe7nlz&ms=au%2Crdu&mv=m&mvi=1&pl=22&initcwndbps=380000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=89.187&lmt=1575726207237488&mt=1580717254&fvip=2&fexp=23842630&c=WEB&txp=5432432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgH5mYW7V1aaROyRoV20O0CdpC9CAaXQjE7iNaoaIOz2ECIQDbr88sqKBGgnxRAgl9Aq9aIdhwEKHzNUu-J6T_PtIXCQ%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhAP6sqdAzkiMaSrMxtiNaUGlzhhK0zeew_poHtmwLDGV-AiAFfApBBJ5upBi_VXG0PA0WMLCgthEOVA0zqqiGghNEAA%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/12/vd6w8M7ixwPHmiVauphyGVjkflA.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",No Time to Die (2020)
+EXTINF:-1 tvg-logo="https://i2.wp.com/103.194.171.205/wp-content/uploads/2019/12/vd6w8M7ixwPHmiVauphyGVjkflA.jpg?resize=60%2C90" group-title="VOD 2020 SEGERA TAYANG",No Time to Die (2020)
 https://r1---sn-2uuxa3vh-2o3l.googlevideo.com/videoplayback?expire=1580738988&ei=S9U3XvOwPLK88QOv1LGICw&ip=180.242.213.123&id=o-AHweAYXRc_0jdOdNV22xJB6yGOqUMxWsimu55Gd9cWjh&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-2o3l%2Csn-npoeene7&ms=au%2Crdu&mv=m&mvi=0&pl=22&initcwndbps=380000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=165.279&lmt=1579460303582094&mt=1580717316&fvip=5&fexp=23842630&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgWg1EYXJ6lXftqAgXLxcK0toDKxRWof0xxdpzBqtKSacCIQCPqgx7bE0Fu1OAz1jWWjeMKsPSHsYAh-cDOJRBbTBnWw%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgNA68AFk2mfEh7y9Ub5j-KdkQefgKoORCUSm7Rn1oFzUCIHyKorNqmx_of62Xeh39bIRgMak_zXVQ1tM9AG-78asG
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2019/10/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg?resize=170%2C255" group-title="VOD 2020 SEGERA TAYANG",Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)
+EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2019/10/h4VB6m0RwcicVEZvzftYZyKXs6K.jpg?resize=170%2C255" group-title="VOD 2020 SEGERA TAYANG",Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn (2020)
 https://r2---sn-2uuxa3vh-2o3l.googlevideo.com/videoplayback?expire=1580739136&ei=4NU3XuzxA76FssUP98eEwAY&ip=180.242.213.123&id=o-AHJMNxBIZDxFZs1Lm5vCy5SRaoNGVdwpPqWifzwT80eF&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-2o3l%2Csn-npoeenee&ms=au%2Crdu&mv=m&mvi=1&pl=22&initcwndbps=382500&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=19.713&lmt=1548693452298884&mt=1580717436&fvip=2&fexp=23842630&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgDeLiAiz59KTSoS79ekC3xpNG5KWwpTjgsgp8nM2WhyoCIQDNNXASJLDcmGES6jCg6mJkOjvWil7E2x0RC1xXH226Fg%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AHylml4wRQIhALIcG-1Sg9YXqYSbCR0o8oPaIGYumxNOFVUNq4ugJ-mBAiA6oG5sLCLq_QWfvQuETvv1lwzesaxzyg_f1KGdDKVxRQ%3D%3D
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2019/10/nBPwOKRmvwA6vURmwEUXwpkl9P.jpg?resize=170%2C255" group-title="VOD 2020 SEGERA TAYANG",Sonic the Hedgehog (2020)
-https://r1---sn-2uuxa3vh-2o3l.googlevideo.com/videoplayback?expire=1580739199&ei=H9Y3XrTaI6GHmge_lJq4AQ&ip=180.242.213.123&id=o-AOCKTs8G0Q2Kh6YOd4-Zghcy4V_p96_NN9Pl-SgovgLx&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-2uuxa3vh-2o3l%2Csn-npoeen7d&ms=au%2Crdu&mv=m&mvi=0&pcm2cms=yes&pl=22&initcwndbps=360000&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=171.688&lmt=1580517642037252&mt=1580717500&fvip=4&fexp=23842630&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRAIgVakBubAyzmeUZFmzmSB-YBlCtlxzydjt0A1rYTnAnWUCIEaeBZSPPxRjvZ5yRTNsizYxiCARUqAESCDqOL5FaiO3&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AHylml4wRAIgK138OZuQVwoKnDj9rHM_I6Jw4_Q-OZoPyRzEIX0yWeACIDeLGCOD-goGg8l3bEu2ip4oRgacU6fh-944bjM_Qs6J
+EXTINF:-1 tvg-logo="https://i1.wp.com/103.194.171.205/wp-content/uploads/2019/10/nBPwOKRmvwA6vURmwEUXwpkl9P.jpg?resize=170%2C255" group-title="VOD 2020 SEGERA TAYANG",Sonic the Hedgehog (2020)
+
 
 #EXTINF:-1 tvg-logo="" group-title="VOD 2020 SEGERA TAYANG",
 
