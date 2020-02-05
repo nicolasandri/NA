@@ -1227,16 +1227,16 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Kids/Animation",BOOMERANG
 http://cust.myftp.org:443/MOBEP3i0Vs/v2ZhBBOFGN/3535
 
-#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation" group-title="KIDS",Cartoon Network
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation" group-title="Kids/Animation",Cartoon Network
 http://cust.myftp.org:443/Qa7EySn6at/9Op5qZId7b/23
 
-#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation" group-title="KIDS",Cartoon Network BACKUP
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation" group-title="Kids/Animation",Cartoon Network BACKUP
 http://ok2.se:8000/9961F7UyyKUPj3qW0/eb2aF9ULHJIXjypHk/395
 
-#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation" group-title="KIDS",Cartoon Network BACKUP 2
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation" group-title="Kids/Animation",Cartoon Network BACKUP 2
 http://203.153.218.28:9981/stream/channelid/251475608?ticket=3CBFB27E68B1DFEAB62E7781784EE2C7BFA92754&profile=pass
 
-#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation Cartoon Network FHD ++
+#EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network FHD ++
 http://188.35.9.11:21151/udp/185f
 
 #EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network HD +
