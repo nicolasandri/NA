@@ -552,6 +552,12 @@ https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="MOVIES PREMIUM",AXN Sub Bahasa Indonesia
 http://210.210.155.66/h/h141/02.m3u8
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES PREMIUM", BLUE ANT ENTERTAINMENT
+http://210.210.155.35/dr9445/h/h16/index2.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES PREMIUM", BLUE ANT EXTREME
+http://210.210.155.35/dr9445/h/h15/index2.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIES PREMIUM",Cinemax Sub Bahasa Indonesia (HD) ++
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 
@@ -1716,4 +1722,4 @@ https://
 http://
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" group-title="XXX",Silahkan Chat TELEGRAM Kami https://t.me/ZALTVINDOGENERATOR
-http://
+http:/ / 
