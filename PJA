@@ -604,7 +604,7 @@ https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-m
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 
 #EXTINF:0 tvg-logo="" group-title="MOVIES PREMIUM",FOX Life
-http://93.138.96.14:4001/play/a011
+http://iliketot.dyndns.TV/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/df/FOX_Family_Movies_%282017%29.png" group-title="MOVIES PREMIUM",Fox Family Movies [BACKUP]
 https://www.livedoomovie.com/02_FoxFamilyHD_720p/chunklist.m3u8
