@@ -948,6 +948,55 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DyhfZWKv/Ahsan-Tv.png" group-title="Religi",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/player.m3u8
 
+
+#EXTINF:-1 group-title="EXTRA SPORTS",Euro Sports 1 HD
+http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Euro Sports 2 HD
+http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports NBA
+http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports News
+http://95.170.215.120/hls/m3u8/Bein-Sport-News-ALI-MCR-NGC.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 1 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 2 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS,Bein Sports 3 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 4 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 5 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 6 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 7 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 8 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 9 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 10 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Bein Sports 11 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS,Bein Sports 12 HD
+http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Sky Sports 1 Main Event
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-1HD.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Sky Sports 2 Action
+http://95.170.215.120:80/hls/m3u8/Sky-Sport-action.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Sky Sports 3 Premier League
+http://95.170.215.120:80/hls/m3u8/Sky-Sports-3HD.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Sky Sports 4 Football
+http://95.170.215.120:80/hls/m3u8/Sky-Spo-football.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Sky Sports 5 HD Cricket
+http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",Sky Sports 5 FHD Cricket
+http://95.170.215.120:80/hls/m3u8/Sky-Spor-cricket.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",BT Sports 1 HD
+http://95.170.215.120:80/hls/m3u8/BT-Sport-1HD.m3u8
+#EXTINF:-1 group-title="EXTRA SPORTS",BT Sports ESPN HD
+https://sport7.ws/lba/123/g7/btse.m3u8
 #EXTINF:-1 group-title="EXTRA SPORTS" tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="EXTRA SPORTS" tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2
