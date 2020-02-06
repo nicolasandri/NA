@@ -128,6 +128,9 @@ https://epl-inews.mncnow.id:443/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_9880
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/sctv.png" group-title="LOKAL INDONESIA",SCTV HD
 https://anevia114.mncnow.id:443/live/eds/SCTV/sa_hls/SCTV-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="LOKAL INDONESIA",SCTV BACKUP
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/4yxHG0hM/ninmedia.png" group-title="LOKAL INDONESIA",TABALONG TV
 http://stream1.ninmedia.tv/tabalongtv/udp.stream_360p/playlist.m3u8
 
@@ -1722,4 +1725,4 @@ https://
 http://
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" group-title="XXX",Silahkan Chat TELEGRAM Kami https://t.me/ZALTVINDOGENERATOR
-http:/ / 
+http://
