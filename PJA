@@ -549,34 +549,33 @@ http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2UhKeX.png" group-title="PALESTINE",Watar TV
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 
-nnels/xhga53ls83j/722
-#EXTINF:-1 group-title="OPTION TV",24 HD
+#EXTINF:-1 group-title="MOVIES PREMIUM",24 HD
 http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",iFilm EN
+#EXTINF:-1 group-title="MOVIES PREMIUM",iFilm EN
 http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM", Jackie Chan Movies (Only)
+#EXTINF:-1 group-title="MOVIES PREMIUM", Jackie Chan Movies (Only)
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 2
+#EXTINF:-1 group-title="MOVIES PREMIUM",Movies 2
 https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 3
+#EXTINF:-1 group-title="MOVIES PREMIUM",Movies 3
 http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 6
+#EXTINF:-1 group-title="MOVIES PREMIUM",Movies 6
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 7
+#EXTINF:-1 group-title="MOVIES PREMIUM",Movies 7
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 8
+#EXTINF:-1 group-title="MOVIES PREMIUM",Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 11
+#EXTINF:-1 group-title="MOVIES PREMIUM",Movies 11
 http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 12
+#EXTINF:-1 group-title="MOVIES PREMIUM",Movies 12
 https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",American Horrors
+#EXTINF:-1 group-title="MOVIES PREMIUM",American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",American Horrors BkUp
+#EXTINF:-1 group-title="MOVIES PREMIUM",American Horrors BkUp
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM",CMC TV
+#EXTINF:-1 group-title="MOVIES PREMIUM",CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
-#EXTINF:-1 group-title="MOVIE PREMIUM", Horrified TV
+#EXTINF:-1 group-title="MOVIES PREMIUM", Horrified TV
 https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
 
 
