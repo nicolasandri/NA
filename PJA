@@ -549,6 +549,38 @@ http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2UhKeX.png" group-title="PALESTINE",Watar TV
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 
+nnels/xhga53ls83j/722
+#EXTINF:-1 group-title="OPTION TV",24 HD
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",iFilm EN
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM", Jackie Chan Movies (Only)
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 2
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 3
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 6
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 8
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 11
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",Movies 12
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",American Horrors BkUp
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM",CMC TV
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
+#EXTINF:-1 group-title="MOVIE PREMIUM", Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="MOVIES PREMIUM",AXN True visions Sub Bahasa Indonesia (FHD) ++ 
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 
@@ -1570,6 +1602,7 @@ https://w3.bagicdn.pro/drive//hls/b6dcfc175c0de7bdbc26f564d3c0fdca/b6dcfc175c0de
 #EXTINF:-1 group-title="VOD Film BARAT", Joker (2019)
 https://www.googleapis.com/drive/v3/files/1gdsesv39yVSPlRY7WM9GyJDgTiHkeZv6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 2018
+
 
 #EXTINF:0 tvg-logo"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ-XhQf419kIF0Pz96A6APt1RdnqxgkUvo-nQV0d9knCMTeWkoJ" group-title="VOD Film BARAT",Aquaman Sub Indo (2018)
 https://cdn.cloneapi.icu/drive/index.php?id=f2xMKgGyWw%2B99w1AH%2FnB7wdWJrp0JWnunJwKzadAsT7dFMyKU0mj6yZI5ZYVrdMSmR7Q0tC7FSnwLLL4kQicbGA%2FHnF3%2BEMf6sgbo8bWRFld8%2BLAhwkeSC92F7MSxucVkwtuqzPYUflAXyeBLk1R%2BgpGavA7FQKs330LMVzrcciwjBwTdRot59uh2WXukExIU%3D&ref=https%3A%2F%2Fbos21.bid%2Faquaman%2F&res=default
