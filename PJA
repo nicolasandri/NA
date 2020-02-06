@@ -1130,7 +1130,7 @@ http://wowza58.indostreamserver.com:1935/wesaltv/live/chunklist_w1050078582.m3u8
 http://119.82.224.75:1935/live/ahsantv/player.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="EXTRA SPORT",SPORT ILUSTRATED 
+#EXTINF:-1 tvg-logo="" group-title="EXTRA SPORTS",SPORT ILUSTRATED 
 https://livetvhooq.akamaized.net:443/aead26cfa8f6495c98e63a02d4e2f20e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600461~exp=9007200828341452~acl=/aead26cfa8f6495c98e63a02d4e2f20e/*/profile_0/chunklist.m3u8*~hmac=392ded93cf19d860c6adb4e844992daec4e7c50e7525a525551766b59d3221f1
 
 #EXTINF:-1 group-title="EXTRA SPORTS",Euro Sports 1 HD
