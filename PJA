@@ -1594,8 +1594,8 @@ https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
 
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" 
-group-title="Kids/Animation",LARVA TV http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv 
+#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSn99xMsFA0pQ-0_Gc4ltchIQJIpV8q1Nz7DBWvowR06B_m0Vbz" group-title="Kids/Animation",LARVA TV 
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRYY5Men-2vHQHXWO851wEfeIw9BSK8ij6WMkXK7Wx1m5HZn8qx" group-title="Kids/Animation", KurdMax Papule 
 http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8 
