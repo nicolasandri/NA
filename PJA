@@ -23,6 +23,51 @@ http://
 
 LOKAL LOKAL INDONESIA
 
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",RTV 2 
+https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",ANTV 
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",RCTI 
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8 
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",RCTI 2 
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="LOKAL INDONESIA",INDOSIAR 
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PxbzkpjL/INDOSIAR.png" group-title="BACKUP",LOKAL INDONESIA 2 
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_hls/Indosiar-avc1_1000000=9-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rFsWfYKR/SCTV.png" group-title="LOKAL INDONESIA",SCTV 2
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fLsm5z9M/NETtv.png" group-title="LOKAL INDONESIA",NET TV 2
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",GLOBAL TV 
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8 
+#EXTINF:-1 tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="LOKAL INDONESIA",GTV 2 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",TRANS 7 
+http://id2.indostreamingtv.com/live/trans7/index.m3u8 
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",TRANS 7 2 
+https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",TRANS TV 2 
+https://livetvhooq.akamaized.net:443/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597746~exp=9007200828338737~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_2/chunklist.m3u8*~hmac=f7affc9ab3c5d753e46be5cb9c59599ff9af1992dd034c161ae4831ee9f9bfa9
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",METRO TV HD 
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",KOMPAS TV 
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1 tvg-logo="" group-title="LOKAL INDONESIA",MY TV 
+https://livetvhooq.akamaized.net:443/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
+
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/antv-logo-1955BFF8ED-seeklogo.com.png" group-title="LOKAL INDONESIA",ANTV SD
 https://anevia114.mncnow.id:443/live/eds/ANTV/sa_hls/ANTV-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 
@@ -833,11 +878,130 @@ http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 
 #EXTINF:-1 group-title="MOVIES PREMIUM",ZEE BIOSKOP SERVER 2 (SD)
-https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+https://lizvetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
 
+#EXTINF:-1 group-title="NIMO TV",Tân Ỷ Thiên Đồ Long Ký 2008 
+https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92.flv 
 
-#EXTINF:-1 group-title="NIMO TV",Tân Ỷ Thiên Đồ Long Ký 2008 https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92.flv #EXTINF:-1 group-title="NIMO TV",GAME OF THRONES http://ws.flv.nimo.tv:80/live/su1599512427620r670c57364b4f552f7266695a41fa8534.flv #EXTINF:-1 group-title="NIMO TV",SIÊU ANH HÙNG MARVEL http://ws.flv.nimo.tv:80/live/su1599512427626re02097385902583d031254e5d6f0c321.flv #EXTINF:-1 group-title="NIMO TV",PHIM LÝ LIÊN KIỆT http://tx.flv.nimo.tv:80/live/su1599512427613rc65a6f5bf850525e6b23ec9be1786a8f.flv #EXTINF:-1 group-title="NIMO TV",PHIM THÀNH LONG http://ws.flv.nimo.tv:80/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b.flv #EXTINF:-1 group-title="NIMO TV",PHIM CHÂU TINH CHÌ http://tx.flv.nimo.tv:80/live/su1599512427555r836c741032fe0c717363f3d8165710c2.flv #EXTINF:-1 group-title="NIMO TV",PHIM CHÂU NHUẬN PHÁT http://ws.flv.nimo.tv:80/live/su1599512427566rca27179ff65fc54240079997d10cde93.flv #EXTINF:-1 group-title="NIMO TV",PHIM LƯU ĐỨC HOA http://al.flv.nimo.tv:80/live/su1599512427612r744829c1d0b695d6ec8bedeba71468a0.flv #EXTINF:-1 group-title="NIMO TV",PHIM MR BEAN http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv #EXTINF:-1 group-title="NIMO TV",PHIM TOM CRUISE http://al.flv.nimo.tv:80/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52.flv #EXTINF:-1 group-title="NIMO TV",PHIM WILL SMITH http://ws.flv.nimo.tv:80/live/su1599512427592rd3cda4b1f71d6ff9c85feaa7b1232463.flv #EXTINF:-1 group-title="NIMO TV",PHIM JAME BOND http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv #EXTINF:-1 group-title="NIMO TV",PHIM JOHNNY DEEP http://ws.flv.nimo.tv:80/live/su1599512427599r09d42cd4a2b79345f9434829590db6c3.flv #EXTINF:-1 group-title="NIMO TV",THE FLASH http://ws.flv.nimo.tv:80/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.flv #EXTINF:-1 group-title="NIMO TV",THÁM TỬ SHERLOCK HOME http://tx.flv.nimo.tv:80/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5.flv #EXTINF:-1 group-title="NIMO TV",PHIM TVB http://ws.flv.nimo.tv:80/live/su1599512427611r73a0c72c16428aab689fc60191e9588a.flv #EXTINF:-1 group-title="NIMO TV",THIÊN SỨ BẮT MA http://al.flv.nimo.tv:80/live/su1599512427582ra35f81b322dd6da7977d87650b1863e0.flv #EXTINF:-1 group-title="NIMO TV",PHIM HỌC VIỆN UMBRELLA http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv #EXTINF:-1 group-title="NIMO TV",Diên Hy Công Lược https://ws.flv.nimo.tv/live/su1599512427548r9773230416815566776f512b673586f7.flv #EXTINF:-1 group-title="NIMO TV",Phim Châu Tinh Trì https://ws.flv.nimo.tv/live/su1599512427555r836c741032fe0c717363f3d8165710c2.flv #EXTINF:-1 group-title="NIMO TV",TVB Bằng Chứng Thép https://tx.flv.nimo.tv/live/su1599512427610r8f4bae585a61a8b25d6229cd32f9a6c4.flv #EXTINF:-1 group-title="NIMO TV",TVB Đại Soái Ca https://ws.flv.nimo.tv/live/su1599512427611r73a0c72c16428aab689fc60191e9588a.flv #EXTINF:-1 group-title="NIMO TV",Hài Hoài Linh https://tx.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1.flv #EXTINF:-1 group-title="NIMO TV",Hài Vân Sơn Bảo Liêm https://al.flv.nimo.tv/live/su1599512427607r6166990443e2840d425f385a8df6c4c7.flv #EXTINF:-1 group-title="NIMO TV",Đảo Hải Tặc One Piece https://al.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede.flv #EXTINF:-1 group-title="NIMO TV",Conan Tiếng Việt 1 https://al.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388.flv #EXTINF:-1 group-title="NIMO TV",Conan Tiếng Việt 2 https://al.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e.flv #EXTINF:-1 group-title="NIMO TV",Conan Tập 390-9xx https://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184.flv #EXTINF:-1 group-title="NIMO TV",Doremon Tiếng Việt https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530.flv #EXTINF:-1 group-title="NIMO TV",Doremon Tiếng Việt Tập Dài https://al.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8.flv #EXTINF:-1 group-title="NIMO TV",Hoạt Hình Âu Mỹ Mới Nhất https://ws.flv.nimo.tv/live/su1599512427556r803c8e196969c0688aecbfcf32d604b3.flv #EXTINF:-1 group-title="NIMO TV",Hoạt Hình Nhật Bản https://tx.flv.nimo.tv/live/su1599512427549r5d901db60b2b18139bcd74a8fc670c36.flv #EXTINF:-1 group-title="NIMO TV",Truyện Ma Nguyễn Ngọc Ngạn https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv #EXTINF:-1 group-title="NIMO TV",Tom & Jerry Tiếng Việt https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16.flv #EXTINF:-1 group-title="NIMO TV",Ben 10 Tiếng Việt https://al.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c.flv #EXTINF:-1 group-title="NIMO TV",Anime Hội Pháp Sư https://tx.flv.nimo.tv/live/su1599512427567r44397e42e5c218338dc999412d69a4bc.flv #EXTINF:-1 group-title="NIMO TV",Hunter X Hunter https://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1.flv #EXTINF:-1 group-title="NIMO TV",Dragon Ball Z Tiếng Việt https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb.flv #EXTINF:-1 group-title="NIMO TV",Gameshow Nhật Bản https://al.flv.nimo.tv/live/su1599512427579r077464ff4416f164a4316f3ec87be5d8.flv #EXTINF:-1 group-title="NIMO TV",Giọng Ải Giọng Ai KOREA https://ws.flv.nimo.tv/live/su1599512427552r6613f3cb4ffb5a74123c2b4c30a05049.flv #EXTINF:-1 group-title="NIMO TV",Live-Liên Quân (Match Only) https://vtbd.vn.data.garena.tv/hls/213154/954367.m3u8
+#EXTINF:-1 group-title="NIMO TV",GAME OF THRONES 
+http://ws.flv.nimo.tv:80/live/su1599512427620r670c57364b4f552f7266695a41fa8534.flv 
 
+#EXTINF:-1 group-title="NIMO TV",SIÊU ANH HÙNG MARVEL 
+http://ws.flv.nimo.tv:80/live/su1599512427626re02097385902583d031254e5d6f0c321.flv 
+
+#EXTINF:-1 group-title="NIMO TV",PHIM LÝ LIÊN KIỆT 
+http://tx.flv.nimo.tv:80/live/su1599512427613rc65a6f5bf850525e6b23ec9be1786a8f.flv
+
+#EXTINF:-1 group-title="NIMO TV",PHIM THÀNH LONG 
+http://ws.flv.nimo.tv:80/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b.flv
+
+#EXTINF:-1 group-title="NIMO TV",PHIM CHÂU TINH CHÌ 
+http://tx.flv.nimo.tv:80/live/su1599512427555r836c741032fe0c717363f3d8165710c2.flv 
+
+#EXTINF:-1 group-title="NIMO TV",PHIM CHÂU NHUẬN PHÁT 
+http://ws.flv.nimo.tv:80/live/su1599512427566rca27179ff65fc54240079997d10cde93.flv 
+
+#EXTINF:-1 group-title="NIMO TV",PHIM LƯU ĐỨC HOA 
+http://al.flv.nimo.tv:80/live/su1599512427612r744829c1d0b695d6ec8bedeba71468a0.flv 
+
+#EXTINF:-1 group-title="NIMO TV",PHIM MR BEAN 
+http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv 
+
+#EXTINF:-1 group-title="NIMO TV",PHIM TOM CRUISE 
+http://al.flv.nimo.tv:80/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52.flv 
+
+#EXTINF:-1 group-title="NIMO TV",PHIM WILL SMITH h
+ttp://ws.flv.nimo.tv:80/live/su1599512427592rd3cda4b1f71d6ff9c85feaa7b1232463.flv 
+
+#EXTINF:-1 group-title="NIMO TV",PHIM JAME BOND 
+http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv 
+
+#EXTINF:-1 group-title="NIMO TV",PHIM JOHNNY DEEP 
+http://ws.flv.nimo.tv:80/live/su1599512427599r09d42cd4a2b79345f9434829590db6c3.flv 
+
+#EXTINF:-1 group-title="NIMO TV",THE FLASH 
+http://ws.flv.nimo.tv:80/live/su1599512427625r1b2b320b004694b1ca38eb84c95aed8a.flv 
+
+#EXTINF:-1 group-title="NIMO TV",THÁM TỬ SHERLOCK HOME 
+http://tx.flv.nimo.tv:80/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5.flv 
+
+#EXTINF:-1 group-title="NIMO TV",PHIM TVB 
+http://ws.flv.nimo.tv:80/live/su1599512427611r73a0c72c16428aab689fc60191e9588a.flv 
+
+#EXTINF:-1 group-title="NIMO TV",THIÊN SỨ BẮT MA 
+http://al.flv.nimo.tv:80/live/su1599512427582ra35f81b322dd6da7977d87650b1863e0.flv
+
+#EXTINF:-1 group-title="NIMO TV",PHIM HỌC VIỆN UMBRELLA 
+http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
+
+#EXTINF:-1 group-title="NIMO TV",Diên Hy Công Lược 
+https://ws.flv.nimo.tv/live/su1599512427548r9773230416815566776f512b673586f7.flv
+
+#EXTINF:-1 group-title="NIMO TV",Phim Châu Tinh Trì 
+https://ws.flv.nimo.tv/live/su1599512427555r836c741032fe0c717363f3d8165710c2.flv
+
+#EXTINF:-1 group-title="NIMO TV",TVB Bằng Chứng Thép 
+https://tx.flv.nimo.tv/live/su1599512427610r8f4bae585a61a8b25d6229cd32f9a6c4.flv 
+
+#EXTINF:-1 group-title="NIMO TV",TVB Đại Soái Ca 
+https://ws.flv.nimo.tv/live/su1599512427611r73a0c72c16428aab689fc60191e9588a.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Hài Hoài Linh 
+https://tx.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Hài Vân Sơn Bảo Liêm 
+https://al.flv.nimo.tv/live/su1599512427607r6166990443e2840d425f385a8df6c4c7.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Đảo Hải Tặc One Piece 
+https://al.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Conan Tiếng Việt 1 
+https://al.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Conan Tiếng Việt 2 
+https://al.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Conan Tập 390-9xx 
+https://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Doremon Tiếng Việt 
+https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Doremon Tiếng Việt Tập Dài 
+https://al.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Hoạt Hình Âu Mỹ Mới Nhất 
+https://ws.flv.nimo.tv/live/su1599512427556r803c8e196969c0688aecbfcf32d604b3.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Hoạt Hình Nhật Bản 
+https://tx.flv.nimo.tv/live/su1599512427549r5d901db60b2b18139bcd74a8fc670c36.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Truyện Ma Nguyễn Ngọc Ngạn 
+https://ws.flv.nimo.tv/live/su1599512427596rff1cf51a332632f6e97db346b153156e.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Tom & Jerry Tiếng Việt 
+https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Ben 10 Tiếng Việt 
+https://al.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Anime Hội Pháp Sư 
+https://tx.flv.nimo.tv/live/su1599512427567r44397e42e5c218338dc999412d69a4bc.flv
+
+#EXTINF:-1 group-title="NIMO TV",Hunter X Hunter 
+https://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1.flv
+
+#EXTINF:-1 group-title="NIMO TV",Dragon Ball Z Tiếng Việt 
+https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb.flv
+
+#EXTINF:-1 group-title="NIMO TV",Gameshow Nhật Bản 
+https://al.flv.nimo.tv/live/su1599512427579r077464ff4416f164a4316f3ec87be5d8.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Giọng Ải Giọng Ai KOREA 
+https://ws.flv.nimo.tv/live/su1599512427552r6613f3cb4ffb5a74123c2b4c30a05049.flv 
+
+#EXTINF:-1 group-title="NIMO TV",Live-Liên Quân (Match Only) 
+https://vtbd.vn.data.garena.tv/hls/213154/954367.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ggjJiDw.png" group-title="24/7 MANDARIN",24/7 Friends
 http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
