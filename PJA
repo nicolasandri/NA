@@ -593,7 +593,7 @@ http://htvint.mada.ps:8889//salamtv/tracks-v1a1/mono.m3u8
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="MOVIES MOVIES PREMIUM",CLUBING TV
+#EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",CLUBING TV
 https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES PREMIUM",AWESOME 
