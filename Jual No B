@@ -454,6 +454,53 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/43/1f/30/431f304ffc30e02e2097177bbb17732a.jpg" group-title="HIBURAN",Paramount (SD)
 http://tv.minhalista.me:80/rodrigo125/rodrigo125/37062
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Prime_Asia_Television.png" group-title="HIBURAN",PRIME ASIA
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/9b/Screen_RED_%28logo%29.jpg/200px-Screen_RED_%28logo%29.jpg" group-title="HIBURAN" ,RED BY HBO TH (HD)
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://i2.wp.com/eclipsemagazine.com/wp-content/uploads/2015/11/syfy-logo-484_0.jpg" group-title="HIBURAN",SYFY BACKUP (FHD)
+http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/339
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i.jpg" group-title="HIBURAN",TvN MOVIES Sub Bahasa Indonesia (HD) ++
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="HIBURAN",THRILL Sub Bahasa Indonesia (SD)
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://seeklogo.com/images/T/tlc-logo-774E9A4AB6-seeklogo.com.png" group-title="HIBURAN",TLC (HD)
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=1981674C314C36B2D6DC729D2DBC6899FFB1D65C&profile=pass
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tlc-logo-774E9A4AB6-seeklogo.com.png" group-title="HIBURAN",TLC Sub Bahasa Indonesia (HD) ++
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
+
+#EXTINF:0 tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2013/01/drphil08.jpg" group-title="HIBURAN",USA Network (SD)
+http://158.69.228.135:8000/nataren/5ihvz77x/3938
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="HIBURAN",WARNER TV Sub Indonesia (SD)
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/1200px-WOWOW_logo.svg.png" group-title="HIBURAN",WOWOW JP (SD)
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rEGFjekBTRot3LmIlYTJr82xWBI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-ee9d39.jpg" group-title="HIBURAN",ZEE BIOSKOP Bahasa Indonesia (SD)
+https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rEGFjekBTRot3LmIlYTJr82xWBI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-ee9d39.jpg" group-title="HIBURAN",ZEE BIOSKOP SERVER 2 (SD)
+https://lizvetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
