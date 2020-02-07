@@ -22,12 +22,36 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/87h7lXcsWiNNo1RKwx6VlVyglVU=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg" group-title="TV NASIONAL",GLOBAL TV 
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV NASIONAL",TV ONE SD
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/tvone.png" group-title="TV NASIONAL",TV ONE SD
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV NASIONAL",TV ONE SD
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/tvone.png" group-title="TV NASIONAL",TV ONE SD
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="TV NASIONAL",TV ONE BACKUP
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/tvone.png" group-title="TV NASIONAL",TV ONE BACKUP
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/trans7.png" group-title="TV NASIONAL",TRANS 7 
+http://id2.indostreamingtv.com/live/trans7/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/trans7.png" group-title="TV NASIONAL",TRANS 7 BACKUP
+https://livetvhooq.akamaized.net:443/659beb5e22754dcb90ffd25247be6627/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597561~exp=9007200828338552~acl=/659beb5e22754dcb90ffd25247be6627/*/profile_2/chunklist.m3u8*~hmac=36e36a66dc72a44d109f8e5036284cc3f32f77eee042f8475362acd67ff40834
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/metro.png" group-title="TV NASIONAL",METRO TV HD
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qxdGgm-5lY5NBnMIkrTashjf6Hk=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5409/inews-tv-stream-966ec1.jpg" group-title="TV NASIONAL",INEWS
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/net.png" group-title="TV NASIONAL",NET TV
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn-image.bisnis.com/posts/2014/09/17/258065/rajawali-tv-sep.jpg" group-title="TV NASIONAL",RAJAWALI TV 
+https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
+
+
+
+
+
+
 
