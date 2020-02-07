@@ -25,11 +25,8 @@ https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/tvone.png" group-title="TV NASIONAL",TV ONE SD
 https://livetvhooq.akamaized.net:443/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1573597436~exp=9007200828338427~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_2/chunklist.m3u8*~hmac=4ee84b00deb7c571a099059b60b98fea70033a603996d9091fe00244acd56f79
 
-#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/tvone.png" group-title="TV NASIONAL",TV ONE SD
-http://id1.indostreamingtv.com/live/tv444/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/tvone.png" group-title="TV NASIONAL",TV ONE BACKUP
-https://liveanevia.mncnow.id/live/eds/TVOne/sa_hls/TVOne.m3u8
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/trans7.png" group-title="TV NASIONAL",TRANS 7 
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
@@ -49,9 +46,8 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-
 #EXTINF:-1 tvg-logo="https://cdn-image.bisnis.com/posts/2014/09/17/258065/rajawali-tv-sep.jpg" group-title="TV NASIONAL",RAJAWALI TV 
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085873~exp=9007200826826864~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_1/chunklist.m3u8*~hmac=252a726bb20fdb977834f11d3b83aa67138e81da32ef16b763a871e5ed767748
 
+#EXTINF:-1 tvg-logo="https://asset.kompas.com/data/photo/2015/11/16/0707365kompast780x390.jpg" group-title="TV NASIONAL",KOMPAS TV
+https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572085928~exp=9007200826826919~acl=/cb5c7e6573b94277ae32a38d821865e5/*/profile_1/chunklist.m3u8*~hmac=d3a569bae5e46a62af82a7409ca830e92aed0285184735a245a7678572c02a18
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l78iIvjt8Gxr-PCnkemxwIwsrcxX3C4lMIngvQ=s900-c-k-c0xffffffff-no-rj-mo" group-title="TV NASIONAL",RUANG TERAMPIL
+https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
