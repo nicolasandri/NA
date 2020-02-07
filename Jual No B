@@ -127,8 +127,6 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
 SPORTS
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORTS",FightSports
-https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2R303x.png" group-title="SPORTS",BT SPORT 1 HD
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
@@ -160,8 +158,6 @@ https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5d/ac/89/5dac89cb6be153d89c874fef0e86649c.png" group-title="SPORTS",SKYNET SPORT 6
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS",True Sport 1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORTS",REAL MADRID TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
@@ -169,6 +165,9 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORTS",True Sport 1
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1071.png" group-title="SPORTS",True Sport 2
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
@@ -232,5 +231,101 @@ http://163.172.85.133:8080/TenS/3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/ufc-tv-logo-FAC9E3D4D8-seeklogo.com.png" group-title="SPORTS",UFC HD
 http://78.141.211.61:4000/8
+
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",FightSports
+https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN", Jackie Chan Movies (Only 24/7)
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 1 Sub Mandarin 24/7
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 2 Sub Mandarin 24/7
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 3 Sub Mandarin 24/7
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 4 Sub Mandarin 24/7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 5 Sub Mandarin 24/7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 6 Sub Mandarin 24/7
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 7 Sub Mandarin 24/7
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/studiostoks/studiostoks1511/studiostoks151100145/49133328-awesome-comic-bubble-retro-text-pop-art-style.jpg" group-title="HIBURAN",AWESOME 
+https://livetvhooq.akamaized.net:443/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTExNjYwMzI2Ml5BMl5BanBnXkFtZTgwMDQwNjQ5NjE@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="HIBURAN",FAIL ARMY
+https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
+
+#EXTINF:-1 tvg-logo="https://img.dtnext.in/Images/Article/201710132113170314_IISL-launches-Nifty-index-to-track-SDL-securities-market_SECVPF.gif" group-title="HIBURAN",NIFTY 
+https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
+
+#EXTINF:-1 tvg-logo="https://www.eventmanagerblog.com/wp-content/uploads/2018/10/350x215-FEAT-in-post-Entertainment.jpg" group-title="HIBURAN",ENTERTAINMENT 
+https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
+
+#EXTINF:-1 group-title="HIBURAN",24 HD
+http://51.158.190.97/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="HIBURAN",American Horrors
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="HIBURAN",American Horrors BkUp
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_HorrifiedTV-1.jpg" group-title="HIBURAN", Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="HIBURAN",AXN Sub Bahasa Indonesia (FHD) ++ 
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="HIBURAN",AXN Sub Bahasa Indonesia SD
+http://210.210.155.66/h/h141/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2018/04/BAentertainment_tile.jpg" group-title="HIBURAN", Blue Ant Entertainment Sub Bahasa Indonesia
+http://210.210.155.35/dr9445/h/h16/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2018/04/BAextreme.jpg" group-title="HIBURAN", Blue Ant Extrime Sub Bahasa Indonesia
+ttp://210.210.155.35/dr9445/h/h15/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HIBURAN",Cinemax Sub Bahasa Indonesia (HD) ++
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HIBURAN",Cinemax Sub Bahasa Indonesia (HD) +
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg" group-title="HIBURAN",CRIME INVESTIGATION Sub Indonesia (SD)
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gzCEYJZFd07vJO7M6fhuyJCNG-o=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/515023/celestial-movies-heaven-in-the-dark-941656.jpg" group-title="HIBURAN",Celestial Movies Sub Bahasa Indonesia (SD) BACKUP
+https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gzCEYJZFd07vJO7M6fhuyJCNG-o=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/515023/celestial-movies-heaven-in-the-dark-941656.jpg" group-title="HIBURAN",Celestial Movies Sub Bahasa Indonesia  (SD)
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
