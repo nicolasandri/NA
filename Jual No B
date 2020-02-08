@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://s3.bukalapak.com/img/3260985564/w-1000/IPTV__PREMIUM_ZALTV.png" group-title="INTRO", SELAMAT IDUL ADHA
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pp36pz7_tiM/XU5js9wcIKI/AAAAAAAAIag/Y6bKMklaZZYGdBjSfCzg9n6aovo01a9IACLcBGAs/s400/idul-adha.jpg" group-title="INTRO", SELAMAT IDUL ADHA
 https://github.com/nicolasandri/NA/blob/master/video_2020-02-08_13-30-17.mp4?raw=true
 
 TV NASIONAL
@@ -123,7 +123,7 @@ https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png" group-title="Lokal",CANEL NEWS ASIA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1046658239641702401/zbO8TOZI.jpg" group-title="LOKAL INDONESIA",MI TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1046658239641702401/zbO8TOZI.jpg" group-title="Lokal",MI TV
 http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="Lokal",THE INDONESIA CHANEL
@@ -745,7 +745,7 @@ http://rr2.dens.tv/s/s41/index2.m3u8
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4LQWb7rIO1g/V-C6O5351ZI/AAAAAAAAfcg/O75Ckiv8yV4EuftFUL4tl_NLiKSQZj25wCLcB/s1600/i-am-channel-tv-logo.png" group-title="Religi",I AM Channel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79fVJh7_EtF_ZfW0R-2Txoo-Bozg0vcjcr_fA=s240-c-k-c0xffffffff-no-rj-mo" group-title="LOKAL INDONESIA",NABAWI TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79fVJh7_EtF_ZfW0R-2Txoo-Bozg0vcjcr_fA=s240-c-k-c0xffffffff-no-rj-mo" group-title="Religi",NABAWI TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
 
    
@@ -1215,3 +1215,4 @@ https://cdn-mxs-01.akamaized.net/Content/HLS/VOD/ddccc5e3-0677-490c-8821-9edc054
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J7pBxRfW/mola.png" group-title="VOD Film Indonesia",REVIEW PREMIER LEAGUE FHD
 https://cdn02.mola.tv/Content/HLS/VOD/397ce7ab-d730-4ea9-b867-0e0a023f68ae/72f5c641-ccb4-018f-21f8-6f718d8ade2c/Stream(07)/index.m3u8
+
