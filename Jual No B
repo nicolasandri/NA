@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-logo="https://s3.bukalapak.com/img/3260985564/w-1000/IPTV__PREMIUM_ZALTV.png" group-title="INTRO", SELAMAT IDUL ADHA
+https://github.com/nicolasandri/NA/blob/master/video_2020-02-08_13-30-17.mp4?raw=true
+
 TV NASIONAL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV SD
@@ -93,7 +96,7 @@ https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5
 #EXTINF:-1 logo="https://i.imgur.com/L7zyP1A.png" group-title="Lokal",ID KU
 https://livetvhooq.akamaized.net/8d310f35fdf349daab8e0610161060f1/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048854~exp=9007200826789845~acl=/8d310f35fdf349daab8e0610161060f1/*/profile_1/chunklist.m3u8*~hmac=eb90616605948f62a0c512ed38cdd06b0f5cf7bce0fee578df3441455b550da6
 
-#EXTINF:-1 logo="https://i.imgur.com/KavU6qK.png" group-title="Lokal",RUANG TAMPIL
+#EXTINF:-1 logo="https://i.imgur.com/KavU6qK.png" group-title="Lokal",RUANG TERAMPIL
 https://livetvhooq.akamaized.net/b1b6d552c80f4ef78bd4c10bfb32268d/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048870~exp=9007200826789861~acl=/b1b6d552c80f4ef78bd4c10bfb32268d/*/profile_1/chunklist.m3u8*~hmac=d953442254a991bd90234bddbdec85c2ebd07648d38983e23e541e31e7993cc9
 
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTguKCaILnxa7Bd1oz6VDh7ojLDg8QtKqWVbxpOmKNqwArlE-g1" group-title="Lokal",AREMA TV
@@ -102,11 +105,26 @@ http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w1920962254.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Lokal",Mugos
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/tC7nmLbn/firstm.png" group-title="Lokal",FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7zDyS4U.png" group-title="Lokal",MyTV
 https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/skrz1j8exe/intv_576p/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://lh5.googleusercontent.com/proxy/wT_3KKdt6stynnbYnU_L-4r9V4OcPB24Y-h2lf_jPqYo-3jq_lJwSmzo67WdnzRt3hxykxGtyz_n352bXrn9pHNlFr04_vUuXutimdtopyWXESDQtai7sMWnDQsHR77SqlCN" group-title="Lokal",JAKARTA GLOBE HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Lokal",JGO SD
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/8/8e/JTV_%282012%29.svg/1200px-JTV_%282012%29.svg.png" group-title="Lokal",JTV SURABAYA HD
+https://livetvhooq.akamaized.net/ae74dfdacfc1474ebacda1990c3dc338/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1578737355~exp=9007200833478346~acl=/ae74dfdacfc1474ebacda1990c3dc338/*/profile_0/chunklist.m3u8*~hmac=38fffe01dee4cdd681554c4a989a37ce79cb84f3d782a9ba5dd8997ddf403d67&hdnts=st=1578737356~exp=1578737476~acl=/*~id=69e868e0-65de-48a7-a997-65e76560ba94~data=36.75.70.213~hmac=8a97806bfb9c8ccb8bb2e6af1a63ffde0cedf4d14618ca0d3e7c8cd80fd10c6f
+
 #EXTINF:-1 tvg-logo="https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/8786976/16x9/991/557/b5725ccd88967cbdbc70aa882ad1c3b5/fk/cna-default-image.png" group-title="Lokal",CANEL NEWS ASIA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1046658239641702401/zbO8TOZI.jpg" group-title="LOKAL INDONESIA",MI TV
+http://stream2.ninmedia.tv/mitv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://eagle.industry.co.id/uploads/berita/detail/1103.png" group-title="Lokal",THE INDONESIA CHANEL
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
@@ -726,6 +744,10 @@ http://rr2.dens.tv/s/s41/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-4LQWb7rIO1g/V-C6O5351ZI/AAAAAAAAfcg/O75Ckiv8yV4EuftFUL4tl_NLiKSQZj25wCLcB/s1600/i-am-channel-tv-logo.png" group-title="Religi",I AM Channel
 http://iamchannel.org:1935/tes/1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/a/AGF-l79fVJh7_EtF_ZfW0R-2Txoo-Bozg0vcjcr_fA=s240-c-k-c0xffffffff-no-rj-mo" group-title="LOKAL INDONESIA",NABAWI TV
+http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
+
    
 #EXTINF:-1 tvg-logo="https://www.tahfizh.tv/img/logottv_front.png" group-title="Religi",Tahfizh Tv
 http://119.235.249.58:1935/tahfidztv/live/chunk.m3u8
@@ -1093,18 +1115,6 @@ https://video-sin6-2.xx.fbcdn.net/v/t39.24130-2/10000000_1106930519648692_569120
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon : Kereta Api Nobita
 https://video-sin6-2.xx.fbcdn.net/v/t39.24130-2/10000000_188605672219213_1236359466075839218_n.mp4?_nc_cat=110&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_p2p=0&_nc_ohc=btvdJJyW950AX-ORy_0&_nc_ht=video-sin6-2.xx&oh=d1e95770e259a99e9a759b0b7f3a9182&oe=5ED62D1B
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon : Aku Cinta Kamu
