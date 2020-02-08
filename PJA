@@ -2745,5 +2745,6 @@ https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Netflix LIVE Movies 18
 https://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/0jbvhGZyHkQ8xnY1Vzx9x603fPg=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2923780/original/014120800_1569567162-danurr1.jpg" group-title="VOD Indo Request",Danur 3 (2019)
+http://download1649.mediafire.com/l9v0jwd2npzg/zl9vqesxwt01xd0/DANUR+3.mp4
 
