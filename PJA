@@ -42,7 +42,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
 
 #EXTINF:-1 tvg-ID="" tvg-name="Indosiar.id" group-title="TV NASIONAL" tvg-logo="https://macan.live/img/indosiar.png", INDOSIAR
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=JCfcT1aJ&v=20200202
+https://etslive-2-vidio-com.akamaized.net/exp=1581426305~acl=/hls-p/ingest_205_*/*~hmac=50307a87af788cf89fd3bab5419f1e8bea519845d1f35c375c34dc8ae6297205/hls-p/ingest_205_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="TV NASIONAL",MNC TV HD
