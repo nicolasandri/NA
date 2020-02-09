@@ -1,2 +1,4 @@
-#EXTINF:-1 tvg-ID="" tvg-name="NetTV.id" group-title="TESTER" tvg-logo="https://macan.live/img/net.png", CHINESE DRAMA
+#EXTINF:-1 tvg-ID="" tvg-name="NetTV.id" group-title="TESTER" tvg-logo="", CHINESE DRAMA
 https://cdnkbl2.useetv.com/joss/14/chinesedrama/chunklist_w1865968042_b684100_sleng.m3u8?enc=8n92jKb5ARM58kO2DaGvlA&exp=1581292253
+#EXTINF:-1 tvg-ID="" tvg-name="NetTV.id" group-title="TESTER" tvg-logo="", CGTN
+https://cdnmdc2.useetv.com/joss/14/cgtndocumentary/chunklist_w129055112_b684100_sleng.m3u8?enc=EJTO9ONVayeGN_k1A8Zk7w&exp=1581292589
