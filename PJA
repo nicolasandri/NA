@@ -23,7 +23,6 @@ http://
 http://
 
 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV SD
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 
@@ -41,6 +40,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="TV NASIONAL",INDOSIAR HD
 http://203.153.218.28:9981/stream/channelid/261435212?ticket=4006885A62AC6F6CF48BE55E87E506C848CBFDB6&profile=pass
+
+#EXTINF:-1 tvg-ID="" tvg-name="Indosiar.id" group-title="TV NASIONAL" tvg-logo="https://macan.live/img/indosiar.png", INDOSIAR
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=JCfcT1aJ&v=20200202
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="TV NASIONAL",MNC TV HD
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
