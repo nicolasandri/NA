@@ -28,7 +28,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1581455695~acl=/hls-p/ingest_6482_
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",LOVE NATURE
 https://etslive-2-vidio-com.akamaized.net/exp=1581455788~acl=/hls-p/ingest_geo_6635_*/*~hmac=b4ff80a24cc0ebc9c28e692d16cfe01af24955ab697bf3c18de407ab331e9dd9/hls-p/ingest_geo_6635_720p/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",BEIN SPORT 1
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",TV 1
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",TV 2
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
