@@ -16,12 +16,17 @@ https://etslive-2-vidio-com.akamaized.net/exp=1581455137~acl=/hls-b/ingest_geo_6
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",CITRA DANGDUT
 https://etslive-2-vidio-com.akamaized.net/exp=1581455233~acl=/hls-b/ingest_geo_6587_*/*~hmac=cfb4864dd05c634f26257cd0a7f79cd80079862630a56c89bf90967e2bc04b2c/hls-b/ingest_geo_6587_720p/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",DA VINCI
+https://etslive-2-vidio-com.akamaized.net/exp=1581455503~acl=/hls-p/ingest_geo_6549_*/*~hmac=ed41c99bc821f6eef45831862b48543da01ca9964bcea884c48c5294f5b5f1ae/hls-p/ingest_geo_6549_720p/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+https://etslive-2-vidio-com.akamaized.net/exp=1581455630~acl=/hls-b/ingest_geo_6533_*/*~hmac=c2ed9fd440191c0d222f2ed3798b85ff2511566d44312ad269397b961962e4bd/hls-b/ingest_geo_6533_720p/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
-#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",DAAI TV
+https://etslive-2-vidio-com.akamaized.net/exp=1581455695~acl=/hls-p/ingest_6482_*/*~hmac=3d66b3ca3816734489de72938a6de8816f1e998f6f77e3906e58a8603daef223/hls-p/ingest_6482_720p/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",LOVE NATURE
+https://etslive-2-vidio-com.akamaized.net/exp=1581455788~acl=/hls-p/ingest_geo_6635_*/*~hmac=b4ff80a24cc0ebc9c28e692d16cfe01af24955ab697bf3c18de407ab331e9dd9/hls-p/ingest_geo_6635_720p/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
