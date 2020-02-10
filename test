@@ -30,6 +30,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1581455788~acl=/hls-p/ingest_geo_6
 
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",TV 1
 https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",TV 2
-https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",RTM SPORT
+https://rtm6hd.secureswiftcontent.com/Origin2/ngrp:RTM2/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
