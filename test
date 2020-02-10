@@ -30,6 +30,6 @@ https://etslive-2-vidio-com.akamaized.net/exp=1581455788~acl=/hls-p/ingest_geo_6
 
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",BEIN SPORT 1
 http://stream.tvtap.live:8081/live/tr-bein1.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDIwIDU6NDI6MTYgQU0maGFzaF92YWx1ZT1JcUNrdTkvT2dqMFhLa0lHbFRkZE1BPT0mdmFsaWRtaW51dGVzPTIw
-#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",TV 3
-https://rtm1hd.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",TV 2
+https://rtm5hd.secureswiftcontent.com/Origin1/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
