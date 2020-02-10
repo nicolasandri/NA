@@ -19,7 +19,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1581455233~acl=/hls-b/ingest_geo_6
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",DA VINCI
 https://etslive-2-vidio-com.akamaized.net/exp=1581455503~acl=/hls-p/ingest_geo_6549_*/*~hmac=ed41c99bc821f6eef45831862b48543da01ca9964bcea884c48c5294f5b5f1ae/hls-p/ingest_geo_6549_720p/index.m3u8
 
-#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",ZOO MO
 https://etslive-2-vidio-com.akamaized.net/exp=1581455630~acl=/hls-b/ingest_geo_6533_*/*~hmac=c2ed9fd440191c0d222f2ed3798b85ff2511566d44312ad269397b961962e4bd/hls-b/ingest_geo_6533_720p/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",DAAI TV
