@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-ID="" tvg-name="NetTV.id" group-title="TESTER" tvg-logo="", CHINESE DRAM
-
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="", Champions 2
+https://etslive-2-vidio-com.akamaized.net/exp=1581454388~acl=/hls-p/ingest_geo_6686_*/*~hmac=bb89c163bf9f0dc0f57461fbf8bff219b6c8c7874123cf6b6340639e92740bcf/hls-p/ingest_geo_6686_720p/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="", Champions 1
 https://etslive-2-vidio-com.akamaized.net/exp=1581453941~acl=/hls-p/ingest_geo_6685_*/*~hmac=1cf1acf22a63eea41b0474482093c40cfe6439d7e1d1e7e893096228a6e046af/hls-p/ingest_geo_6685_720p/index.m3u8
