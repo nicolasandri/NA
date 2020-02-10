@@ -10,6 +10,16 @@ https://etslive-2-vidio-com.akamaized.net/exp=1581454563~acl=/hls-b/ingest_geo_6
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",CITRA BIOSKOP
 https://etslive-2-vidio-com.akamaized.net/exp=1581454812~acl=/hls-b/ingest_geo_6684_*/*~hmac=24b6a8c039d9b2a297aebb60a4cf3737bfc2a6700f8fe112e190090eff3d71fe/hls-b/ingest_geo_6684_720p/index.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",NEWS ASIA
+https://etslive-2-vidio-com.akamaized.net/exp=1581455137~acl=/hls-b/ingest_geo_6411_*/*~hmac=10550c9f6b67a57984faab28b2e2563888a1dfd23a3b0c0bf0d9abb27141f003/hls-b/ingest_geo_6411_720p/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",CITRA DANGDUT
+https://etslive-2-vidio-com.akamaized.net/exp=1581455233~acl=/hls-b/ingest_geo_6587_*/*~hmac=cfb4864dd05c634f26257cd0a7f79cd80079862630a56c89bf90967e2bc04b2c/hls-b/ingest_geo_6587_720p/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
