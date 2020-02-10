@@ -6,3 +6,12 @@ https://etslive-2-vidio-com.akamaized.net/exp=1581453941~acl=/hls-p/ingest_geo_6
 
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="", CITRA DRAMA
 https://etslive-2-vidio-com.akamaized.net/exp=1581454563~acl=/hls-b/ingest_geo_6678_*/*~hmac=b2b7742739192fbc387bd34253aaad9575ccffba4e934bbf53544d0bbb176033/hls-b/ingest_geo_6678_720p/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",CITRA BIOSKOP
+https://etslive-2-vidio-com.akamaized.net/exp=1581454812~acl=/hls-b/ingest_geo_6684_*/*~hmac=24b6a8c039d9b2a297aebb60a4cf3737bfc2a6700f8fe112e190090eff3d71fe/hls-b/ingest_geo_6684_720p/index.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="TESTER" tvg-logo="",
