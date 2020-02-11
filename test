@@ -1,4 +1,1453 @@
-#EXTM3U  
+#EXTM3U
+#EXTINF:-1 =========kids==========
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Club" tvg-logo="" group-title="Anak2 BKC&IC",Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior" tvg-logo="" group-title="Anak2 BKC&IC",Disney Junior
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="Anak2 BKC&IC",Aniplus
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="Anak2 BKC&IC",Animax
+http://210.210.155.35:80/dr9445/h/h144/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Kids" tvg-logo="" group-title="Anak2 BKC&IC",My Kids
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior Indonesia" tvg-logo="" group-title="Anak2 BKC&IC",Disney Junior Indonesia
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="" group-title="Anak2 BKC&IC",BABY TV
+http://iliketot.dyndns.tv:80/7773f3cef0334a28ad248552ea63d9e7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6NDU6MzEgUE0maGFzaF92YWx1ZT00ZlpSSlNNZERpZW16MWMrQmlVSjJnPT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkwNXx1cGxheXwxNTMyMzUzNTMxfDExMC4xNjkuMTI4LjE3MA==
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="" group-title="Anak2 BKC&IC",Animax
+http://210.210.155.35:80/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Kids" tvg-logo="" group-title="Anak2 BKC&IC",My Kids
+http://210.210.155.35/qwr9ew/s/s30/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior ID" tvg-logo="" group-title="Anak2 BKC&IC",Disney Junior ID
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="" group-title="Anak2 BKC&IC",ANIMAX
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="" group-title="Anak2 BKC&IC",ANIPLUS
+http://45.126.83.51/dr9445/h/h02/01.m3u8
+#EXTINF:-1 group-title="Kids"tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",DAVINCI LEARNING
+http://45.126.83.51/uq2663/h/h01/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",Duck TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",Toonmax
+http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",SATKIDS
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",ANIBOX
+http://118.216.60.93:9981/stream/channelid/1283187329
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",POP
+https://streamingserver001.viewtvgroup.com/kapanglivetv-uksat-pop/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",FULL KIDS
+http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",BABY TV
+http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",DISNEY JUNIOR
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",DUCK TV
+http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",GONGMAX_TV
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Anak2" tvg-logo="" group-title="Anak2 BKC&IC",EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1,==========Lokal Indo==========
+#EXTINF:-1 tvg-id="" tvg-name="Usee" tvg-logo="" group-title="Lokal Indo BKC&IC",Usee Photo
+https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566771~exp=9007200824307762~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_2/chunklist.m3u8*~hmac=d444d67dbe78b01ffba4e087441366bd8243619ec7724cde63d884707c5a2cf9
+#EXTINF:-1 tvg-id="" tvg-name="Usee" tvg-logo="" group-title="Lokal Indo BKC&IC",Usee Prime
+https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1569566690~exp=9007200824307681~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_2/chunklist.m3u8*~hmac=cc4223b8bfbb07d175ad755bd540d8f9f273de2b47c7ddb69470a49c4be61140
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="Lokal Indo BKC&IC",RCTI
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",RCTI HD
+https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC" tvg-logo="" group-title="Lokal Indo BKC&IC",MNC
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",MNC HD
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="G TV" tvg-logo="" group-title="Lokal Indo BKC&IC",G TV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",GLOBAL TV HD
+https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="Lokal Indo BKC&IC",SCTV
+http://202.80.222.178/000001/2/ch15010918464887721048/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",SCTV HD
+http://202.80.222.178/000001/2/ch15010918464887721048/1001.m3u8?IASHttpSessionId=OTT1120820181124231541055276&ztecid=ch15010918464887721048&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch15010918464887721048&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjUvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="Lokal Indo BKC&IC",INDOSIAR
+http://202.80.222.179/000001/2/ch15051810235326945512/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="Lokal Indo BKC&IC",ANTV
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="" group-title="Lokal Indo BKC&IC",NET TV
+http://202.80.222.170/000001/2/ch00000090990000001723/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="" group-title="Lokal Indo BKC&IC",TRANS TV
+http://202.80.222.174/000001/2/ch14041511552652254306/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV HD" tvg-logo="" group-title="Lokal Indo BKC&IC",TRANS TV HD
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="" group-title="Lokal Indo BKC&IC",TRANS7
+http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7 HD" tvg-logo="" group-title="Lokal Indo BKC&IC",TRANS 7 HD
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JAK TV" tvg-logo="" group-title="Lokal Indo BKC&IC",JAK TV
+http://202.80.222.169:80/000001/2/ch00000090990000001695/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="RAJAWALI TV" tvg-logo="" group-title="Lokal Indo BKC&IC",RAJAWALI TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="INEWS" tvg-logo="" group-title="Lokal Indo BKC&IC",INEWS
+http://202.80.222.171:80/000001/2/ch14041511541532132975/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="TV Nasional" tvg-logo="" group-title="Lokal Indo BKC&IC",TV Nasional
+http://210.210.155.35/session/2c64ecb2-b724-11e8-9332-b82a72d63267/qwr9ew/s/s11/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Banten" tvg-logo="" group-title="Lokal Indo BKC&IC",TV Banten
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",TATV SOLO
+http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",TEGAR TV JOGJA
+http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="Lokal Indo BKC&IC",TVRI
+http://tvristream-i.akamaihd.net/hls/live/761941/akamai-tvri/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI 3 BUDAYA" tvg-logo="" group-title="Lokal Indo BKC&IC",TVRI 3 BUDAYA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR LIGA SHOPEE" tvg-logo="" group-title="Lokal Indo BKC&IC",INDOSIAR LIGA SHOPEE
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="" group-title="Lokal Indo BKC&IC",BERITA SATU
+http://202.80.222.130/000001/2/ch00000090990000001683/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="" group-title="Lokal Indo BKC&IC",Kompas TV
+http://202.80.222.182/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV HD" tvg-logo="" group-title="Lokal Indo BKC&IC",Metro TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu News" tvg-logo="" group-title="Lokal Indo BKC&IC",Berita Satu News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV HD" tvg-logo="" group-title="Lokal Indo BKC&IC",METRO TV HD
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w729486727_b1492000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA HD" tvg-logo="" group-title="Lokal Indo BKC&IC",CNN INDONESIA HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA HD" tvg-logo="" group-title="Lokal Indo BKC&IC",CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI HD" tvg-logo="" group-title="Lokal Indo BKC&IC",TVRI HD
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia HD" tvg-logo="" group-title="Lokal Indo BKC&IC",Channel News Asia HD
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu World" tvg-logo="" group-title="Lokal Indo BKC&IC",Berita Satu World
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jakarta Globe News" tvg-logo="" group-title="Lokal Indo BKC&IC",Jakarta Globe News
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/chunklist_b2352000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",INEWS+
+https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INTV" tvg-logo="" group-title="Lokal Indo BKC&IC",INTV
+http://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BALI TV" tvg-logo="" group-title="Lokal Indo BKC&IC",BALI TV
+http://202.80.222.171/000001/2/ch00000090990000001729/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="DANGDUT" tvg-logo="" group-title="Lokal Indo BKC&IC",DANGDUT
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ELSHINTA" tvg-logo="" group-title="Lokal Indo BKC&IC",ELSHINTA
+http://210.210.155.35/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV SURABAYA" tvg-logo="" group-title="Lokal Indo BKC&IC",JTV SURABAYA
+http://202.80.222.175/000001/2/ch00000090990000001731/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="THE INDONESIA CHANNEL" tvg-logo="" group-title="Lokal Indo BKC&IC",THE INDONESIA CHANNEL
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="" group-title="Lokal Indo BKC&IC",TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="" group-title="Lokal Indo BKC&IC",CNBC INDONESIA
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",OPTATIVE CAHAYA BANTEN
+http://103.23.201.170:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",OPTATIVE  JEMBER1 TV
+http://wowza60.indostreamserver.com:1935/jember1tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",TV9 - LOCAL
+http://202.80.222.130/000001/2/ch00000000000000001522/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",DAAI TV - LOCAL
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",MNC NEWS - NEWS
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",MNC ENTERTAINMENT - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch14041511585459217880/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",AUTO GADGET
+http://202.80.222.130/000001/2/ch15060913243195524436/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",MNC LIFESTYLE - LIFESTYLE
+http://202.80.222.130/000001/2/ch14042115455097827083/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",INFOTRAINMENT - ENTERTAINMENT
+http://202.80.222.130/000001/2/ch14041512001060787776/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,==========movies==========
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",ASTRO1
+http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",ASTRO2
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",AXN [ID]
+http://210.210.155.35/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Hits [ID]
+http://45.126.83.51/uq2663/h/h37/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",&Flix HD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",&Pictures
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",&PRIVE HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",&TV
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",9 Life
+http://203.122.193.228:9981/stream/channelid/470360276
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",9X0
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",ABC News Australia
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/50345bf35f664739912f0b255c172ae9/index_1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",AFC
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",ANIMAL PLANET
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",AnimalPlanet
+https://live.dufree4k.net/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",ARIRANG
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Arirang
+http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",Arirang Korea
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",Arte
+http://163.172.43.207:8081/arte/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=ECA7CCC0E97969AF75820D9971228C677309CAA8&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",Asian Food Channel
+http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",ASTV News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",AXN
+https://live.dufree4k.net/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",AXN HD
+https://live.dufree4k.net/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",AXN HD
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",BBC Lifestyle
+http://203.207.56.228/live/iptv002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",BBC One
+http://185.254.160.4:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",BBC World News
+http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",BFM Lyon
+http://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",BFM Paris
+http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",BLOOMBERG TV ASIA
+http://45.126.83.51/uq2663/h/h03/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",Blue Ant Entertaiment
+http://210.210.155.35/dr9445/h/h16/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",BLUE ANT ENTERTAIMENT
+http://210.210.155.35:80/session/64482514-73b6-11e9-aa69-b31e84bc1f0f/dr9445/h/h16/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",BLUE ANT ENTERTAINMENT
+http://210.210.155.35/dr9445/h/h16/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Blue Ant Extreme
+http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",BLUE ANT EXTREME
+http://210.210.155.35:80/session/4cb2a5fa-73b6-11e9-be41-bd7db160af63/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",BS Channel
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",BTV NEWS
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",BuzzFeed Nitfy
+https://livetvhooq.akamaized.net/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1570264327~exp=9007200825005318~acl=/1648324ea85b498897752a6385bb5e08/*/profile_2/chunklist.m3u8*~hmac=3a96a28cb85cecc6d483141e1a488e43c1bdcbf8dcceb265a13ca59a641ab271
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Cafe 24
+http://srv3.meway.tv:1957/cafe/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium  BKC&IC",CELESTELIAL MOVIES
+http://210.210.155.35/session/a715f4e6-9b45-11e9-9bf9-852092ef5539/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Celestial Classic Movie
+http://iliketot.dyndns.TV/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Celestial Movie
+http://210.210.155.35:80/session/18437ccc-73b6-11e9-9278-9c128a7729b7/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",CELESTIAL MOVIES
+http://203.207.56.228/live/iptv008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",CELESTIAL MOVIES
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",CGTN Documentary
+http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",Channel News Asia
+http://210.210.155.35/session/35be7296-7b7a-11e8-8077-c81f66f89318/uq2663/h/h29/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",Channel News Asia HD
+https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",CINEMA INDONESIA
+http://210.210.155.35:80/session/670515de-73b9-11e9-8f02-846587341add/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",CINEMA WORLD
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",CINEMA WORLD
+http://210.210.155.35:80/session/04357d66-73b6-11e9-a26c-8746b55a6579/uq2663/h/h04/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Cinema World
+http://210.210.155.35/uq2663/h/h04/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",CINEMAX
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Cinemax
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",CNA
+http://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",CNBC International
+http://203.153.218.28:9981/stream/channelid/1744735983?ticket=07E4904EDFA549D56E57107CB6140923FE593775&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",CNN International
+http://203.153.218.28:9981/stream/channelid/1328589592?ticket=3F51EE4F59F75B214C132FBC6D457D6E252DB447&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",CNN PHILIPPINES
+http://54.251.134.121:1935/live/15273.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",COMEDY CENTRAL
+http://iliketot.dyndns.tv/2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",Ctv
+http://103.23.201.170:1935/live/livestream/lihattv.m3u8?CTV
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",DiscoveryChannel
+https://live.dufree4k.net/02_DiscoveryChannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",DIVA
+http://45.126.83.51/uq2663/h/h11/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",DIVA
+http://210.210.155.35/uq2663/h/h11/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",DIVA BACKUP
+http://210.210.155.35:80/session/86a166a8-73b5-11e9-a368-9305b20a7284/uq2663/h/h11/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",Do Channel
+https://edge1a.v2h-cdn.com/appt3/DoChannel.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",Dongnan TV
+http://223.110.241.130:6610/cntv/live1/dongnanstv/dongnanstv
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",DW (English)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",DW TV
+http://45.126.83.51/qwr9ew/s/s26/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",DW TV Deutsch
+http://210.210.155.35/qwr9ew/s/s26/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",E!
+http://203.207.56.228/live/iptv003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",E! HD
+http://210.210.155.35/uq2663/h/h10/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",E! HD
+http://45.126.83.51/uq2663/h/h10/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",EGG HD
+http://210.210.155.35/uq2663/h/h22/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Egg Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Entertainment Weekly
+https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1570264298~exp=9007200825005289~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_1/chunklist.m3u8*~hmac=e0409ef837fa3ae9b2fd8a0c4304e80eb761afd5d1580b8257888d6eaac74a17
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Esan TV
+https://edge1a.v2h-cdn.com/appt3/EsanTV.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",ETV Marche
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",Euro News
+http://45.126.83.51/qwr9ew/s/s15/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",Euro News
+http://210.210.155.35/qwr9ew/s/s15/index.m3u8?Euro-News
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",EUROSPORT ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch21)/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Fail Army
+https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1570264531~exp=9007200825005522~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_2/chunklist.m3u8*~hmac=55024406393c8e2267e95b6978a4479be8cd62d93821073ec4fc7f90969651d6
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Family Gekijo
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Fashion TV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8?Fashion-TV
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8?Fashion-TV-Midnight
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Fashion TV Paris
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",Fine Living
+http://70.32.0.9:5000/live/543/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",First Movie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",Food My Recipes
+https://livetvhooq.akamaized.net/d7236670539144e0a5df0b8fa7a0c5c1/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1570264475~exp=9007200825005466~acl=/d7236670539144e0a5df0b8fa7a0c5c1/*/profile_0/chunklist.m3u8*~hmac=113d2c8fce5c53bb675720b941b70c7a1bee5a01529d4041868efa3372a0c045
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",Food Network
+http://95.86.32.7:999/food
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",FOODIE
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=43267CB65373CDE0D29D967CA3C63DDEBB591EB2&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",FOX
+http://203.207.56.228/live/iptv036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FOX ACTION MOVIES
+http://203.207.56.228/live/iptv015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",FOX ACTION MOVIES
+http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FOX CINEMA PREMIUM
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FOX CRIME
+http://iliketot.dyndns.tv/48773319e9324602b258e3f1d33ec111.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=39C98E4111054C7CF2A242280A406A438219FEA8&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FOX HD
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",FOX LIFE
+http://iliketot.dyndns.tv/65f7358b813048a0898f5677e1793cf9.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Fox Movies
+http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",FOX Movies
+http://203.207.56.228/live/iptv017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Fox Movies
+https://live.dufree4k.net/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FOX Movies Premium
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FoxActionHD
+https://live.dufree4k.net/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",FoxActionHD_TH
+https://live.dufree4k.net/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FoxCrimeHD
+https://live.dufree4k.net/02_FoxCrimeHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FoxFamilyHD_TH
+https://live.dufree4k.net/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FoxMovies
+https://live.dufree4k.net/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",FoxMovies_TH
+https://live.dufree4k.net/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FoxThai_TH
+https://live.dufree4k.net/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",France 2
+http://163.172.43.207:8081/france2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",France 24
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",France 24
+http://210.210.155.35/qwr9ew/s/s22/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",France 3
+http://163.172.43.207:8081/france3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",France 4
+http://163.172.43.207:8081/france4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",France 5
+http://163.172.43.207:8081/france5/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",France Ô
+http://163.172.43.207:8081/franceo/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FX
+http://iliketot.dyndns.tv/2e0e4b05aa6e428593f3b45b710045b7.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",FXThailand
+https://live.dufree4k.net/02_FXThailand_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",Gem TV Asia
+http://210.210.155.35/session/9e3c6d0c-8b95-11e8-98cf-b82a72d63267/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Golf HD
+https://live.dufree4k.net/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",GPR TV
+http://stream1.ninmedia.tv/gprtv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",H2 HD
+https://live.dufree4k.net/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",Happy TV
+https://edge1a.v2h-cdn.com/appt3/Happy.stream_360p/chunklist_w478520521.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",HBO
+http://161.0.157.5:80/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HBO 2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",HBO Family
+http://203.153.218.28:9981/stream/channelid/1316004766?ticket=3547FD40F49265BE63B0163ACBB40914F5C7BD1C&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",HBO FAMILY
+http://203.207.56.228/live/iptv004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HBO HD
+https://live.dufree4k.net/02_HBOHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",HBO HD
+http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HBO Hits
+http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",HBO Hits
+https://live.dufree4k.net/02_HBOHit_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HBO HOME
+http://109.248.236.41:4433/udp/238.1.1.71:1234
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HBO Signature
+http://203.207.56.228/live/iptv006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",HBO Signature
+http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",HBO Signature
+https://live.dufree4k.net/02_HBOSignature_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HBO2
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HD Fashion Lifestyle (Buffering)
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8?HD-Fashion
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Hi! HD
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:hich/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HISTORY CHANNEL
+http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",History Channel
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",History Channel [Jap]
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",HISTORY HD
+https://live.dufree4k.net/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",HITS
+http://210.210.155.35/uq2663/h/h37/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",HITS
+http://45.126.83.51/uq2663/h/h37/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",HITS
+http://210.210.155.35:80/session/65ec035a-73b5-11e9-b55c-a0bcb43577ab/uq2663/h/h37/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",HOME & LIVING
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",INQUIRER TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",J'Go
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",J'Go TV
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",JITV
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",K Drama
+http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",K+
+http://210.210.155.35/uq2663/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",K+
+http://45.126.83.51/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",K-DRAMA
+http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",K-Drama
+http://210.210.155.35/qwr9ew/s/s42/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",KBS World
+http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",KIX
+http://45.126.83.51/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",KIX
+http://210.210.155.35:80/session/46537a82-73b5-11e9-b184-bc13955efa7d/uq2663/h/h07/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",LEEEKO TV
+http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",LIFE TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Luxe TV
+http://210.210.155.35/x6bnqe/s/s65/S4/mnf.m3u8?Luxe
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",Monde Lifestyle HD
+http://210.210.155.35/uq2663/h/h01/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",MY CINEMA
+http://45.126.83.51:80/session/b43b928c-73b5-11e9-9699-89a9bbbc92d4/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",My Cinema
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",NAT GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",NAT GEO
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",NAT GEO
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",Nat Geo HD
+https://live.dufree4k.net/02_NatGeoHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Nat Geo HD_TH
+https://live.dufree4k.net/02_NatGeoHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",Nat Geo People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",Nat Geo People
+http://203.207.56.228/live/iptv035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",NAT GEO PEOPLE
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",NAT GEO People
+http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",nat geo people
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",NAT GEO WILD
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",NAT GEO Wild
+http://203.153.218.28:9981/stream/channelid/1497533758?ticket=36B439E64C5884A941F9938AD9373C4B849363BA&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",NAT GEO WILD
+http://203.207.56.228/live/iptv007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium pengetahuan BKC&IC",National Geographic
+http://203.207.56.228/live/iptv018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",National Geographic
+http://iliketot.dyndns.tv/850a8ca433184938bfaeaf770abc5d7a.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",National Geographic
+http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",NBC
+http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",NEWS 24
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",News Asia
+http://210.210.155.35/uq2663/h/h29/index.m3u8?rizkizakaria/NewsAsia
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",NewsMax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",NEXT TV HD
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",NHK
+https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1180.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",NHK World
+http://210.210.155.35/uq2663/h/h23/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",NHK World
+http://45.126.83.51/uq2663/h/h23/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",NTB Ch
+http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium  asia BKC&IC",OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",ONE 31
+http://183.182.100.184/live/onehd/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",ONE HD
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",People Are Awesome
+https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1570264629~exp=9007200825005620~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_2/chunklist.m3u8*~hmac=175806042b733b731586eafb7f8576d64dce2e6203df832e9c05715f3f26e593
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",People Television Parental
+https://livetvhooq.akamaized.net/4eaf42ab69674747bb29bcec85582fe7/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1570264422~exp=9007200825005413~acl=/4eaf42ab69674747bb29bcec85582fe7/*/profile_2/chunklist.m3u8*~hmac=db0556cd3fe06c3af5264e69bcd33adce255a967912c4bb9caed183ba0490c33
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",Phoenix News
+http://210.210.155.35/session/6c182bb6-7b7a-11e8-b712-b82a72d63267/qwr9ew/s/s21/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",Phoenix News
+http://45.126.83.51/qwr9ew/s/s21/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium asia BKC&IC",PILIPINAS HD
+https://d3cbe0gidjd4k2.cloudfront.net/channel_5/channel5/chunklist_w1001324973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Planet Hollywood 1 HD
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Planet Hollywood 2 HD
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",POP LIFE
+https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",Rai 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",Rai 5
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",RAI MOVIE
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",Rai News 24
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Red by HBO
+https://live.dufree4k.net/02_RedbyHBO_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",S GEM
+http://210.210.155.35/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",S Gem HD
+http://210.210.155.35/uq2663/h/h19/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",SABAIDEE TV
+http://stream.rs.co.th/sbd-low/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",SBS Plus
+https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",SBS Star
+https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",Shenzhen TV
+http://111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",SHOP TV
+https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Sinema Indonesia
+http://210.210.155.35/x6bnqe/s/s71/S4/mnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",Sky News
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",Sony One
+http://45.126.83.51/uq2663/h/h143/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",SONY SET ONE
+http://210.210.155.35/uq2663/h/h13/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Star Movies HD
+http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",Sumrujlok
+https://live.dufree4k.net/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",Telenovela TV
+http://210.210.155.35/x6bnqe/s/s81/S4/mnf.m3u8?Telenovela-TV
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",THRILL
+http://45.126.83.51/qwr9ew/s/s34/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium  backup BKC&IC",THRILL
+http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",TIC
+http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",TLC
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",TMZ
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",TRT World
+http://210.210.155.35/x6bnqe/s/s72/S4/mnf.m3u8?TRT-World
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",True4U
+http://183.182.100.184/live/true4u/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",TrueFilmHD1
+https://live.dufree4k.net/02_TrueFilmHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",TrueFilmHD2
+https://live.dufree4k.net/02_TrueFilmHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium euro BKC&IC",TV 5 MONDE
+http://45.126.83.51/qwr9ew/s/s24/index2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",TV5 Monde Asia
+http://210.210.155.35/qwr9ew/s/s24/index.m3u8?TV5-Monde-Asia
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium news BKC&IC",TVBS News HD
+http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",TVN Movies
+http://203.207.56.228/live/iptv009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",UNTV
+https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",V Asahi
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",VASANTHAM
+http://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Warner TV
+http://203.207.56.228/live/iptv033.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",WarnerTV HD
+https://live.dufree4k.net/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",WOWOW MOVIES
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",YOU CHANNEL
+http://stream.rs.co.th/you-hi/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium korea BKC&IC",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Zee Action
+http://pockettv.xyz/api/zee.m3u8?c=action
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",ZEE BIOSKOP
+http://210.210.155.35/session/6429f88c-c312-11e8-b712-b82a72d63267/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium backup BKC&IC",ZEE BIOSKOP
+http://210.210.155.35:80/session/228f03c8-73b5-11e9-b788-c81f66f89318/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Zee TV
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Zee World
+http://pockettv.xyz/api/zee.m3u8?c=world
+#EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="Freemium BKC&IC",Zhejiang TV
+http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
+
+#EXTINF:-1,=========SPORTS==========
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5" tvg-logo="" group-title="Olahraga BKC&IC",CCTV-5
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="" group-title="Olahraga BKC&IC",CCTV-5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY TEN1
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34486
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY TEN2
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34485
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY TEN3
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34484
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY ESPN
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34495
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY SIX
+http://tvservice.pro:80/913626569407/vkmKaokKtNMqGcH/34494
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",DSport-India
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SUPER SOCCER
+http://210.210.155.35:80/session/3bd9c080-65b8-11e9-b0d8-b82a72d63267/uq2663/h/h20/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",FIGHT SPORT TV
+http://210.210.155.35:80/session/d7fa003a-65bb-11e9-9057-c81f66f89318/uq2663/h/h05/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY SIX
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/23932
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY TEN1
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/23924
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY TEN2
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/23923
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY TEN3
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/23922
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",SONY ESPN
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/23933
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",STARs1
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/23926
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",STARs2
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/23927
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",STAR1
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/23928
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",STAR3
+http://www.pandar.tv:25461/024790789525/xCvQUKdMsJvpEzI/23925
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",LIGA SHOPEE
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", SPORT USEE1
+https://dl.dropbox.com/s/tqi79tjnbz5lamq/usee%201.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", SPORT USEE2
+https://dl.dropbox.com/s/7l3ux95sdwmo8r5/usee2.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Bein1
+https://dl.dropbox.com/s/u8oh442ukjpgkhp/Bein1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Bein2
+https://dl.dropbox.com/s/9yg519ysnqs90k4/Bein2.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",Skynet Sport HD
+https://live.dufree4k.net/03_skynetsporthd_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",Skynet Sport 1
+https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",Skynet Sport 2
+https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",Skynet Sport 3
+https://live.dufree4k.net/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",Skynet Sport 4
+https://live.dufree4k.net/03_skynetsport4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",Skynet Sport 5
+https://live.dufree4k.net/03_skynetsport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",Skynet Sport 6
+https://live.dufree4k.net/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",True Premier Football HD 1
+https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",True Premier Football HD 2
+https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",True Premier Football HD 3
+https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",True Premier Football HD 4
+https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC",True Premier Football HD 5
+https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Usee sport hd(hw+)
+https://dl.dropbox.com/s/tqi79tjnbz5lamq/usee%201.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Usee sport 2 HD
+https://dl.dropbox.com/s/7l3ux95sdwmo8r5/usee2.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Champions HD
+https://dl.dropbox.com/s/ix25yd8h8h9u887/champions1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Champions2 HD
+https://dl.dropbox.com/s/6vrv6280uhispnv/Champions2.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Bein 1 HD
+https://dl.dropbox.com/s/u8oh442ukjpgkhp/Bein1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Bein 2 HD
+https://dl.dropbox.com/s/9yg519ysnqs90k4/Bein2.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Super soccer
+https://dl.dropbox.com/s/d0t4o4tsv0n5zgf/TVNmov.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Usee sport hd bc
+https://dl.dropbox.com/s/tqi79tjnbz5lamq/usee%201.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Usee sport 2 hd bc
+https://dl.dropbox.com/s/7l3ux95sdwmo8r5/usee2.m3u8?dl=0
+#EXTINF:-1tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Super soccer bc
+https://dl.dropbox.com/s/d0t4o4tsv0n5zgf/TVNmov.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Olahraga" tvg-logo="" group-title="Olahraga BKC&IC", Sport News bc
+https://dl.dropbox.com/s/u8oh442ukjpgkhp/Bein1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Skynet 1" tvg-logo="" group-title="Olahraga BKC&IC",Skynet 1
+https://live.dufree4k.net/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Skynet 2" tvg-logo="" group-title="Olahraga BKC&IC",Skynet 2
+https://live.dufree4k.net/03_skynetsport2_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Skynet 6" tvg-logo="" group-title="Olahraga BKC&IC",Skynet 6
+https://live.dufree4k.net/03_skynetsport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Motor Sports 1" tvg-logo="" group-title="Olahraga BKC&IC",Motor Sports
+https://dl.dropbox.com/s/rlbh9h2rbzn2u1m/foxsport1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Motor Sports 3" tvg-logo="" group-title="Olahraga BKC&IC",Motor Sports
+https://dl.dropbox.com/s/9qxu4a3oh6epn9e/foxsport3.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Motor GP" tvg-logo="" group-title="Olahraga BKC&IC",Moto GP
+https://sportbar.biz/lba/Zjk1MDcxMDFhMTA5OTE2ZjA2ZjA3MTY4MzhiNjlkNGI=/g3/ukbt2sport.m3u8?token=Zjk1MDcxMDFhMTA5OTE2ZjA2ZjA3MTY4MzhiNjlkNGI=&id=ZWE2MTM4ZTc3ZmFkMzUxMTY2MzU2ZGVmMGE3OTA3ZWU=&vip=1566626679&dip=ZGExMDQzMTY3Y2VhZWFkMWM4ODY3NjIxZDNkZjFhN2M=&pip=36.71.232.85&hip=NWQ5MTQ1ZTcyNDIwYzIyZTVmZjg5MmUwZDE2NDhiOTg=
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1" tvg-logo="" group-title="Olahraga BKC&IC",Liga 1 Indonesia 
+http://203.153.218.28:9981/stream/channelid/261435212?ticket=748568625C8EBE38FE7B3EBFBBBE8CF3C32A6301&profile=pass
+#EXTINF:-1 tvg-id="" tvg-name="PremiereHD1" tvg-logo="" group-title="Olahraga BKC&IC",PremierHD1
+https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere HD2" tvg-logo="" group-title="Olahraga BKC&IC",PremierHD2
+https://live.dufree4k.net/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PremiereHD3" tvg-logo="" group-title="Olahraga BKC&IC",PremierHD3
+https://live.dufree4k.net/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PremiereHD4" tvg-logo="" group-title="Olahraga BKC&IC",PremierHD4
+https://live.dufree4k.net/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="" group-title="Olahraga BKC&IC",Bundesliga ch. 1
+https://dl.dropbox.com/s/rlbh9h2rbzn2u1m/foxsport1.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="" group-title="Olahraga BKC&IC",Bundesliga ch. 2
+https://dl.dropbox.com/s/8do2ge2qhjurgca/foxsport2.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="" group-title="Olahraga BKC&IC",Bundesliga ch. 3
+https://dl.dropbox.com/s/9qxu4a3oh6epn9e/foxsport3.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga" tvg-logo="" group-title="Olahraga BKC&IC",Bundesliga ch. 4
+https://sportbar.biz/lba/YTQzZmIzZGVlYTkxMDE0YjkxNzY1ZTA5OGI4ZWUwMmE=/g2/btuk1.m3u8?token=YTQzZmIzZGVlYTkxMDE0YjkxNzY1ZTA5OGI4ZWUwMmE=&id=ZWQ0MDFlNDg4ZGRkMTUzMWQ2YTRjZGQ4M2JkZmVmMWM=&vip=1567334490&dip=YWQzMTA3ZjIzMWIzNTljYTdiZjFhMzJmODQ0MjNlZGM=&pip=118.96.202.8&hip=ZTBkNjA5YWQwYjBlNzVkZjE5NDBhNTE1NjJmNzdkMDY=
+#EXTINF:-1 tvg-id="" tvg-name="Serie A" tvg-logo="" group-title="Olahraga BKC&IC",Serie A
+https://dl.dropbox.com/s/tjlkcxhgdb29dul/beib2.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-name="Channel 1" tvg-logo="" group-title="Olahraga BKC&IC",Channel 1
+https://sportbar.biz/lba/YTQzZmIzZGVlYTkxMDE0YjkxNzY1ZTA5OGI4ZWUwMmE=/g6/ukrfoot1.m3u8?token=YTQzZmIzZGVlYTkxMDE0YjkxNzY1ZTA5OGI4ZWUwMmE=&id=ZWQ0MDFlNDg4ZGRkMTUzMWQ2YTRjZGQ4M2JkZmVmMWM=&vip=1567333411&dip=MDBlYmIwOTk1OGZkZDUyYTY4MzRmZDg2NmM4YjlhMTM=&pip=118.96.202.8&hip=ZTBkNjA5YWQwYjBlNzVkZjE5NDBhNTE1NjJmNzdkMDY=
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sports" tvg-logo="" group-title="Olahraga BKC&IC",Fight Sports
+http://210.210.155.35/uq2663/h/h05/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Egg Network" tvg-logo="" group-title="Olahraga BKC&IC",Egg Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sports" tvg-logo="" group-title="Olahraga BKC&IC",TVRI Sports
+http://210.210.155.35/session/69e800f6-97c0-11e9-888f-b82a72d63267/qwr9ew/s/s107/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SportOne" tvg-logo="" group-title="Olahraga BKC&IC",SportOne
+http://203.153.218.26:9981/stream/channelid/896549830?ticket=850CB8B4F21CDAC9C37DCE88D1DE5CE510F8B361&profile=pass
+
+#EXTINF:-1, ===========Sports=============
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Sentara Sport 1
+http://92.46.127.146:8080//SetantaSport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Sentara Sport 2
+http://92.46.127.146:8080/SetantaSportPlus/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Sport TV 1
+https://live.dufree4k.net/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Sport TV 2
+https://live.dufree4k.net/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Sport TV 3
+https://live.dufree4k.net/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Sport TV 4
+https://live.dufree4k.net/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Sport TV 5
+https://live.dufree4k.net/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",CCTV-5+
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",True Sport 1 HD
+https://live.dufree4k.net/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",True Sport 2 HD
+https://live.dufree4k.net/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",True Sport 3 HD
+https://live.dufree4k.net/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Bein Sport 1 Thai
+https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Bein Sport 2 Thai
+https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",True Premier 1 HD
+https://live.dufree4k.net/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",True Premier 2 HD
+https://live.dufree4k.net/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",ON Sport
+http://95.170.215.107:80/hls/m3u8/ON-Sport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Real Madrid TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",TV All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",ABU DHABI SPORT
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",ABU DHABI SPORT 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sport 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sport 2 HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 1
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 1
+http://adtv.ercdn.net/adsport1/adsport1_360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 2
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 3
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 4
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 5
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",AD Sports 6
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",alkass
+http://38.99.146.36:7777/AlDawriAlKassSport_HD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",ALL SPORT
+http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",All Sports
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/chunklist_w809987188.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",All Sports
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",All Sports
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/media.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",ALL SPORTS
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",ALL SPORTS TV
+http://59f1cbe63db89.streamlock.net:1935/dgrau/_definst_/dgrau/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",ARENA SPORT 3
+https://mmm.sportbox.ws/lba/YzMyNGFiM2FhZjhjYmJhZTRmNTA3NDhhMjgyNDgwZWI=/g1/sportarena3rs.m3u8?token=YzMyNGFiM2FhZjhjYmJhZTRmNTA3NDhhMjgyNDgwZWI=&id=YTg4MWUwN2Q0ZDU1NTk2MGM1YzQ4ODY2ZmU4ZGQwNmY=&vip=1569417824&dip=Mjg0YzE1MDU0MTJhYTliYzE2NWU2MTBlY2Q4NzFjODI=&pip=79.53.152.51&hip=MDYxN2ZjZDUyYWE1ZjRjZGNhMzM2OTE5MDcyNmY3MzU=
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Arena Sports 3
+https://sportbar.biz/lba/123/g1/sportarena3rs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Arena Sports 3
+https://goool7.ws/lba/123/g1/sportarena3rs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Arena Sports 4
+https://sportbar.biz/lba/123/g3/arenaserbia4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Arena Sports 5
+https://goool7.ws/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Arena Sports 5
+https://sportbar.biz/lba/123/g7/ar5sport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Arriadia Maroc
+http://www.elahmad.com/tv/m3u8/maroc.m3u8?id=arriadia
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",ATGV 1 Sport
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",ATGV 1 SPORT
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1548640033
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8?v=1558393494
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BEIN SPORT 4 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BEIN SPORT 5 HD
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BEIN SPORT1
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BEIN SPORT2
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BEIN SPORT3
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Bein1
+https://live.dufree4k.net/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Bein2
+https://live.dufree4k.net/02_epl2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BT Sport 1 (Eng)
+https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g2/btuk1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BT Sport 2 (Eng)
+https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g3/ukbt2sport.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BT Sport ESPN
+https://goool7.ws/lba/OGYxN2QwYzY1M2JmNzA4YWQ2NjE5MGExMDJlMjA3MTI=/g7/btse.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BT SPORT/ESPN
+http://31.220.0.196:8081/live/ctvb4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BT Sports 1
+https://delivery.macan.live/stream/bt_sports_1/index.m3u8?token=mSgcNbMn
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",CANAL+ Sport HD (Poland)
+http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/801/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",CANAL+ Sport3 HD (Poland)
+http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/802/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",CANAL+ Sport4 HD (Poland)
+http://telesfor.kartoshkaka.ru/iptv/GLDUAPK7AMTDMX/803/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",FOX SPORT RACING
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BEIN SPORT1
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC", BEIN SPORT2
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",BEIN SPORT3
+http://95.170.215.106/hls/m3u8/Bein-Sport-HD3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",FOX SPORT1
+http://45.58.62.92:8080
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",SPORTmax
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",FOX SPORTS 1 ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch157)/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",FOX SPORTS 2 ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch314)/02.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sports" tvg-logo="" group-title="Sports BKC&IC",FOX SPORTS 3 ID
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch315)/02.m3u8
+
+#EXTINF:-1, ===========musik============
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MTV ASIA HD
+http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",POP MUSIK
+http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",FASHION TV MIDNITE
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MTV ASIA HD
+http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MTV CHINA HD
+http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",CHANEL V
+http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MiX Music HD
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",DANGDUTZ
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:dangdutch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MUSIC CHOICE
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC", (ONLINE) BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MTV ASIA HD
+http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MTV CHINA HD
+http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",CHANEL V
+http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MiX Music HD
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",KRAL WORLDTV
+http://stmpo0wa.rocketcdn.com/kralworldtv.smil/chunklist_b814000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",RETRO TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MiX Music
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",BOX HITS
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",ONE
+http://rtmp.one.by:1300
+#EXTINF:-1 tvg-id="" tvg-name="Music" tvg-logo="" group-title="Music BKC&IC",KAROKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
+#EXTINF:-1,==========Adult==========
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Shemale
+https://ovhv18.twincdn.com/videos/7/7905/7905_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asiatis
+https://ovhv25.twincdn.com/videos/35/35807/35807_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",japan 20
+https://p8f7p2g2.ssl.hwcdn.net/103000/103033/103033.mp4?ri=182272&rs=712&ttl=1562199206&token=e0ee2ee1cfd130fa65b7475b75e86f24
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 25
+https://p8f7p2g2.ssl.hwcdn.net/55000/55338/55338.mp4?ri=182016&rs=711&ttl=1562199330&token=5ab390d5902279af109f24cc78049b6c
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 24
+https://p8f7p2g2.ssl.hwcdn.net/57000/57607/57607.mp4?ri=183808&rs=718&ttl=1562199447&token=eefb6fe544d9366194faa3c6f9a0aa30
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",asia 22
+https://p8f7p2g2.ssl.hwcdn.net/573000/573508/573508.mp4?ri=608768&rs=2378&ttl=1562199632&token=3315a520810b0a6b665690fa6c667083
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 23
+https://p8f7p2g2.ssl.hwcdn.net/573000/573659/573659.mp4?ri=275456&rs=1076&ttl=1562199789&token=7d12f0f2770f0b98de283fe23dbd0506
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",asia 21
+https://p8f7p2g2.ssl.hwcdn.net/575000/575428/575428.mp4?ri=501504&rs=1959&ttl=1562199844&token=f3f9cb77523a72477cb7e3f921bb2352
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",asia 20 
+https://p8f7p2g2.ssl.hwcdn.net/575000/575950/575950.mp4?ri=677888&rs=2648&ttl=1562199927&token=9b9464e58cdf53720d32c5cd6169f541
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 22
+https://p8f7p2g2.ssl.hwcdn.net/574000/574251/574251.mp4?ri=677632&rs=2647&ttl=1562199994&token=902d50adcb7a266a9c51f0c59d16287f
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japanese Maid
+https://www.adulthubcdn.com/play/m3u8/6471_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japanisches Teen
+https://ovhv18.twincdn.com/videos/7/7431/7431_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Babestation
+http://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist_b1728000.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Dancehall Jamaica 1
+http://161.0.157.6/PLTV/88888888/224/3221226311/index.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Dancehall Jamaica 2
+http://161.0.157.5/PLTV/88888888/224/3221226729/index.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Eye Candy
+http://stitcher.pluto.tv/stitch/hls/channel/53b1c003eded29524e1deb97/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FTV Midnight Secrets (UHD)
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jasmin TV (SD)
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jasmin TV (HD)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Miami TV
+http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Miami TV Latino
+http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Miami TV Live
+http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Big Ass
+http://live.redtraffic.xyz/bigass.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Big Dick
+http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Big Tits
+http://live.redtraffic.xyz/bigtits.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Blowjob
+http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Fetish
+http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Hardcore
+http://live.redtraffic.xyz/hardcore.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Interracial
+http://live.redtraffic.xyz/interracial.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Latina
+http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Lesbian
+http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - MILF
+http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - POV
+http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Pornstar
+http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Russian
+http://live.redtraffic.xyz/russian.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Teen
+http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",RedTraffic - Threesome
+http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asian XXX - VOD 01
+http://69.46.75.107/files/videos/140747456300c03.flv
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asian XXX - VOD 02
+http://69.46.75.107/files/videos/1410962219b8929.flv
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asian XXX - VOD 03
+http://69.46.75.107/files/videos/141188120614378.flv
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asian XXX - VOD 04
+http://69.46.75.107/files/videos/141344498070660.flv
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi
+https://www.adulthubcdn.com/play/m3u8/6484_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi
+https://www.adulthubcdn.com/play/m3u8/6452_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi
+https://www.adulthubcdn.com/play/m3u8/6347_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi
+https://www.adulthubcdn.com/play/m3u8/6345_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Lisa Ann
+https://www.adulthubcdn.com/play/m3u8/6482_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Vandella
+https://www.adulthubcdn.com/play/m3u8/6463_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Sarah
+https://www.adulthubcdn.com/play/m3u8/6460_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Mila
+https://www.adulthubcdn.com/play/m3u8/6458_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Crystal
+https://www.adulthubcdn.com/play/m3u8/6457_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",brunette
+https://www.adulthubcdn.com/play/m3u8/2247_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Redheaded
+https://www.adulthubcdn.com/play/m3u8/1752_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Russian
+https://www.adulthubcdn.com/play/m3u8/6146_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japanese
+https://www.adulthubcdn.com/play/m3u8/6402_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",penetration
+https://www.adulthubcdn.com/play/m3u8/6150_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",both holes
+https://www.adulthubcdn.com/play/m3u8/1545_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",anal
+https://www.adulthubcdn.com/play/m3u8/3850_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Anal
+https://www.adulthubcdn.com/play/m3u8/6451_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Anal Sex
+https://www.adulthubcdn.com/play/m3u8/6436_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Anal Actio
+https://www.adulthubcdn.com/play/m3u8/6410_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Anal
+https://www.adulthubcdn.com/play/m3u8/6396_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Cock In Ass
+https://www.adulthubcdn.com/play/m3u8/6390_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Adriana
+https://www.adulthubcdn.com/play/m3u8/6387_144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Canela
+https://www.adulthubcdn.com/play/m3u8/6360_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Cassie
+https://www.adulthubcdn.com/play/m3u8/6357_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 19
+https://www.adulthubcdn.com/play/m3u8/6402_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",japan 18
+https://www.adulthubcdn.com/play/m3u8/6322_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 17
+https://www.adulthubcdn.com/play/m3u8/6313_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 16
+https://www.adulthubcdn.com/play/m3u8/6307_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 15
+https://ovhv49.twincdn.com/videos/1/1082/1082_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 14
+https://ovhv28.twincdn.com/videos/4/4135/4135_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 13
+https://ovhv19.twincdn.com/videos/5/5991/5991_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 12
+https://ovhv36.twincdn.com/videos/7/7465/7465_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 11
+https://ovhv46.twincdn.com/videos/8/8649/8649_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 10
+https://ovhv18.twincdn.com/videos/8/8671/8671_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",japan 9
+https://ovhv27.twincdn.com/videos/8/8635/8635_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 8
+https://ovhv28.twincdn.com/videos/6/6860/6860_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 7
+https://ovhv18.twincdn.com/videos/17/17417/17417_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 6
+https://ovhv15.twincdn.com/videos/17/17415/17415_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 5
+https://ovhv18.twincdn.com/videos/17/17419/17419_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 4
+https://ovhv44.twincdn.com/videos/18/18221/18221_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 3
+https://ovhv25.twincdn.com/videos/39/39036/39036_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 2
+https://ovhv24.twincdn.com/videos/18/18599/18599_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japan 1
+https://ovhv29.twincdn.com/videos/39/39157/39157_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asia 9
+https://ovhv46.twincdn.com/videos/7/7419/7419_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",achseln
+https://ovhv35.twincdn.com/videos/8/8022/8022_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asia 8
+https://ovhv35.twincdn.com/videos/1/1075/1075_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi
+https://www.adulthubcdn.com/play/m3u8/6484_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi
+https://www.adulthubcdn.com/play/m3u8/6452_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi
+https://www.adulthubcdn.com/play/m3u8/6347_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi
+https://www.adulthubcdn.com/play/m3u8/6345_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Lisa Ann
+https://www.adulthubcdn.com/play/m3u8/6482_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Vandella
+https://www.adulthubcdn.com/play/m3u8/6463_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Sarah
+https://www.adulthubcdn.com/play/m3u8/6460_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Mila
+https://www.adulthubcdn.com/play/m3u8/6458_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Crystal
+https://www.adulthubcdn.com/play/m3u8/6457_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",brunette
+https://www.adulthubcdn.com/play/m3u8/2247_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Redheaded
+https://www.adulthubcdn.com/play/m3u8/1752_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Russian
+https://www.adulthubcdn.com/play/m3u8/6146_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japanese
+https://www.adulthubcdn.com/play/m3u8/6402_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",penetration
+https://www.adulthubcdn.com/play/m3u8/6150_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",both holes
+https://www.adulthubcdn.com/play/m3u8/1545_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",anal
+https://www.adulthubcdn.com/play/m3u8/3850_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Anal
+https://www.adulthubcdn.com/play/m3u8/6451_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Anal Sex
+https://www.adulthubcdn.com/play/m3u8/6436_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Anal Actio
+https://www.adulthubcdn.com/play/m3u8/6410_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Anal
+https://www.adulthubcdn.com/play/m3u8/6396_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Cock In Ass
+https://www.adulthubcdn.com/play/m3u8/6390_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Adriana
+https://www.adulthubcdn.com/play/m3u8/6387_144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Canela
+https://www.adulthubcdn.com/play/m3u8/6360_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Cassie
+https://www.adulthubcdn.com/play/m3u8/6357_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 25
+https://www.adulthubcdn.com/play/m3u8/6402_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 24
+https://www.adulthubcdn.com/play/m3u8/6322_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 23
+https://www.adulthubcdn.com/play/m3u8/6313_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 22
+https://www.adulthubcdn.com/play/m3u8/6307_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 21
+https://ovhv49.twincdn.com/videos/1/1082/1082_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 20
+https://ovhv28.twincdn.com/videos/4/4135/4135_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 19
+https://ovhv19.twincdn.com/videos/5/5991/5991_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 18
+https://ovhv36.twincdn.com/videos/7/7465/7465_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 17
+https://ovhv46.twincdn.com/videos/8/8649/8649_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 16
+https://ovhv18.twincdn.com/videos/8/8671/8671_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 15
+https://ovhv27.twincdn.com/videos/8/8635/8635_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 14
+https://ovhv28.twincdn.com/videos/6/6860/6860_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 13
+https://ovhv18.twincdn.com/videos/17/17417/17417_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 12
+https://ovhv15.twincdn.com/videos/17/17415/17415_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 11
+https://ovhv18.twincdn.com/videos/17/17419/17419_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 10
+https://ovhv44.twincdn.com/videos/18/18221/18221_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 9
+https://ovhv25.twincdn.com/videos/39/39036/39036_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jav 8
+https://ovhv24.twincdn.com/videos/18/18599/18599_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Jv 7
+https://ovhv29.twincdn.com/videos/39/39157/39157_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asia 7
+https://ovhv46.twincdn.com/videos/7/7419/7419_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",achseln
+https://ovhv35.twincdn.com/videos/8/8022/8022_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asia 6
+https://ovhv35.twincdn.com/videos/1/1075/1075_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Shemale
+https://ovhv18.twincdn.com/videos/7/7905/7905_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Asia 5
+https://ovhv25.twincdn.com/videos/35/35807/35807_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 6
+https://p8f7p2g2.ssl.hwcdn.net/103000/103033/103033.mp4?ri=182272&rs=712&ttl=1562199206&token=e0ee2ee1cfd130fa65b7475b75e86f24
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 5
+https://p8f7p2g2.ssl.hwcdn.net/55000/55338/55338.mp4?ri=182016&rs=711&ttl=1562199330&token=5ab390d5902279af109f24cc78049b6c
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 4
+https://p8f7p2g2.ssl.hwcdn.net/57000/57607/57607.mp4?ri=183808&rs=718&ttl=1562199447&token=eefb6fe544d9366194faa3c6f9a0aa30
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 3
+https://p8f7p2g2.ssl.hwcdn.net/594000/594488/594488.mp4?ri=488704&rs=1909&ttl=1562199518&token=bd0c0d98cee23c4b7d046849b422b5b2
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",asia 4
+https://p8f7p2g2.ssl.hwcdn.net/573000/573508/573508.mp4?ri=608768&rs=2378&ttl=1562199632&token=3315a520810b0a6b665690fa6c667083
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",asia 3
+https://p8f7p2g2.ssl.hwcdn.net/574000/574488/574488.mp4?ri=566016&rs=2211&ttl=1562199688&token=56efbfa62c1bd29d2318e4ef8587a5e6
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 2
+https://p8f7p2g2.ssl.hwcdn.net/573000/573659/573659.mp4?ri=275456&rs=1076&ttl=1562199789&token=7d12f0f2770f0b98de283fe23dbd0506
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",asia 2
+https://p8f7p2g2.ssl.hwcdn.net/575000/575428/575428.mp4?ri=501504&rs=1959&ttl=1562199844&token=f3f9cb77523a72477cb7e3f921bb2352
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",asia 1
+https://p8f7p2g2.ssl.hwcdn.net/575000/575950/575950.mp4?ri=677888&rs=2648&ttl=1562199927&token=9b9464e58cdf53720d32c5cd6169f541
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",jav 1
+https://p8f7p2g2.ssl.hwcdn.net/574000/574251/574251.mp4?ri=677632&rs=2647&ttl=1562199994&token=902d50adcb7a266a9c51f0c59d16287f
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japanese Maid
+https://www.adulthubcdn.com/play/m3u8/6471_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japanisches Teen
+https://ovhv18.twincdn.com/videos/7/7431/7431_720p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",UNCENSORED JAPAN
+https://p8f7p2g2.ssl.hwcdn.net/41000/41654/41654.mp4?ri=110592&rs=432&ttl=1562199100&token=6fe3303d616cc26b55d2f53c7c7ba4ef
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi - Petite Body Big Tits And Deep Anal Sex
+https://www.adulthubcdn.com/play/m3u8/6484_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi - Busty Redhead MILF Fucks Taxi Cock
+https://www.adulthubcdn.com/play/m3u8/6452_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi - Busty Blonde Fucked In Cab
+https://www.adulthubcdn.com/play/m3u8/6347_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",FakeTaxi - Sexy Taxi Driver Fucks Black Cock In Cab
+https://www.adulthubcdn.com/play/m3u8/6345_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Hot Mom Lisa Ann Likes Anal Sex
+https://www.adulthubcdn.com/play/m3u8/6482_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Hot Blonde Sarah Vandella Anal Fucking
+https://www.adulthubcdn.com/play/m3u8/6463_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Sarah Vandella likes more than a little anal sex
+https://www.adulthubcdn.com/play/m3u8/6460_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",German Blonde Mila Milan With Big Boobs Tries Anal Sex
+https://www.adulthubcdn.com/play/m3u8/6458_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Crystal Greenvelle is a big fan of anal sex
+https://www.adulthubcdn.com/play/m3u8/6457_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",She wants anal penetration
+https://www.adulthubcdn.com/play/m3u8/2665_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Laid on sofa brunette and fucking in the caboose
+https://www.adulthubcdn.com/play/m3u8/2247_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Redheaded girl gets first time dick in ass
+https://www.adulthubcdn.com/play/m3u8/1752_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",In the bathroom Russian couple Fucks wildly
+https://www.adulthubcdn.com/play/m3u8/6146_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Hairy Japanese Cunt Filled With Cum
+https://www.adulthubcdn.com/play/m3u8/6402_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Brunette really loves penetration in the ass
+https://www.adulthubcdn.com/play/m3u8/6150_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Skinny brunette gets penis in both holes
+https://www.adulthubcdn.com/play/m3u8/1545_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Brunette after Blowjob engaged in anal
+https://www.adulthubcdn.com/play/m3u8/3850_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Abella Danger And Lena Paul Her Boyfriend Anal Sharing
+https://www.adulthubcdn.com/play/m3u8/6451_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Hot Amateur Chick Loves Hard Anal Sex
+https://www.adulthubcdn.com/play/m3u8/6436_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Anal Action With Naughty Girl
+https://www.adulthubcdn.com/play/m3u8/6410_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Vittoria Risi With Big Boobs Enjoys Anal Penetration
+https://www.adulthubcdn.com/play/m3u8/6396_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Naughty School Girl Takes Cock In Ass
+https://www.adulthubcdn.com/play/m3u8/6390_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Adriana Chechik Anal Action With Security Officer
+https://www.adulthubcdn.com/play/m3u8/6387_144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Young Girl First Anal Fuck
+https://www.adulthubcdn.com/play/m3u8/6375_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Monique Alexander Convention Penetration
+https://www.adulthubcdn.com/play/m3u8/6365_144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Canela Skin Anal Sex With French Slut
+https://www.adulthubcdn.com/play/m3u8/6360_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Cassie Del Isla - Private Pole Dance Affair
+https://www.adulthubcdn.com/play/m3u8/6357_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japanese Maid Sex
+https://www.adulthubcdn.com/play/m3u8/6471_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",HOT TEEN JAPANESE FUCK
+https://www.adulthubcdn.com/play/m3u8/6322_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Japanese Babe Maria Ozawa Pounded And Creampied
+https://www.adulthubcdn.com/play/m3u8/6313_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC",Beautiful Japanese Teen Girl
+https://www.adulthubcdn.com/play/m3u8/6307_1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 1
+https://www.googleapis.com/drive/v3/files/15jFMHWe_BI-2fKHHWVR3EjrNr4sJpPWM?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 2
+https://www.googleapis.com/drive/v3/files/12D2RSscxN44QAdaN_UuNBjmg1nBGiYKF?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 3
+https://www.googleapis.com/drive/v3/files/18GG6iBi6vbXmQxeT1EAjBkxtmigq8QyY?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 4
+https://www.googleapis.com/drive/v3/files/1rGT59eLLrIfrZooesOQB7M9maFKkHVeq?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 5
+https://www.googleapis.com/drive/v3/files/1mphgkLHunHNdFiUQXXADNdyswa9B5eRm?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 6
+https://www.googleapis.com/drive/v3/files/1tvpUPGVkbNTteNH7STBxK3_DYNedeg6z?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 7
+https://www.googleapis.com/drive/v3/files/1Tf1WeYiUtitFSntfQqHeJxuoYyYf2ptJ?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 8
+https://www.googleapis.com/drive/v3/files/1cdFxmhDUkbVacqWHik5Z-5pz_P9ukonA?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 9
+https://www.googleapis.com/drive/v3/files/1YQeFsKw4rc_wphxDq-noU2GK9yr8Z-pG?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 10
+https://www.googleapis.com/drive/v3/files/1KOkRyJ1cRx-2Oq_TgxugfJ2ubdrARJFL?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 11
+https://www.googleapis.com/drive/v3/files/1FNZiN7-Fyj8w-dayxgy0LveBJJT569RY?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 12
+https://www.googleapis.com/drive/v3/files/1dFanY4J82pSqZg3U9XngBkNFJhpPr3a-?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
+#EXTINF:-1 tvg-id="" tvg-name="Adultos" tvg-logo="" group-title="Adultos BKC&IC", JAV 13
+https://www.googleapis.com/drive/v3/files/1_VGjxYIo8FAI5WFnPZei6p33IDNMHZ3T?alt=media&key=AIzaSyC9d9M54VXDZpvU80FCJdwpptsjmB4NvnA
 
 #EXTINF:-1 tvg-logo="http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
