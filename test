@@ -195,3 +195,6 @@ http://51.159.21.231:2052/sourceturkiapro2/8684782188/1456
 
 #EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="Lokal Indo BKC&IC",TEGAR TV JOGJA
 http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="TESter", DAnur 3
+https://www.hooq.tv/id/play/74c5651e-7458-4a02-b164-b1af3bb00da4
