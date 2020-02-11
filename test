@@ -198,3 +198,13 @@ http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="TESter", DAnur 3
 https://www.hooq.tv/id/play/74c5651e-7458-4a02-b164-b1af3bb00da4
+
+
+#EXTINF:0 group-title="Sports",Astro Supersport 1
+https://delivery.macan.live/stream/macan_sport_10/index.m3u8?token=MfxrKeJ8
+#EXTINF:0 group-title="Sports",Astro Supersport 2
+https://delivery.macan.live/stream/macan_sport_11/index.m3u8?token=MfxrKeJ8
+#EXTINF:0 group-title="Sports",Astro Supersport 3
+https://delivery.macan.live/stream/macan_sport_12/index.m3u8?token=MfxrKeJ8
+#EXTINF:0 group-title="Sports",Astro Supersport 4
+https://delivery.macan.live/stream/macan_sport_13/index.m3u8?token=MfxrKeJ8
