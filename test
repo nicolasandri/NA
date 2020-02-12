@@ -150,9 +150,6 @@ https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-D
 #EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="Kids/Animation",FAN TV
 http://195.9.195.3:8080/hls/157239.m3u8
 
-#EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="Kids/Animation",FA
-https://www.hooq.tv/id/play/74c5651e-7458-4a02-b164-b1af3bb00da4
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/JimJam.pl.png" group-title="Kids/Animation",Jim Jam
 http://ms-azure-video.gslb.startimestv.com/live/JIMJAM_890_500_480x360_194010/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/logo.png" group-title="Kids/Animation",Fix & Foxi
@@ -200,7 +197,7 @@ http://51.159.21.231:2052/sourceturkiapro2/8684782188/1456
 http://wms.klikhost.com:1935/tegartv/live/chunklist_w505057089.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Lokal" tvg-logo="" group-title="TESter", DAnur 3
-https://www.hooq.tv/id/play/74c5651e-7458-4a02-b164-b1af3bb00da4
+https://r2---sn-npoeened.c.docs.google.com/videoplayback?expire=1581502597&ei=RZhDXvT1KM67_QHOtYPYDA&ip=180.243.207.131&cp=QVNNU0ZfUVVXSFhOOkw3MW00cXl4MHBXTGRpTHpHdnZNTVBHWWwtcDZQVFBFY0hXY3lvdC1lRFE&id=6695dd245cebd5da&itag=22&source=webdrive&requiressl=yes&mm=30&mn=sn-npoeened&ms=nxu&mv=m&mvi=1&pl=20&ttl=transient&susc=dr&driveid=1KC4qTNDyFdodfJDuP81n54r-SXaN_8X9&app=explorer&mime=video/mp4&dur=4498.471&lmt=1532757933126708&mt=1581488127&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=ALgxI2wwRQIgCjH_eFW8x8WB8soPH90Lf8VpI1FnjVqafe9kSoKtwIgCIQDm--QBHyutLOw87JWhQ5aZCeuOWkAaCQyfmeLnTFkQ_w==&lsparams=mm,mn,ms,mv,mvi,pl&lsig=AHylml4wRQIhAKOetVEYpXesS3CPMaCV3VDRI15oh4ujfFDNmOdjz822AiAynv_Yi_gvUiH496BfisdPpGxADjvQ3uHwKCUlxJqGsA==
 
 
 #EXTINF:0 group-title="Sports",Astro Supersport 1
