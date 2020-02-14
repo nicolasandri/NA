@@ -223,22 +223,28 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 SPORTS
 
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 1 ID HD
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 2 ID HD
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+
 #EXTINF:group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN SPORTS 1 ID HD
 https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_1.m3u8
 
-#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="EXTRA SPORT",Champions tv 1
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="SPORTS",Champions tv 1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png" group-title="EXTRA SPORT",Champions tv 2
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png" group-title="SPORTS",Champions tv 2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
-
-
 
 #EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="SPORTS",CCTV 5
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
@@ -372,12 +378,6 @@ https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png?v=2.0.0.13" group-title="SPORTS",FOX SPORTS 3 HD
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 1 ID HD
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 2 ID HD
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://domreptv.com/wp-content/uploads/2019/05/New-Project-11.jpg" group-title="SPORTS",SPORTSMAX
 http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
