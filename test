@@ -13,3 +13,11 @@ https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png" group-title="EXTRA SPORT",Champions tv 2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="TV MALAYSIA",TV 3
+https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUVb5SIfNiHrBecuCtsAhdc)/dm/3/x6qp375/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TV MALAYSIA",TV 9
+https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRJK9i-tUoBMd4a95gfmTyQ)/dm/3/x6qqja6/s/live-4.m3u8
