@@ -95,7 +95,7 @@ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="TV NASIONAL",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="TV NASIONAL",NET TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="TV NASIONAL",NET TV HD BACKUP
 https://etslive-2-vidio-com.akamaized.net/exp=1581828020~acl=/hls-p/ingest_875_*/*~hmac=ceae200ae4c9414c3c7882b899f82cb81285aaaec94ff0925870d4716519f2c0/hls-p/ingest_875_720p/index.m3u8
 
 
@@ -107,8 +107,7 @@ https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="TV NASIONAL",KOMPAS TV HD BACKUP
-https://t5-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/kompastv_all/skrz1j8exe/kompastv_720p/chunks.m3u8?nimblesessionid=178275231&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNC8yMDIwIDEyOjU0OjQ2IFBNJmhhc2hfdmFsdWU9SmMzVWk4MjFJc2FmRlBEY1lXTkxEQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPS0zODE3Njg1MHwxODAuMjQyLjIxNC4yMTA=
-
+https://etslive-2-vidio-com.akamaized.net/exp=1581840513~acl=/hls-p/ingest_874_*/*~hmac=798cbf251714a5656f8144839b393f9fdbf7fad4f7d26bcd160ca986012402d7/hls-p/ingest_874_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TV NASIONAL",TVRI NASIONAL SD
@@ -162,21 +161,13 @@ https://etslive-2-vidio-com.akamaized.net/exp=1581455695~acl=/hls-p/ingest_6482_
 https://etslive-2-vidio-com.akamaized.net/exp=1581454563~acl=/hls-b/ingest_geo_6678_*/*~hmac=b2b7742739192fbc387bd34253aaad9575ccffba4e934bbf53544d0bbb176033/hls-b/ingest_geo_6678_720p/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="Lokal" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RwukrNaQxw9-zgWqjBhiIiFsUcQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",CITRA BIOSKOP
-https://etslive-2-vidio-com.akamaized.net/exp=1581835965~acl=/hls-b/ingest_geo_6684_*/*~hmac=82d15777ce330f1a53fca57e5078d61cdd55c998ed60a72475eff858b3a05d07/hls-b/ingest_geo_6684_720p/index.m3u8
-
-
+https://etslive-2-vidio-com.akamaized.net/exp=1581454812~acl=/hls-b/ingest_geo_6684_*/*~hmac=24b6a8c039d9b2a297aebb60a4cf3737bfc2a6700f8fe112e190090eff3d71fe/hls-b/ingest_geo_6684_720p/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="Lokal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png",NEWS ASIA
 https://etslive-2-vidio-com.akamaized.net/exp=1581455137~acl=/hls-b/ingest_geo_6411_*/*~hmac=10550c9f6b67a57984faab28b2e2563888a1dfd23a3b0c0bf0d9abb27141f003/hls-b/ingest_geo_6411_720p/index.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="Lokal" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HBUdLVfuZstgnOKIyeCjQZQ6xTg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg",CITRA DANGDUT
-https://etslive-2-vidio-com.akamaized.net/exp=1581836574~acl=/hls-b/ingest_geo_6587_*/*~hmac=9689df76abcfbbca55db2cc9cf73df4a8516e886fef347b77073f90e70f6515f/hls-b/ingest_geo_6587_480p/index.m3u8
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="" group-title="Lokal" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/qz6Ei_q1HJYEL2VIPtVPn3wErxE=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6678/citra-muslim-68ac64.jpg",CITRA MUSLIM
-https://etslive-2-vidio-com.akamaized.net/exp=1581836397~acl=/hls-p/ingest_geo_6678_*/*~hmac=a7b57355cf396a72a0b167bd7ff38050e9b8d70306ebc0f3a7ac2752d8ad04c3/hls-p/ingest_geo_6678_720p/index.m3u8
-
-
+https://etslive-2-vidio-com.akamaized.net/exp=1581455233~acl=/hls-b/ingest_geo_6587_*/*~hmac=cfb4864dd05c634f26257cd0a7f79cd80079862630a56c89bf90967e2bc04b2c/hls-b/ingest_geo_6587_720p/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="Lokal" " tvg-logo=" https://3.bp.blogspot.com/-aCQKZtDSoZM/W0MrTqRj-cI/AAAAAAAADvQ/d-ZB0-kaJr4Bc1zfSZtU-Tl7L4SfBzU6ACLcBGAs/s1600/20180709_163002.jpg”,BMS TV
 http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 
@@ -525,21 +516,14 @@ http://45.126.83.51/uq2663/h/h22/index.m3u8
 
 SPORTS
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",BEIN SPORTS 1 INDO HD
-https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
+https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",BEIN SPORTS 1 INDO sd
-https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_2.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS", BEIN SPORTS 2 INDO HD
-https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",BEIN SPORTS 2 INDO SD
-https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
+https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Turkey SD
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Turkey
 https://cstream9.com/hls/beinsports1_tr_fhd.m3u8
 
 
