@@ -516,12 +516,20 @@ http://45.126.83.51/uq2663/h/h22/index.m3u8
 
 SPORTS
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Asia
-https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
+#EXTINF:group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN SPORTS 1 ID HD
+https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="SPORTS",beIN Sports 2 Asia
-https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="EXTRA SPORT",Champions tv 1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png" group-title="EXTRA SPORT",Champions tv 2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="SPORTS",beIN Sports 1 Turkey
 https://cstream9.com/hls/beinsports1_tr_fhd.m3u8
@@ -610,24 +618,8 @@ https://1610186124.rsc.cdn77.org/1610186124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2019/10/Network_FightPlusTV_1280x720-520x293.jpg" group-title="SPORTS",Fight Plus
 https://nimble.dashstreams.net/onestudio/fightplustv/playlist.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Docurama_Logo_August_2015.jpg" group-title="Knowledge",Docurama
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS",b31N Sports 1 HD (AR)
-http://51.159.21.231:2052/sourceturkiapro2/8684782188/1459
-
-
-#EXTINF:-1 group-title="SPORTS",b31N Sports 2 HD (AR)
-http://51.159.21.231:2052/sourceturkiapro2/8684782188/1458
-
-
-#EXTINF:-1 group-title="SPORTS",b31N Sports 3 HD (AR)
-http://51.159.21.231:2052/sourceturkiapro2/8684782188/1457
-
-
-#EXTINF:-1 group-title="SPORTS",b31N Sports 4 HD (AR)
-http://51.159.21.231:2052/sourceturkiapro2/8684782188/1456
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/te9e1pHbvzyH2rC2RsfMZ6VB3vc=/372x211/filters:quality(75):format(jpeg)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-d0ae5d.jpg" tvg-ID="" tvg-name="" group-title="SPORTS" tvg-logo="", Champions 1
 https://etslive-2-vidio-com.akamaized.net/exp=1581453941~acl=/hls-p/ingest_geo_6685_*/*~hmac=1cf1acf22a63eea41b0474482093c40cfe6439d7e1d1e7e893096228a6e046af/hls-p/ingest_geo_6685_720p/index.m3u8
