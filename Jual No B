@@ -220,44 +220,25 @@ http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/chunks.m3u8
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://assets.beinsports.com/beIN_SPORTS.png" group-title="SPORTS",Bein Sports News
-http://95.170.215.120/hls/m3u8/Bein-Sport-News-ALI-MCR-NGC.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",Bein Sports 1 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport1.m3u8
+SPORTS
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS",Bein Sports 2 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport2.m3u8
+#EXTINF:group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN SPORTS 1 ID HD
+https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="SPORTS",Bein Sports 3 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport3.m3u8
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="SPORTS",Bein Sports 4 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport4.m3u8
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.bein.net/nz/wp-content/uploads/2016/05/beIN-Sports-logo-5-1024x389.png" group-title="SPORTS",Bein Sports 5 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport5.m3u8
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="EXTRA SPORT",Champions tv 1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://shoot-yalla.com/wp-content/uploads/2019/10/bein-sports-06-hd.png" group-title="SPORTS",Bein Sports 6 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport6.m3u8
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png" group-title="EXTRA SPORT",Champions tv 2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-w7LCzcaoQnw/WlPXiU4SfkI/AAAAAAAAAck/hNyDhWdUWLYqJaYjUce2hq7VTFDuiFoAwCLcBGAs/s1600/7-HD.png" group-title="SPORTS",Bein Sports 7 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport7.m3u8
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-wDkIu3BI-Lw/WlPX5QsUJAI/AAAAAAAAAco/hX_u_RKEjTw5c7gGLwPLcgZc9P6nGeOegCLcBGAs/s1600/8-HD.png" group-title="SPORTS",Bein Sports 8 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport8.m3u8
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-0bd4BTD9lU0/XX2KUK6m4nI/AAAAAAAAA9Y/sdGf7qRTF2YJV1ehlInoamndXUR3xEwVwCK4BGAYYCw/s400/185065b533aca823c2e86e5bf103c0ef17.png" group-title="SPORTS",Bein Sports 9 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport9.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.webtv.so/uploads/images/channel_79_1539687909_social.png" group-title="SPORTS",Bein Sports 10 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport10.m3u8
-
-#EXTINF:-1 tvg-logo="https://a.top4top.net/p_80061bdf1.png" group-title="SPORTS",Bein Sports 11 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport11.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.liveonlinetv247.info/images/beinsports12.png" group-title="SPORTS",Bein Sports 12 HD
-http://95.170.215.120:80/hls/m3u8/BeinSport12.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="SPORTS",CCTV 5
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
