@@ -1,65 +1,15 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13611
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13688
-#EXTINF:-1,BEIN SPORTS 1 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13595
-#EXTINF:-1,BEIN SPORTS 2 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13610
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13686
-#EXTINF:-1,BEIN SPORTS 2 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13687
-#EXTINF:-1,BEIN SPORTS 3 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13609
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13684
-#EXTINF:-1,BEIN SPORTS 3 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13683
-#EXTINF:-1,BEIN SPORTS 4 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13608
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13682
-#EXTINF:-1,BEIN SPORTS 4 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13681
-#EXTINF:-1,BEIN SPORTS 5 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13607
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13680
-#EXTINF:-1,BEIN SPORTS 5 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13679
-#EXTINF:-1,BEIN SPORTS 6 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13606
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13678
-#EXTINF:-1,BEIN SPORTS 6 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13677
-#EXTINF:-1,BEIN SPORTS 7 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13605
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13676
-#EXTINF:-1,BEIN SPORTS 7 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13675
-#EXTINF:-1,BEIN SPORTS 8 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13604
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13674
-#EXTINF:-1,BEIN SPORTS 8 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13673
-#EXTINF:-1,BEIN SPORTS 9 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13603
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13672
-#EXTINF:-1,BEIN SPORTS 9 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13587
-#EXTINF:-1,BEINSPORT 10 FHD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13602
-#EXTINF:-1,BEINSPORT 10 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13670
-#EXTINF:-1,BEINSPORT 10 BKP
-http://iptvpro.premium-itv.com:8789/31031986/31031986/13669
-#EXTINF:-1,BEINSPORT 11 HD
-http://iptvpro.premium-itv.com:8789/31031986/31031986/24977
+#EXTINF:group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN SPORTS 1 ID HD
+https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_1.m3u8
 
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
+#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="EXTRA SPORT",Champions tv 1
+https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png" group-title="EXTRA SPORT",Champions tv 2
+https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
