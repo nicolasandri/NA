@@ -226,22 +226,13 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 
 SPORTS
 
-#EXTINF:-1 tvg-logo="https://assets.beinsports.com/3.2.4/images/themes/nba/logo.png" group-title=""SPORTS",Bein Sports NBA
+#EXTINF:-1 tvg-logo="https://assets.beinsports.com/3.2.4/images/themes/nba/logo.png" group-title="SPORTS",Bein Sports NBA
 http://95.170.215.120/hls/m3u8/Bein-Sport-NBA-HAK-NGC.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 1 ID HD
 https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png?v=2.0.0.13" group-title="SPORTS",BEIN SPORTS 2 ID HD
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN SPORTS 1 ID HD
-https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_1.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2
 https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="SPORTS",Champions tv 1
