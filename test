@@ -1,30 +1,219 @@
 #EXTM3U
-#EXTINF:group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BEIN SPORTS 1 ID HD
-https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_1.m3u8
-
-#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein1.png",BeinSport 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
-
-#EXTINF:-1 group-title="EXTRA SPORT" tvg-logo="https://teevee-hd.com/img/bein2.png",BeinSport 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="EXTRA SPORT",Champions tv 1
-https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png" group-title="EXTRA SPORT",Champions tv 2
-https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
-
-
-
-#EXTINF:-1 tvg-logo="" group-title="TV MALAYSIA",TV 3
-https://stream-05.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUVb5SIfNiHrBecuCtsAhdc)/dm/3/x6qp375/d/live-3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV MALAYSIA",TV 3
-https://stream-03.sg1.dailymotion.com/sec(g0FwEewAeL3w7b14lFp08khBFdjEharivG8d4DvxhW0)/dm/3/x7a7rpm/s/live-2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="TV MALAYSIA",TV 3
-https://www.dailymotion.com/video/k4DhhBveIHpgNwrApah
-#EXTINF:-1 tvg-logo="" group-title="TV MALAYSIA",TV 3
-https://stream-01.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHUVb5SIfNiHrBecuCtsAhdc)/dm/3/x6qp375/d/live-2.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="TV MALAYSIA",TV 9
-https://stream-03.sg1.dailymotion.com/sec(_9ERdFwnAbs1GZsc1AwhHRJK9i-tUoBMd4a95gfmTyQ)/dm/3/x6qqja6/s/live-4.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Channel INFO" tvg-logo="https://ganteng.stream/wp-content/uploads/2019/03/Untitled-2-1.png" group-title="Server ID",Channel INFO
+http://tvku.live:8888/rizal4/9UKa43SyYG/1
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="Server ID: NET HD" tvg-logo="" group-title="Server ID",Server ID: NET HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3579
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Server ID: Trans 7" tvg-logo="" group-title="Server ID",Server ID: Trans 7
+http://tvku.live:8888/rizal4/9UKa43SyYG/3583
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Server ID: Trans TV" tvg-logo="" group-title="Server ID",Server ID: Trans TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3584
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="Server ID: ANTV" tvg-logo="" group-title="Server ID",Server ID: ANTV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3588
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="Server ID: SCTV" tvg-logo="" group-title="Server ID",Server ID: SCTV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3593
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Indosiar" tvg-logo="" group-title="Server ID",Server ID: Indosiar
+http://tvku.live:8888/rizal4/9UKa43SyYG/4839
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="Server ID: TV One" tvg-logo="" group-title="Server ID",Server ID: TV One
+http://tvku.live:8888/rizal4/9UKa43SyYG/3587
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Server ID: Metro TV" tvg-logo="" group-title="Server ID",Server ID: Metro TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3589
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Server ID: Kompas TV" tvg-logo="" group-title="Server ID",Server ID: Kompas TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3590
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="Server ID: TVRI" tvg-logo="" group-title="Server ID",Server ID: TVRI
+http://tvku.live:8888/rizal4/9UKa43SyYG/3594
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Server ID: Rajawali TV" tvg-logo="" group-title="Server ID",Server ID: Rajawali TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3591
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Rodja" tvg-logo="" group-title="Server ID",Server ID: Rodja
+http://tvku.live:8888/rizal4/9UKa43SyYG/3592
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: K Drama" tvg-logo="" group-title="Server ID",Server ID: K Drama
+http://tvku.live:8888/rizal4/9UKa43SyYG/3595
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Sinema Indonesia" tvg-logo="" group-title="Server ID",Server ID: Sinema Indonesia
+http://tvku.live:8888/rizal4/9UKa43SyYG/3596
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: O Channel" tvg-logo="" group-title="Server ID",Server ID: O Channel
+http://tvku.live:8888/rizal4/9UKa43SyYG/3597
+#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Server ID: Jak TV" tvg-logo="" group-title="Server ID",Server ID: Jak TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3598
+#EXTINF:-1 tvg-id="DaaiTv.id" tvg-name="Server ID: DAAI TV" tvg-logo="" group-title="Server ID",Server ID: DAAI TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3599
+#EXTINF:-1 tvg-id="JTV.id" tvg-name="Server ID: JTV" tvg-logo="" group-title="Server ID",Server ID: JTV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3600
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: CNA" tvg-logo="" group-title="Server ID",Server ID: CNA
+http://tvku.live:8888/rizal4/9UKa43SyYG/3580
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Da Vinci Kids" tvg-logo="" group-title="Server ID",Server ID: Da Vinci Kids
+http://tvku.live:8888/rizal4/9UKa43SyYG/3577
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="Server ID: BBC World News" tvg-logo="" group-title="Server ID",Server ID: BBC World News
+http://tvku.live:8888/rizal4/9UKa43SyYG/3585
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="Server ID: France 24" tvg-logo="" group-title="Server ID",Server ID: France 24
+http://tvku.live:8888/rizal4/9UKa43SyYG/3586
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Spacetoon" tvg-logo="" group-title="Server ID",Server ID: Spacetoon
+http://tvku.live:8888/rizal4/9UKa43SyYG/3603
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Arirang" tvg-logo="" group-title="Server ID",Server ID: Arirang
+http://tvku.live:8888/rizal4/9UKa43SyYG/3604
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: XingXong" tvg-logo="" group-title="Server ID",Server ID: XingXong
+http://tvku.live:8888/rizal4/9UKa43SyYG/3605
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Aljazeera" tvg-logo="" group-title="Server ID",Server ID: Aljazeera
+http://tvku.live:8888/rizal4/9UKa43SyYG/3606
+#EXTINF:-1 tvg-id="BloombergTVAsia.id" tvg-name="Server ID: Bloomberg" tvg-logo="https://i.ibb.co/7Jn9Sb8/bloom.png" group-title="Server ID",Server ID: Bloomberg
+http://tvku.live:8888/rizal4/9UKa43SyYG/3607
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: RT" tvg-logo="" group-title="Server ID",Server ID: RT
+http://tvku.live:8888/rizal4/9UKa43SyYG/3608
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: MY TV" tvg-logo="" group-title="Server ID",Server ID: MY TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/3610
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Disney Channel" tvg-logo="" group-title="Server ID",Server ID: Disney Channel
+http://tvku.live:8888/rizal4/9UKa43SyYG/3613
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Disney Junior" tvg-logo="" group-title="Server ID",Server ID: Disney Junior
+http://tvku.live:8888/rizal4/9UKa43SyYG/3614
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Animal Planet HD" tvg-logo="" group-title="Server ID",Server ID: Animal Planet HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3615
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Animal Planet FHD" tvg-logo="" group-title="Server ID",Server ID: Animal Planet FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3616
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Discovery Channel HD" tvg-logo="" group-title="Server ID",Server ID: Discovery Channel HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3617
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Discovery Channel FHD" tvg-logo="" group-title="Server ID",Server ID: Discovery Channel FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3618
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Nat Geo People HD" tvg-logo="" group-title="Server ID",Server ID: Nat Geo People HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3619
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Nat Geo Wild HD" tvg-logo="" group-title="Server ID",Server ID: Nat Geo Wild HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3620
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Nat Geo HD" tvg-logo="" group-title="Server ID",Server ID: Nat Geo HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3621
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Disc Asia HD" tvg-logo="" group-title="Server ID",Server ID: Disc Asia HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3622
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: BBC Lifestyle HD" tvg-logo="" group-title="Server ID",Server ID: BBC Lifestyle HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3623
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Channel V HD" tvg-logo="" group-title="Server ID",Server ID: Channel V HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3624
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: TLC HD" tvg-logo="" group-title="Server ID",Server ID: TLC HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3626
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: AFC HD" tvg-logo="" group-title="Server ID",Server ID: AFC HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3627
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HGTV HD" tvg-logo="" group-title="Server ID",Server ID: HGTV HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3628
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Animax HD" tvg-logo="" group-title="Server ID",Server ID: Animax HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3630
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: AXN HD" tvg-logo="" group-title="Server ID",Server ID: AXN HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3631
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: S GEM HD" tvg-logo="" group-title="Server ID",Server ID: S GEM HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3632
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX HD" tvg-logo="" group-title="Server ID",Server ID: FOX HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3633
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX FHD" tvg-logo="" group-title="Server ID",Server ID: FOX FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3634
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Life HD" tvg-logo="" group-title="Server ID",Server ID: FOX Life HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3635
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Life FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Life FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3636
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Crime HD" tvg-logo="" group-title="Server ID",Server ID: FOX Crime HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3637
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Crime FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Crime FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3638
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Movies HD" tvg-logo="" group-title="Server ID",Server ID: FOX Movies HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3639
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Movies FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Movies FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3640
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Action HD" tvg-logo="" group-title="Server ID",Server ID: FOX Action HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3641
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Action FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Action FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3642
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Family Movies HD" tvg-logo="" group-title="Server ID",Server ID: FOX Family Movies HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3643
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Family Movies FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Family Movies FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3644
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FX HD" tvg-logo="" group-title="Server ID",Server ID: FX HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3645
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FX FHD" tvg-logo="" group-title="Server ID",Server ID: FX FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3646
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HBO HD " tvg-logo="" group-title="Server ID",Server ID: HBO HD 
+http://tvku.live:8888/rizal4/9UKa43SyYG/4828
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HBO Hits HD" tvg-logo="" group-title="Server ID",Server ID: HBO Hits HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/4829
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HBO Family HD" tvg-logo="" group-title="Server ID",Server ID: HBO Family HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/4830
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: HBO Signature HD" tvg-logo="" group-title="Server ID",Server ID: HBO Signature HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/4831
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Red By HBO HD" tvg-logo="" group-title="Server ID",Server ID: Red By HBO HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/4832
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Cinemax HD" tvg-logo="" group-title="Server ID",Server ID: Cinemax HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/4833
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: Sony ONE HD" tvg-logo="" group-title="Server ID",Server ID: Sony ONE HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3647
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport HD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3648
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3649
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport 2 HD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport 2 HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3650
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport 2 FHD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport 2 FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3651
+#EXTINF:-1 tvg-id="" tvg-name="Server ID: FOX Sport 3 HD" tvg-logo="" group-title="Server ID",Server ID: FOX Sport 3 HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3652
+#EXTINF:-1 tvg-id="nettv.id" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/24
+#EXTINF:-1 tvg-id="NetTV.id" tvg-name="NET TV FHD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/78
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
+http://tvku.live:8888/rizal4/9UKa43SyYG/36
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Sport HD" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Sports",TVRI Sport HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/3831
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/34
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV FHD" tvg-logo="" group-title="Lokal",Trans TV FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/929
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7
+http://tvku.live:8888/rizal4/9UKa43SyYG/35
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7 FHD" tvg-logo="" group-title="Lokal",Trans 7 FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/930
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Lokal",SCTV
+http://tvku.live:8888/rizal4/9UKa43SyYG/32
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="" group-title="Lokal",Indosiar
+http://tvku.live:8888/rizal4/9UKa43SyYG/1845
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Lokal",Indosiar HD
+http://tvku.live:8888/rizal4/9UKa43SyYG/33
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://pbs.twimg.com/profile_images/1039781395348914177/aW_orYDA_400x400.jpg" group-title="Lokal",O Channel
+http://tvku.live:8888/rizal4/9UKa43SyYG/1727
+#EXTINF:-1 tvg-id="" tvg-name="RCTI Plus" tvg-logo="" group-title="Lokal",RCTI Plus
+http://tvku.live:8888/rizal4/9UKa43SyYG/4523
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV Plus" tvg-logo="" group-title="Lokal",MNC TV Plus
+http://tvku.live:8888/rizal4/9UKa43SyYG/4524
+#EXTINF:-1 tvg-id="" tvg-name="GTV Plus" tvg-logo="" group-title="Lokal",GTV Plus
+http://tvku.live:8888/rizal4/9UKa43SyYG/4525
+#EXTINF:-1 tvg-id="" tvg-name="iNews Plus" tvg-logo="" group-title="Lokal",iNews Plus
+http://tvku.live:8888/rizal4/9UKa43SyYG/4526
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia" tvg-logo="https://ganteng.stream/liga1.png" group-title="Sports",Liga 1 Indonesia
+http://tvku.live:8888/rizal4/9UKa43SyYG/1185
+#EXTINF:-1 tvg-id="" tvg-name="Liga 1 Indonesia 2" tvg-logo="https://ganteng.stream/liga1.png" group-title="Sports",Liga 1 Indonesia 2
+http://tvku.live:8888/rizal4/9UKa43SyYG/1719
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Lokal",ANTV
+http://tvku.live:8888/rizal4/9UKa43SyYG/31
+#EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="" group-title="News",Channel News Asia
+http://tvku.live:8888/rizal4/9UKa43SyYG/1191
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="" group-title="News",CNBC Indonesia
+http://tvku.live:8888/rizal4/9UKa43SyYG/1512
+#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-name="CNN Indonesia" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="News",CNN Indonesia
+http://tvku.live:8888/rizal4/9UKa43SyYG/44
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="" group-title="News",IDX
+http://tvku.live:8888/rizal4/9UKa43SyYG/1771
+#EXTINF:-1 tvg-id="" tvg-name="CNN Int" tvg-logo="" group-title="News",CNN Int
+http://tvku.live:8888/rizal4/9UKa43SyYG/1200
+#EXTINF:-1 tvg-id="" tvg-name="DW TV Asia" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/05/DW-TV-ASIA-670x300.jpg" group-title="News",DW TV Asia
+http://tvku.live:8888/rizal4/9UKa43SyYG/205
+#EXTINF:-1 tvg-id="TVOne.id" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="News",TV ONE
+http://tvku.live:8888/rizal4/9UKa43SyYG/29
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="News",Kompas TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/30
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/archive/b/bb/20101206120639%21New_MetroTV_Logo_2010.png" group-title="News",Metro TV FHD
+http://tvku.live:8888/rizal4/9UKa43SyYG/1697
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="News",Metro TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/52
+#EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="Variety",Insert
+http://tvku.live:8888/rizal4/9UKa43SyYG/1763
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg TV Asia" tvg-logo="https://live-tv-channels.net/pt-data/uploads/logo/jp-bloomberg-tv-asia.jpg" group-title="News",Bloomberg TV Asia
+http://tvku.live:8888/rizal4/9UKa43SyYG/137
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="Lokal",Rajawali TV
+http://tvku.live:8888/rizal4/9UKa43SyYG/37
+#EXTINF:-1 tvg-id="" tvg-name="Spacetoon" tvg-logo="" group-title="Kids",Spacetoon
+http://tvku.live:8888/rizal4/9UKa43SyYG/1541
+#EXTINF:-1 tvg-id="" tvg-name="Baby First" tvg-logo="" group-title="Kids",Baby First
+http://tvku.live:8888/rizal4/9UKa43SyYG/1204
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="" group-title="Kids",Dunia Anak
+http://tvku.live:8888/rizal4/9UKa43SyYG/907
