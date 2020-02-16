@@ -23,7 +23,10 @@ http://
 http://
 
 
-
+#EXTINF:0 group-title="SPORTS"tvg-logo="",USEE SPORT 2
+https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w1857596620_b1344100_sleng.m3u8?enc=zqXWcNta-7grVZZCe57q7A&exp=1581883015
+#EXTINF:0 group-title="SPORTS"tvg-logo="",USEE SPORT 1
+https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w63616971_b1344100_sleng.m3u8?enc=mVAjjrdIxz2lw39NiQ_7DQ&exp=1581883253
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fb/MNCNews_tegak.png/1200px-MNCNews_tegak.png" group-title="TV NASIONAL",MNC News
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
