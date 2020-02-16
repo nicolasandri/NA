@@ -1932,15 +1932,6 @@ https://video-sin6-2.xx.fbcdn.net/v/t39.24130-2/10000000_1106930519648692_569120
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon : Kereta Api Nobita
 https://video-sin6-2.xx.fbcdn.net/v/t39.24130-2/10000000_188605672219213_1236359466075839218_n.mp4?_nc_cat=110&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_p2p=0&_nc_ohc=btvdJJyW950AX-ORy_0&_nc_ht=video-sin6-2.xx&oh=d1e95770e259a99e9a759b0b7f3a9182&oe=5ED62D1B
 
-#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNzYyZWIwZjQtZGVjZi00NWIxLTk0ODMtNzA3YzE5MWM3OWI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="FILM REQUEST", IP MAN 4 SUB ENG HD
-https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_178600193426508_6144613672046359346_n.mp4?_nc_cat=106&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=0esbW6hyAtwAX9sIfW5&_nc_ht=video-xsp1-1.xx&oh=7501f9016897484a51776296b1092362&oe=5EC5DCE3
-
-#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNzYyZWIwZjQtZGVjZi00NWIxLTk0ODMtNzA3YzE5MWM3OWI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="FILM REQUEST", IP MAN 4 SUB INDO CAM
-https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_2491157474433456_7846364344296596444_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=dSK1sB3QMToAX-ztqsA&_nc_ht=video-xsp1-1.xx&oh=428dd49392812e2449b9a7998d1161a3&oe=5F01C9CF
-
-#EXTINF:-1 logo="https://cdn2.tstatic.net/jateng/foto/bank/images/sinopsis-film-danur-3.jpg" group-title="FILM REQUEST" DANUR 3
-https://video-xsp1-1.xx.fbcdn.net/v/t42.9040-2/10000000_815296928935836_4504292220911747072_n.mp4?_nc_cat=110&efg=eyJybHIiOjMwMCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=gtBIT-0pqC4AX85B4zM&rl=300&vabr=95&_nc_ht=video-xsp1-1.xx&oh=d53d28d15f4ad2a69d167c7c161529ed&oe=5E49CD96
-
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon : Aku Cinta Kamu
 https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_149587626508674_6769486275339726086_n.mp4?_nc_cat=101&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=nFEkmXqxXz0AX8DGLwV&_nc_ht=video-sin2-2.xx&oh=1c27a3a7f803d7f8631ede6ae50611a9&oe=5E91721A
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon : Penemuan Besar Rahasia Suneo
@@ -1998,7 +1989,22 @@ https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_1522248181280117_187867
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon :Cairan Bikin Banyak Makanan
 https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_171152484203922_7721712269050343585_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=l5MfVEGMi5sAX9mj9nd&_nc_ht=video-sin2-2.xx&oh=15cc68955d19ba0b65d3026503d29a02&oe=5EC50F77
 
-EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/0jbvhGZyHkQ8xnY1Vzx9x603fPg=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2923780/original/014120800_1569567162-danurr1.jpg" group-title="VOD Film Indonesia",Danur 3 (2019)
+Film request
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNzYyZWIwZjQtZGVjZi00NWIxLTk0ODMtNzA3YzE5MWM3OWI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="FILM REQUEST", IP MAN 4 SUB ENG HD
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_178600193426508_6144613672046359346_n.mp4?_nc_cat=106&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=0esbW6hyAtwAX9sIfW5&_nc_ht=video-xsp1-1.xx&oh=7501f9016897484a51776296b1092362&oe=5EC5DCE3
+
+#EXTINF:-1 logo="https://m.media-amazon.com/images/M/MV5BNzYyZWIwZjQtZGVjZi00NWIxLTk0ODMtNzA3YzE5MWM3OWI0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg" group-title="FILM REQUEST", IP MAN 4 SUB INDO CAM
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_2491157474433456_7846364344296596444_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=dSK1sB3QMToAX-ztqsA&_nc_ht=video-xsp1-1.xx&oh=428dd49392812e2449b9a7998d1161a3&oe=5F01C9CF
+
+#EXTINF:-1 logo="https://cdn2.tstatic.net/jateng/foto/bank/images/sinopsis-film-danur-3.jpg" group-title="FILM REQUEST" DANUR 3
+https://video-xsp1-1.xx.fbcdn.net/v/t42.9040-2/10000000_815296928935836_4504292220911747072_n.mp4?_nc_cat=110&efg=eyJybHIiOjMwMCwicmxhIjo0MDk2LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=gtBIT-0pqC4AX85B4zM&rl=300&vabr=95&_nc_ht=video-xsp1-1.xx&oh=d53d28d15f4ad2a69d167c7c161529ed&oe=5E49CD96
+
+#EXTINF:-1 logo="https://cdn0-production-images-kly.akamaized.net/PZl4a8L9iDeAfN51OBgrnfIcmUM=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2793828/original/065521700_1556768996-dua.jpg" group-title="FILM REQUEST" DUA GARIS BIRU
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_201207560907608_4180577507489806977_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=FXL_LllVkSQAX98ohan&_nc_ht=video-xsp1-1.xx&oh=c951d17a5df42899b6f49f4302a5542d&oe=5EB8E1B0
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nLB8mJ74/Dreadout.jpg" group-title="VOD Film Indonesia",Dreadout Sub Indo (2019)
