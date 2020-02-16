@@ -1607,7 +1607,7 @@ http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
 #EXTINF:-1 tvg-logo="https://commodusprod.hooq.tv/cdnimagesprod/assets/feed/34c6ccfc44fa.png" group-title="Kids/Animation",THE PET COLLECTIVE
 https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1577080744~exp=9007200831821735~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=baa54452db02d00d42b3b34565dd2c7ac10da7fdec56bbe1e717ce4fccaba918
 
-#EXTINF:-1 tvg-logo="http://ai-turkey.com/wp-content/uploads/2016/05/AI-Turkey-Doraemon-Logo.png" group-title="Kids/Animation", Doraemon 
+#EXTINF:-1 tvg-logo="http://ai-turkey.com/wp-content/uploads/2016/05/AI-Turkey-\-Logo.png" group-title="Kids/Animation", Doraemon 
 
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="Kids/Animation",Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
@@ -1770,6 +1770,97 @@ http://wpso.com:1936/hls/kidshd.m3u8
 
 
 DORAEMON
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Pahlawan Serangga
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_536048427033903_7366911856606255713_n.mp4?_nc_cat=104&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=2WtnjxYD1R8AX-XoKjU&_nc_ht=video-xsp1-1.xx&oh=dfaa980e9b363c1ba43e89e80d08eac9&oe=5EB87B04
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Kepala Ular Gorgon
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_201217574267812_4699822602681909483_n.mp4?_nc_cat=101&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=FMXjsxg-Zy0AX8b8elD&_nc_ht=video-xsp1-1.xx&oh=ab34823c8a61f131a8276304af1ef102&oe=5EBD4261
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Tangan Ajaib
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_127500355457180_2724799372384641793_n.mp4?_nc_cat=107&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=O8miik5jxqoAX_6X6VM&_nc_ht=video-xsp1-1.xx&oh=175b9ac93de4f58ac20d7e2ccef07f35&oe=5F02F0F8
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Gian Jadi Panda
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_145574499819814_3759156014724483114_n.mp4?_nc_cat=106&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=amPb5Sq3A4YAX_isOB3&_nc_ht=video-xsp1-1.xx&oh=c2eafbf0ba9fa8a0821af5d6f7be722b&oe=5EC04B69
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Kisah Romantis Manusia Salju
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_103765254463024_5096917483198644482_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=GUA-mbw6fT8AX-dMn6H&_nc_ht=video-xsp1-1.xx&oh=0f4d761f0a15ef64c548d95552cab637&oe=5F000509
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Perang Hallowen
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_191147795567698_8125493706779068426_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=JEe-IK4BC1kAX-mGGcU&_nc_ht=video-xsp1-1.xx&oh=009c94542ba2551de5d71c4ffeef4934&oe=5EB918CE
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Robot Manusia Salju
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_855914288185374_5708288141274024647_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=dKIeC5WDmf4AX9x3eve&_nc_ht=video-xsp1-1.xx&oh=5b7394bf7512cd4ab5b3eaca74a0b903&oe=5EC196F8
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Cerita Dahulu Kala
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_235694224110192_1854745992386033865_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=t08ZKQnEQ8QAX9V147C&_nc_ht=video-xsp1-1.xx&oh=9fe214fbc8b5d59d8d2f9630a2f99574&oe=5F020FB1
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Umur Mama Seumuran anak SD
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_146570593479205_8068458467592492561_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=-OVEDjSgceMAX_-A3Px&_nc_ht=video-xsp1-1.xx&oh=b7d0b38a0f6230aa3999e866ff510070&oe=5ECC5E53
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Pertandingan Tinju
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_229548381406790_6740674542741200407_n.mp4?_nc_cat=103&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=Hj1-6fmwy-4AX-TkUD-&_nc_ht=video-xsp1-1.xx&oh=7ff60eeb05694d008c3486fff5bd4756&oe=5EFA4F18
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Kecanduan Nyanyian Gian
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_621170858703220_4208471854069781262_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=RE06e2ld1Q0AX9Jha93&_nc_ht=video-xsp1-1.xx&oh=a934dddb9a04e5f66a78d030b4cad75b&oe=5EC4B932
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Makan Permen Lalu Jadi Penyanyi
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_1048452098854981_3479225085148267874_n.mp4?_nc_cat=104&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=wUIUm_GaSkgAX-aDJKk&_nc_ht=video-xsp1-1.xx&oh=25efea41613b13da958868223885bd85&oe=5EC53E1E
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Bak Mandi Super Bebas 1010
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_615953669237752_5805066475339716635_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=9gj_8T4yOkAAX9vIUhH&_nc_ht=video-xsp1-1.xx&oh=47a5f57630d6b84c64abaa3db5be69ce&oe=5EC66AFB
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Panah Terbalik
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_1494560327386649_290516573083732769_n.mp4?_nc_cat=110&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=HkClCLciiZ4AX85KeBR&_nc_ht=video-xsp1-1.xx&oh=a4eee98cc725c9a4e112cd5ad4b1345a&oe=5EB5BC3E
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Bom Waktu Buku Permainan
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_644701112950870_5093034461831110394_n.mp4?_nc_cat=106&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=Fp9Ok68-QygAX-HUMte&_nc_ht=video-xsp1-1.xx&oh=3b93af6fc7c1b040873875711cf1cf27&oe=5ECDBEDF
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Perlombaan Olah Raga Nobita
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_187369929036673_7598330185463681093_n.mp4?_nc_cat=107&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=UmxjILccGBEAX9V_GCG&_nc_ht=video-xsp1-1.xx&oh=c7e293c046aa6aa94e6809bc8451b663&oe=5EB62F69
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Mesin Petualangan Ulang tahun Nobita
+https://video-xsp1-1.xx.fbcdn.net/v/t42.9040-2/10000000_1080767845623031_7246143894650355712_n.mp4?_nc_cat=105&efg=eyJybHIiOjMwMCwicmxhIjozODQ4LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=48p74OXTKW4AX8FHz84&rl=300&vabr=159&_nc_ht=video-xsp1-1.xx&oh=355290e285aa403deaffe0954529150c&oe=5E49C393
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Rasi Bintang Nobita
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_232147441283298_3178458351037835460_n.mp4?_nc_cat=107&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=F7mhJfLiIuoAX9g6Far&_nc_ht=video-xsp1-1.xx&oh=81d616fa0d361d2cc8963dcead614bca&oe=5EBBF941
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Investigasi Pura Pura
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_195968955114211_493707158372177759_n.mp4?_nc_cat=106&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=uW_eRvhK1zEAX-3MVa8&_nc_ht=video-xsp1-1.xx&oh=96a544c0f9bb841363eeed2b0780b985&oe=5EBFD939
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Kekuatan Mata 100 Volt
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_499270450775017_6523213498731940409_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=0i5gJAlwJvEAX_cjSBT&_nc_ht=video-xsp1-1.xx&oh=250da6318bdd1a705058f47f0f2c112b&oe=5EBC96C2
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Titik Penghalang
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_623630868457456_4088739081598724653_n.mp4?_nc_cat=104&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=lEveSO9_8IcAX-DM5en&_nc_ht=video-xsp1-1.xx&oh=0d2477e9afe363615b7a71ceab0f1382&oe=5EFF26D3
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Hantu Tak Berwajah
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_488957518681667_3286834469739170768_n.mp4?_nc_cat=103&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=8S0ztcMpOE8AX_RwWYT&_nc_ht=video-xsp1-1.xx&oh=74424cd0e00842ce5684579efc0c1499&oe=5EC3A89C
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Andaikan Waktu Bisa Kuputar Kembali
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_238975873778452_4654375280375813629_n.mp4?_nc_cat=103&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=OpWGFj6H7r8AX-rkpvX&_nc_ht=video-xsp1-1.xx&oh=3ec124d5e1a3173623b31282a5d8cb1f&oe=5ECBBF8A
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Menghindar Dari Nilai 0
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_2887713787917178_5192507620621846846_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=2eUrw4LA8uAAX_AJQoe&_nc_ht=video-xsp1-1.xx&oh=1c24e517724c827dc62e1ba6234fd832&oe=5EF88F0D
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Nobita Food Bloger
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_802339300232387_5972527806431811463_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=TkqdQuGwsD4AX-2gxFC&_nc_ht=video-xsp1-1.xx&oh=b40296b30973ef7e7eaa9b543f34f2e5&oe=5EC5314C
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 SEDIH !!! DORAEMON EPISODE TERAKHIR
+https://video-xsp1-1.xx.fbcdn.net/v/t42.9040-2/10000000_206964143833846_6090849218749005824_n.mp4?_nc_cat=108&efg=eyJybHIiOjMwMCwicmxhIjoxMjYzLCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=mJWrdBbgMbMAX_efoLG&rl=300&vabr=106&_nc_ht=video-xsp1-1.xx&oh=89c504243148ff586dd849ce5f0440da&oe=5E49D57F
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon Sub Indo - Kotak Telpon Pengabul Keinginan
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_660738808087325_5236865503475528823_n.mp4?_nc_cat=110&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=_AWP8vbDtOUAX-Nx3Em&_nc_ht=video-xsp1-1.xx&oh=1674b5fd4f4ceaadad7ad29992b1ea4e&oe=5ECA3ACF
+
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon Sub Indo - Bermain Kartu Tebak Gambar
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_2504874146402567_1922983549608226798_n.mp4?_nc_cat=107&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=lR6GQfNLv94AX_JSSNQ&_nc_ht=video-xsp1-1.xx&oh=866bc5420ddbb5a578743ae7003a444f&oe=5ECD50B8
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon Sub Indo : Pelarian Papa
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_292873355005955_9201665761779217031_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=Ny9ylw52jzcAX8fgUVC&_nc_ht=video-xsp1-1.xx&oh=5c4ea4f895e72ff757ac286a75088694&oe=5EFDDC94
+
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Telor Bebek
+https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_489056345370453_7477694758754766974_n.mp4?_nc_cat=106&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=fQzL_z4KXPMAX_pe3fo&_nc_ht=video-xsp1-1.xx&oh=f1196e21937d2c2ab2081b9ab71fc13b&oe=5ECCC27F
+
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon : Nobita VS Nobita
 https://video-sin6-2.xx.fbcdn.net/v/t39.24130-2/10000000_203631157450903_4189203112227027800_n.mp4?_nc_cat=103&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_p2p=0&_nc_ohc=7A4RmYFVTrMAX-piJ6z&_nc_ht=video-sin6-2.xx&oh=e0641d39288c81fdb325f3b8820ded5b&oe=5EB7C28D
 
