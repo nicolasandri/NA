@@ -22,15 +22,20 @@ http://
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/telegram-logo-AD3D08A014-seeklogo.com.png" group-title="",Silahkan Chat TELEGRAM Kami https://t.me/AndroidstV
 http://
 
+#EXTINF:0 group-title="USEETV"tvg-logo="",MNCTV PIALA GUBERNUR JATIM
+https://etslive-2-vidio-com.akamaized.net/exp=1582082929~acl=/hls-p/ingest_870_*/*~hmac=93f99de54b825a1e7e090996b646afb9dc803b195d285b218e980cc7283a5977/hls-p/ingest_870_720p/index.m3u8
 
 #EXTINF:0 group-title="USEETV"tvg-logo="",DUNIA LAIN
 https://cdnmdc2.useetv.com/joss/14/dunialain/chunklist_w1439622099_b684100_sleng.m3u8?enc=pu3B65OaI5be2DzuPBSVfA&exp=1581884222
 
 #EXTINF:0 group-title="USEETV"tvg-logo="",USEE SPORT 2
-https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w1857596620_b1344100_sleng.m3u8?enc=zqXWcNta-7grVZZCe57q7A&exp=1581883015
-
+https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w1231979473_b1344100_sleng.m3u8?enc=sozIhIJMDMAnZnTFyBXJSA&exp=1581948111
 #EXTINF:0 group-title="USEETV"tvg-logo="",USEE SPORT 1
-https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w63616971_b1344100_sleng.m3u8?enc=mVAjjrdIxz2lw39NiQ_7DQ&exp=1581883253
+https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w540722137_b1344100_sleng.m3u8?enc=OMdMv3Fd8zgACcy5FvEHhg&exp=1581948078
+#EXTINF:0 group-title="USEETV"tvg-logo="",CHAMPION 1
+https://edgejt6.useetv.com/joss/194/champion1/chunklist_w1843771329_b1344100_sleng.m3u8?enc=nmwQXEGsjkDKd7n8autykg&exp=1581948136
+#EXTINF:0 group-title="USEETV"tvg-logo="",CHAMPION 2
+https://cdnjt25.useetv.com/joss/194/champion2/chunklist_w109631787_b1344100_sleng.m3u8?enc=glUiaIkRfACOJBmv8p4EVQ&exp=1581948196
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fb/MNCNews_tegak.png/1200px-MNCNews_tegak.png" group-title="TV NASIONAL",MNC News
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
