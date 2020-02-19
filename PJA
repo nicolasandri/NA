@@ -352,6 +352,9 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cyABGmB.png" group-title="TV MALAYSIA",eGG Network
 http://45.126.83.51/uq2663/h/h22/index.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAeb5G475RI8yR_yryZx7p3RacI6tfA96Ui94ybkS_ydzXNt3r" group-title="SPORTS",CHANNEL SEDANG PERBAIKAN
+
 HIBURAN
 
 #EXTINF:-1 tvg-id="" tvg-name="Freemium" tvg-logo="" group-title="HIBURAN",Blue Ant Extreme
