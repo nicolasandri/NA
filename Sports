@@ -1,17 +1,26 @@
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/111.png",BeInSport 1 HD+
-https://bitmovin-a.akamaihd.net/content/MI201109210084_1/mpds/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.mpd&selected_id=1080_4800000
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 HD
-https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_2.m3u8
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/8111.png",BeInSport 1 SD
-https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index_3.m3u8
+https://github.com/nicolasandri/NA/blob/master/Sequence%2001_2.mp4?raw=true
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD+
-https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_1.m3u8
+https://github.com/nicolasandri/NA/blob/master/Sequence%2001_2.mp4?raw=true
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD
-https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_2.m3u8
+#EXTINF:0 group-title="SPORTS"tvg-logo="",USEE SPORT 1
+https://cdnbdsa1.useetv.com/joss/15/useesport/chunklist_w708261317_b1344100_sleng.m3u8?enc=J8bArzJbbuS41hCyhUrsng&exp=1582117687
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/8112.png",BeInSport 2 SD
-https://production-premium-vidio-bein2.akamaized.net/out/v1/ad75e6e255cd45b1849f6ba0606bf0ee/index_3.m3u8
+#EXTINF:0 group-title="SPORTS"tvg-logo="",USEE SPORT 2
+https://edgejt6.useetv.com/joss/15/useesports2/chunklist_w1142871209_b1344100_sleng.m3u8?enc=jbQ6BEW_CSBNjsJedNxoWQ&exp=1582117711
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="",CHAMPION 1
+https://etslive-2-vidio-com.akamaized.net/exp=1582252745~acl=/hls-b/ingest_geo_6685_*/*~hmac=d1f61acea97598e15c55910e7172050af2da943d735ba9041e0e59f95659adef/hls-b/ingest_geo_6685_720p/index.m3u8
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="",CHAMPION 1 BACKUP
+https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w1219458046_b1344100_sleng.m3u8?enc=RAQjz-_DvCT7OnuIjnYYgg&exp=1582117793
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="",CHAMPION 2
+https://etslive-2-vidio-com.akamaized.net/exp=1582123171~acl=/hls-p/ingest_geo_6686_*/*~hmac=507baafe8e4e16721d3d2500cdc2cc0d36b5c12e6ec2bcc8846aa338806f7b4a/hls-p/ingest_geo_6686_720p/index.m3u8
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="",CHAMPION 2 BACKUP
+https://edgejt6.useetv.com/joss/194/champion2/chunklist_w810916992_b1344100_sleng.m3u8?enc=lnjR-x1IPB9hyAFrDzpaHw&exp=1582117828
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="",NBA TV
+https://production-drm-vidio-com-nba.akamaized.net/out/v1/216dbf3f50f34a8d982d7a45b8328764/index_1.m3u8
