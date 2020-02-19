@@ -44,7 +44,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="TV NASIONAL",INDOSIAR HD
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
-
 #EXTINF:0 group-title="TV NASIONAL"tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/MNCTV.png",MNCTV HD
 https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 #EXTINF:0 group-title="TV NASIONAL"tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/MNCTV.png",MNCTV SD
