@@ -403,7 +403,7 @@ C
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png",CHAMPION 1
-https://dl.dropbox.com/s/6cim8t5aq5ta2n3/Champ1.css?dl=0
+https://dl.dropboxusercontent.com/s/6cim8t5aq5ta2n3/Champ1.css?dl=0
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png",CHAMPION 1 BACKUP
 https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w1219458046_b1344100_sleng.m3u8?enc=RAQjz-_DvCT7OnuIjnYYgg&exp=1582117793
@@ -412,7 +412,7 @@ https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w1219458046_b1344100_sle
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png",CHAMPION 2
-https://dl.dropbox.com/s/1rxru3jj70b5tmv/Champ2.css?dl=0
+https://dl.dropboxusercontent.com/s/1rxru3jj70b5tmv/Champ2.css?dl=0
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png",CHAMPION 2 BACKUP
 https://edgejt6.useetv.com/joss/194/champion2/chunklist_w810916992_b1344100_sleng.m3u8?enc=lnjR-x1IPB9hyAFrDzpaHw&exp=1582117828
