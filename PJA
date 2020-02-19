@@ -404,7 +404,7 @@ C
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png",CHAMPION 1
-https://etslive-2-vidio-com.akamaized.net/exp=1582252745~acl=/hls-b/ingest_geo_6685_*/*~hmac=d1f61acea97598e15c55910e7172050af2da943d735ba9041e0e59f95659adef/hls-b/ingest_geo_6685_720p/index.m3u8
+https://production-drm-vidio-com-event-1.akamaized.net/out/v1/903b7e6d7fd341df898ec4a133307341/index_1.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png",CHAMPION 1 BACKUP
 https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w1219458046_b1344100_sleng.m3u8?enc=RAQjz-_DvCT7OnuIjnYYgg&exp=1582117793
@@ -413,7 +413,7 @@ https://cdnjt25.useetv.com/joss/194/champion1/chunklist_w1219458046_b1344100_sle
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png",CHAMPION 2
-https://etslive-2-vidio-com.akamaized.net/exp=1582123171~acl=/hls-p/ingest_geo_6686_*/*~hmac=507baafe8e4e16721d3d2500cdc2cc0d36b5c12e6ec2bcc8846aa338806f7b4a/hls-p/ingest_geo_6686_720p/index.m3u8
+https://production-drm-vidio-com-event-7.akamaized.net/out/v1/9db14fadb7a14bb6803cf28b1cac4e81/index_1.m3u8
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png",CHAMPION 2 BACKUP
 https://edgejt6.useetv.com/joss/194/champion2/chunklist_w810916992_b1344100_sleng.m3u8?enc=lnjR-x1IPB9hyAFrDzpaHw&exp=1582117828
@@ -429,9 +429,6 @@ E
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gr/EdgeSport.gr.png" group-title="SPORTS",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cyABGmB.png" group-title="SPORTS",eGG Network
-http://45.126.83.51/uq2663/h/h22/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLndFdXJvU3BvcnQxSERfNzc2Njc4MF9zY3JlZW5fMTVfMTUzNjE5NDIxM18wOTE/screen-15.jpg?fakeurl=1&type=.jpg" group-title="SPORTS",Eurosport 1
 http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
@@ -588,11 +585,14 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 
 U
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://images.useetv.com/tvposter/useeSport.png",USEE SPORT 1
+
 https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w49035720_b1344100_sleng.m3u8?enc=TsOI9TVEdDv1DTeidf6zXA&exp=1582127628
 
-#EXTINF:0 group-title="SPORTS"tvg-logo="https://images.useetv.com/tvposter/useeSport.png",USEE SPORT 2
-https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w1359271215_b1344100_sleng.m3u8?enc=QQt3s3bQ03_Yvq4yaKm1og&exp=1582127675
 
+
+#EXTINF:0 group-title="SPORTS"tvg-logo="https://images.useetv.com/tvposter/useeSport.png",USEE SPORT 2
+
+https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w1359271215_b1344100_sleng.m3u8?enc=QQt3s3bQ03_Yvq4yaKm1og&exp=1582127675
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/ufc-tv-logo-FAC9E3D4D8-seeklogo.com.png" group-title="SPORTS",UFC HD
 http://78.141.211.61:4000/8
@@ -619,6 +619,8 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 Y
 
 Z
+
+
 
 
 HIBURAN
