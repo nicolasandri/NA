@@ -624,11 +624,258 @@ Z
 
 
 HIBURAN
-#EXTINF:-1 tvg-logo="" group-title="HIBURAN", CHANNEL DALAM PERBAIKAN
+
+
+#EXTINF:-1 group-title="HIBURAN",73 CHANNEL AKTIF 
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
 
-#EXTINF:-1 tvg-logo="" group-title="HIBURAN", 20 FEB 2020 00:00 AM Sampai 15:00 PM
-https://dl.dropboxusercontent.com/s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
+#EXTINF:-1 group-title="HIBURAN",21 HD (No Subtitlle)
+http://51.158.190.97/hls/stream.m3u8
+A
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="HIBURAN",AMC (No Subtitlle)
+http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
+
+EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="HIBURAN", American Horrors (No Subtitlle)
+http://170.178.189.66:1935/live/Stream1/.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="HIBURAN", American Horrors Backup (No Subtitlle)
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="HIBURAN",Anhui TV (Sub Mandarin)
+https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",AWESOME (No Subtitlle)
+https://livetvhooq.akamaized.net:443/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="HIBURAN",AXN (Sub Indonesia) SD
+http://210.210.155.66/h/h141/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="HIBURAN",AXN (Sub Indonesia)
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8
+
+B
+
+#EXTINF:-1 tvg-logo="https://dstroscal1.s.llnwi.net/public/hls/22667/bollywood-tv/logo_20191213_005922.png" group-title="HIBURAN",Bollywood TV (No Subtitlle)
+http://a.jsrdn.com/broadcast/d5b45/+0000/high/c.m3u8
+C
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gzCEYJZFd07vJO7M6fhuyJCNG-o=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/515023/celestial-movies-heaven-in-the-dark-941656.jpg" group-title="HIBURAN",Celestial Movies (Sub Indonesia) (SD) BACKUP
+https://anevia115.mncnow.id:443/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gzCEYJZFd07vJO7M6fhuyJCNG-o=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/515023/celestial-movies-heaven-in-the-dark-941656.jpg" group-title="HIBURAN",Celestial Movies (Sub Indonesia) (SD)
+https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/gzCEYJZFd07vJO7M6fhuyJCNG-o=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/515023/celestial-movies-heaven-in-the-dark-941656.jpg" group-title="HIBURAN",Celestial Movies (Sub Indonesia) (HD)
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/321_300.png" group-title="HIBURAN",Celestial Classic Movies (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HIBURAN",Cinemax (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HIBURAN",Cinemax (Sub Indonesia) (HD) +
+https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="HIBURAN",CINEMA WORLD (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="HIBURAN",CINEMA WORLD (Sub Indonesia) (HD) +
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld.m3u8
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/logo-ci.jpg" group-title="HIBURAN",CRIME INVESTIGATION (Sub Indonesia) (SD)
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="HIBURAN",Comedy Network (No Subtitlle) (HD)
+http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/316
+D
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/hr/Diva.hr.png" group-title="HIBURAN",Diva (No Subtitlle)
+http://ott.artmott.com/DIVA/tracks-v1a1/mono.m3u8
+
+E
+#EXTINF:-1 tvg-logo="http://logok.org/wp-content/uploads/2014/05/E-Logo_Black.png" group-title="HIBURAN",E! 18 + (No Subtitlle)
+http://ott.artmott.com/E!/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="HIBURAN",ET Live (No Subtitlle)
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+
+#EXTINF:-1 tvg-logo="https://www.eventmanagerblog.com/wp-content/uploads/2018/10/350x215-FEAT-in-post-Entertainment.jpg" group-title="HIBURAN",ENTERTAINMENT (No Subtitlle)
+https://livetvhooq.akamaized.net:443/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600290~exp=9007200828341281~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_0/chunklist.m3u8*~hmac=30e5c1e07672f7c7de106b843093231ffae71271a99008779f59afb36a3eac58
+F
+#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/fashionboxhd-logo.png" group-title="HIBURAN",Fashion Box (No Subtitlle)
+https://1575390972.rsc.cdn77.org/1575390972/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTExNjYwMzI2Ml5BMl5BanBnXkFtZTgwMDQwNjQ5NjE@._V1_UY268_CR0,0,182,268_AL_.jpg" group-title="HIBURAN",FAIL ARMY (No Subtitlle)
+https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BDtkjpS.png" group-title="HIBURAN",Filmrise Crime (No Subtitlle)
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisecrime/CDN/640x432_2500000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/bg/FoodNetwork.bg.png" group-title="HIBURAN",Food Network (No Subtitlle)
+http://5.135.92.133:52841/out/u/502_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/FoxLife.pt.png" group-title="HIBURAN",FOX Life (Sub Indonesia) HD ++
+https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/FoxLife.pt.png" group-title="HIBURAN",FOX Life (Sub Indonesia) HD +
+https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="HIBURAN",FOX (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="HIBURAN",FOX (Sub Indonesia) (HD) +
+https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png" group-title="HIBURAN",FOX News (No Subtitlle)
+https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Extra-HD/images/ExtraHD-20rb_11.png" group-title="HIBURAN",FOX CRIME (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/Minipack/Extra-HD/images/ExtraHD-20rb_11.png" group-title="HIBURAN",FOX CRIME (Sub Indonesia) (HD) +
+https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/1200px-FX_Italia_logo.svg.png" group-title="HIBURAN",FX (No Subtitlle) (HD) 
+http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/314
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/1200px-FX_Italia_logo.svg.png" group-title="HIBURAN",FX Sub (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/1200px-FX_Italia_logo.svg.png" group-title="HIBURAN",FX Sub (Sub Indonesia) (HD) +
+https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/1200px-FX_Italia_logo.svg.png" group-title="HIBURAN",Fx (Sub Thailand) (HD)
+http://iliketot.dyndns.TV/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yMy8yMDE4IDE6Mzk6MzEgUE0maGFzaF92YWx1ZT1kOHNlKzVndVZ1S0Jlb3JqU2Z4cDV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9cGh1YmVzczM1fDkyNnx1cGxheXwxNTMyMzUzMTcxfDExMC4xNjkuMTI4LjE3MA==
+
+#EXTINF:0 tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg" group-title="HIBURAN",FXX (No Subtitlle) (FHD) 
+http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/315
+
+G
+H
+
+#EXTINF:-1 tvg-logo="https://www.satelitnatv.sk/wp-content/uploads/2016/02/hbo3_5601.jpg" group-title="HIBURAN",HBO 3
+https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="HIBURAN",HBO 2 (SD)
+https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="HIBURAN",HBO (No Subtitlle) (FHD) Backup
+https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/814-8149274_hbo-png-hbo-signature-logo.png" group-title="HIBURAN",HBO Signature Sub (Sub Indonesia) (SD)
+https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbohits-logo.jpg" group-title="HIBURAN",HBO Hits (Sub Indonesia) (SD)
+https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="HIBURAN",HITS (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://hitstv.com/assets/logo-HITSMOVIES.png" group-title="HIBURAN",HITS MOVIES (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8-+-
+
+#EXTINF:-1 tvg-logo="https://mytvtogo.net/wp-content/uploads/2018/11/Network_HorrifiedTV-1.jpg" group-title="HIBURAN", Horrified TV (No Subtitlle)
+https://nimble.dashstreams.net/onestudio/horrified/chunks.m3u8
+I
+J
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN", Jackie Chan Movies(Only 24/7) SUB Mandarin
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
+
+K
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="HIBURAN",KIX (Sub Indonesia)
+https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
+L
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="",Lifetime (Sub Indonesia)
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
+M
+
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-mnx-hd-logo-300x300.jpg" group-title="HIBURAN",MNX (No Subtitlle) HD
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 1 Sub Mandarin 24/7
+https://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 2 Sub Mandarin 24/7
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 3 Sub Mandarin 24/7
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 4 Sub Mandarin 24/7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8?thebestfreeenglishchannels.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 5 Sub Mandarin 24/7
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 6 Sub Mandarin 24/7
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/vectorgalaxy/vectorgalaxy1808/vectorgalaxy180810366/106829252-cinema-icon-vector-isolated-on-white-background-for-your-web-and-mobile-app-design-cinema-logo-conce.jpg" group-title="HIBURAN",Movies 7 Sub Mandarin 24/7
+https://aldirect.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+
+N
+#EXTINF:-1 tvg-logo="https://img.dtnext.in/Images/Article/201710132113170314_IISL-launches-Nifty-index-to-track-SDL-securities-market_SECVPF.gif" group-title="HIBURAN",NIFTY (No Subtitlle)
+https://livetvhooq.akamaized.net:443/1648324ea85b498897752a6385bb5e08/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600131~exp=9007200828341122~acl=/1648324ea85b498897752a6385bb5e08/*/profile_0/chunklist.m3u8*~hmac=ef80a6511d587f2eb41ad6648ac462ecb322472d3dfbff48a5e800fe73d24abb
+O
+P
+Q
+R
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Rai_Movie_-_Logo_2017.svg/1200px-Rai_Movie_-_Logo_2017.svg.png" group-title="HIBURAN",RAI MOVIE (No Subtitlle)
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rai_Premium_HD_-_Logo_2017.svg/1280px-Rai_Premium_HD_-_Logo_2017.svg.png" group-title="HIBURAN",RAI PREMIUM (No Subtitlle)
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+S
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="HIBURAN",STAR MOVIES (Sub Arab)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="HIBURAN",Star Chinese Movies (Sub Mandarin)
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="HIBURAN",Sony PIX (Sub india)
+https://streamer-1.toffeelive.com/live/sony_pix_576/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/scmlegend.jpg" group-title="HIBURAN",Star Chinese Movies Legend (Sub Mandarin)
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
+T
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="HIBURAN",THRILL (Sub Indonesia) (SD)
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="HIBURAN",THRILL (Sub Indonesia) (HD)
+https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tlc-logo-774E9A4AB6-seeklogo.com.png" group-title="HIBURAN",TLC (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i.jpg" group-title="HIBURAN",TvN MOVIES (Sub Indonesia) (HD) ++
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i.jpg" group-title="HIBURAN",TvN MOVIES (Sub Indonesia) (HD) +
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="HIBURAN",TVN (Sub Indonesia)
+https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
+U
+V
+W
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/WakuWaku_Japan_logo.svg/1200px-WakuWaku_Japan_logo.svg.png" group-title="HIBURAN",WakuWaku Japan (Sub Indonesia)
+https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="HIBURAN",WARNER TV (Sub Indonesia) (SD)
+https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/1200px-WOWOW_logo.svg.png" group-title="HIBURAN",WOWOW JP (No Subtitlle) (SD)
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+X
+Y
+Z
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rEGFjekBTRot3LmIlYTJr82xWBI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-ee9d39.jpg" group-title="HIBURAN",ZEE BIOSKOP Bahasa Indonesia (SD)
+https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rEGFjekBTRot3LmIlYTJr82xWBI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-ee9d39.jpg" group-title="HIBURAN",ZEE BIOSKOP Bahasa Indonesia (SD) BACKUP
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+
 
 
 
