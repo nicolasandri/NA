@@ -636,7 +636,7 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="HIBURAN", American Horrors Backup (No Subtitlle)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="HIBURAN",Anhui TV (Sub Mandarin)
+#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Anhui TV (Sub Mandarin)
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
 
 
