@@ -350,7 +350,6 @@ https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
 SPORTS
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAeb5G475RI8yR_yryZx7p3RacI6tfA96Ui94ybkS_ydzXNt3r" group-title="SPORTS",78 CHANNEL AKTIF
 https://github.com/nicolasandri/NA/blob/master/Sequence%2001_2.mp4?raw=true
-
 A
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ESPN_logo.svg.png" group-title="SPORTS",ACC Network
@@ -415,22 +414,10 @@ C
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png",CHAMPION 1
-https://dl.dropboxusercontent.com/s/6cim8t5aq5ta2n3/Champ1.css?dl=0
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png",CHAMPION 1 BACKUP
-https://production-drm-vidio-com-event-1.akamaized.net/out/v1/903b7e6d7fd341df898ec4a133307341/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png" group-title="SPORTS",CHAMPION 1 BACKUP 2
-https://cdnbal1.useetv.com/joss/194/champion1/chunklist_w537108913_b1344100_sleng.m3u8?enc=ouNRAtpIMFhjGM1GbQz01Q&exp=1582152229
+https://dl.dropboxusercontent.com/s/6cim8t5aq5ta2n3/Champ1.m3u8?dl=
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png",CHAMPION 2
-https://dl.dropboxusercontent.com/s/1rxru3jj70b5tmv/Champ2.css?dl=0
-
-#EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png",CHAMPION 2 BACKUP
-https://production-drm-vidio-com-event-7.akamaized.net/out/v1/9db14fadb7a14bb6803cf28b1cac4e81/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png" group-title="SPORTS",CHAMPION 2 BACKUP 2
-https://cdnmdc1.useetv.com/joss/194/champion2/chunklist_w1813946798_b1344100_sleng.m3u8?enc=RgWD2Y_osx3WMmGeN8k1DA&exp=1582152268
+https://dl.dropboxusercontent.com/s/1rxru3jj70b5tmv/Champ2.m3u8?dl=0
 
 D
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/87/16/fe/8716fec5114875a41b0628fa1729457c.jpg" group-title="SPORTS",DD sportS
@@ -596,14 +583,10 @@ https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a054
 
 U
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://images.useetv.com/tvposter/useeSport.png",USEE SPORT 1
-
-https://cdnmdc2.useetv.com/joss/15/useesport/chunklist_w49035720_b1344100_sleng.m3u8?enc=TsOI9TVEdDv1DTeidf6zXA&exp=1582127628
-
-
+https://dl.dropboxusercontent.com/s/ytgv5aqzwg6qufg/useesport1.m3u8?dl=0
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://images.useetv.com/tvposter/useeSport.png",USEE SPORT 2
-
-https://cdnmdc2.useetv.com/joss/15/useesports2/chunklist_w1359271215_b1344100_sleng.m3u8?enc=QQt3s3bQ03_Yvq4yaKm1og&exp=1582127675
+https://dl.dropboxusercontent.com/s/2lcoa00kgw31nhw/useesport2.m3u8?dl=0
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/U/ufc-tv-logo-FAC9E3D4D8-seeklogo.com.png" group-title="SPORTS",UFC HD
 http://78.141.211.61:4000/8
@@ -626,10 +609,9 @@ X
 #EXTINF:-1 tvg-logo="http://actionsportsmusictv.com/wp-content/uploads/2015/05/XCgfxSTIL22.png" group-title="SPORTS",Xcorps
 http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 
+y
 
-Y
-
-Z
+z
 
 HIBURAN
 
