@@ -530,6 +530,8 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
 TV MALAYSIA
+
+
 A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg" tvg-ID="Malaysia" tvg-name="" group-title="TV MALAYSIA",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
@@ -599,8 +601,18 @@ Z
 
                                                ##############SPORTS#############
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAeb5G475RI8yR_yryZx7p3RacI6tfA96Ui94ybkS_ydzXNt3r" group-title="SPORTS",78 CHANNEL AKTIF
-https://github.com/nicolasandri/NA/blob/master/Sequence%2001_2.mp4?raw=true
+#EXTINF:-1 group-title="INFO CHANNEL" tvg-logo="" group-title="SPORTS",78 CHANNEL SPORTS AKTIF
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",SUDAH DI UPDATE TANGGAL
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",21 FEBRUARI 2020
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", JAM 15:00 SORE
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Silahkan hubungi admin 
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", Jika ada yang eror 404
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
 
 
 A
