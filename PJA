@@ -32,8 +32,12 @@ https://dl.dropboxusercontent.com/s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
 https://dl.dropboxusercontent.com/s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
 
 A
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV HD
+https://dl.dropboxusercontent.com/s/rw72qhzzpq8ix9x/ANTV.m3u8?dl=0
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV SD
 http://id2.indostreamingtv.com/live/antv/index.m3u8
+
 B
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAqagBW.png"  group-title="TV NASIONAL",BERITA SATU
 https://etslive-2-vidio-com.akamaized.net/exp=1582283297~acl=/hls-p/ingest_6165_*/*~hmac=ce0a201fcad3c8600dbbe49ad8f81b6ee8ddd83f3c67ecea93d085462231448a/hls-p/ingest_6165_720p/index.m3u8
