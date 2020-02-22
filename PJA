@@ -596,9 +596,13 @@ X
 Y
 Z
 
-SPORTS
+
+                                               ##############SPORTS#############
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQAeb5G475RI8yR_yryZx7p3RacI6tfA96Ui94ybkS_ydzXNt3r" group-title="SPORTS",78 CHANNEL AKTIF
 https://github.com/nicolasandri/NA/blob/master/Sequence%2001_2.mp4?raw=true
+
+
 A
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/ACC_Network_ESPN_logo.svg/1000px-ACC_Network_ESPN_logo.svg.png" group-title="SPORTS",ACC Network
@@ -653,6 +657,12 @@ http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
 #EXTINF:0 group-title="SPORTS"tvg-logo="http://logo.ddnb.tn/logochanel/112.png",BeInSport 2 HD+
 http://skdn.redi-vo.com/iptv/ch8112?code=103131497823984&key=12334
 
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6589.1491349382.png" group-title="SPORTS",BEIN SPORT 1 ID
+https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_2499968=11-BeIN1-mp4a_98800_eng=3.m3u8
+
+#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1491350441/6591.png" group-title="SPORTS",BEIN SPORT 2 ID
+https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_2499968=10-BeIN2-mp4a_98800_eng=5.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F2R303x.png" group-title="SPORTS",BT SPORT 2 HD
 http://95.170.215.120/hls/m3u8/BT-Sport-2HD.m3u8
@@ -662,8 +672,10 @@ C
 #EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="SPORTS",CCTV 5
 http://220.158.149.14:9999/live/TV00000000000000000104@HHZT
 
+
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-1-HD.png",CHAMPION 1
 https://dl.dropboxusercontent.com/s/6cim8t5aq5ta2n3/Champ1.m3u8?dl=
+
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Sport/Champion-TV-2-HD.png",CHAMPION 2
 https://dl.dropboxusercontent.com/s/1rxru3jj70b5tmv/Champ2.m3u8?dl=0
@@ -682,6 +694,10 @@ http://95.170.215.118/hls/m3u8/EURO-Sport-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Eurosport_2.svg/640px-Eurosport_2.svg.png" group-title="SPORTS",Eurosport 2
 http://95.170.215.118/hls/m3u8/EURO-Sport-2.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/EGG_Network_Logo_used_since_2016.png" group-title="SPORTS", EGG Network
+http://210.210.155.66/h/h22/01.m3u8
+
 F
 
 #EXTINF:-1 tvg-logo="https://snagfilms-a.akamaihd.net/0000014c-edbe-da12-a1fc-fdbe2f120000/images/93/ff/899ed7604901807d3824d4a9abca/1571847365901_ftf_transparentimages-tab.png" group-title="SPORTS",FTF
@@ -720,6 +736,9 @@ https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10
 #EXTINF:-1 group-title="SPORTS",FOX SPORTS 2
 http://62.4.21.29:80/paula/2019/37114
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",FOX Sport 3
+https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+
 G
 
 
@@ -733,6 +752,9 @@ J
 K
 
 L
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8DsdHKY/La-Liga.png" group-title="SPORTS",LaligaTV
+http://198.147.24.66:25461//live/AiiCisrHb8/33vsWtaChH/57.m3u8?token=HhBZURFYRgkQBgRXUwsFDQsAAwVcUgMAAA8IVgYFVgZWUAUFAVZVAQcQHUMVTBFcWFxoCl1HDQ1RFBIXRFEUbAxWEwpAAl0RHhBFCAtdQQMJHRUTUAEVAkQKA1IBDEQfR1dJRAdCClJebVUEEFEAXBsLWRZVCRsaCVZvBlJZB10BEAsSUxJIEVtBQUNcVhZVVR0VAVARRVkSXRJYFQVeB1cQHRIBXxFdRkBIQ1waNmobHRUGQRFSVhVRXwwVDkReVkcJEk4SDUBtQFQSEkoGWFRURUEDRwcaShpdA09rBVwLXFRTFlkLXUEQC0NWGk8bVF5ZCk0KRWcWUVRADRZXAlEAABIf
+
 #EXTINF:-1 tvg-logo="https://snagfilms-a.akamaihd.net/cf9c3bbc-917a-4447-90ab-55bf78b01f49/images/83/36/d90134124307b18e251dce2033ad/1566507637959_laximages-tab.png" group-title="SPORTS",Lax Sports Network
 https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/index_2800_av-b.m3u8
 
@@ -753,12 +775,30 @@ P
 #EXTINF:-1 group-title="SPORTS",PREMIERE CLUBES
 http://62.4.21.29:80/paula/2019/37088
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 1
+https://dl.dropbox.com/s/arxp3t4okngv5p9/premier_fb1_netizen.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 2
+https://dl.dropbox.com/s/vnlw7gt92mzcog5/premier_fb2_netizen.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 3
+https://dl.dropbox.com/s/sk6saw0tiy8yqsb/premier_fb3_netizen.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 4
+https://dl.dropbox.com/s/mbn563ksfly3rix/premier_fb4_netizen.m3u8?dl=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VQgzjV/pllogo.png" group-title="SPORTS", PREMIER FOOTBALL 5
+https://dl.dropbox.com/s/ybxrue5n0ihg8df/premier_fb5_netizen.m3u8?dl=0
+
 Q
 
 R
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/R/red-bull-tv-logo-837623FB07-seeklogo.com.png" group-title="SPORTS",REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORTS",REAL MADRID TV
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 
 #EXTINF:0 tvg-logo="https://www.realmadrid.com/StaticFiles/RealMadridResponsive/images/static/realmadridtv.jpg" group-title="SPORTS",REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
@@ -831,8 +871,20 @@ https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d556
 https://playoutengine.sinclairstoryline.com/playout/e1838c44-dcb6-47b5-93d4-a0547833518f/g.m3u8
 
 U
+#EXTM3U 
+#EXT-X-VERSION:3
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://images.useetv.com/tvposter/useeSport.png",USEE SPORT 1
 https://dl.dropboxusercontent.com/s/ytgv5aqzwg6qufg/useesport1.m3u8?dl=0
+
+#EXTM3U 
+#EXT-X-VERSION:3
+
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
 
 #EXTINF:0 group-title="SPORTS"tvg-logo="https://images.useetv.com/tvposter/useeSport.png",USEE SPORT 2
 https://dl.dropboxusercontent.com/s/2lcoa00kgw31nhw/useesport2.m3u8?dl=0
@@ -861,6 +913,7 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 y
 
 z
+
 
 HIBURAN
 
@@ -1203,6 +1256,8 @@ X
 Y
 Z
 
+ ##############SPORTS#############
+ 
 LAGU LOKAL
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/c_music_tv.jpg" group-title="LAGU LOKAL",MUSIC TV
 https://anevia114.mncnow.id:443/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
@@ -1271,7 +1326,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 
 
-KIDS DAN ANIMASI
+ ##############KIDS#############
 
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Club" tvg-logo=" https://cms.dmpcdn.com/livetv/2017/10/18/72b8d048-50cf-4054-98a8-bdf13bef758e.png" group-title="Kids/Animation",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
