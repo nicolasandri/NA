@@ -85,7 +85,6 @@ https://livetvhooq.akamaized.net/cb5c7e6573b94277ae32a38d821865e5/ap-southeast-1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="TV NASIONAL",KOMPAS TV 
 https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
 
-
 L
 M
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OIOvO9l.png" group-title="TV NASIONAL",METRO TV HD
@@ -102,7 +101,6 @@ https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 https://cdn-livetv5.metube.id/hls/mnctv_240/index.m3u8
 #EXTINF:0 group-title="TV NASIONAL"tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/MNCTV.png",MNCTV SD
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-
 
 N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="TV NASIONAL",NET TV HD
@@ -266,7 +264,6 @@ LOKAL
 A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Arek_TV.png" group-title="Lokal",Arek TV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTguKCaILnxa7Bd1oz6VDh7ojLDg8QtKqWVbxpOmKNqwArlE-g1" group-title="Lokal",AREMA TV
 http://wowza58.indostreamserver.com:1935/arematv/live/chunklist_w1920962254.m3u8
 
@@ -277,10 +274,8 @@ http://bmstv.onlivestreaming.net/bmstv/livestream/playlist.m3u8
 C
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="Lokal" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TsewQEq0lm4dgqMP2wgn1-B36c4=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg", CITRA DRAMA
 https://etslive-2-vidio-com.akamaized.net/exp=1582289972~acl=/hls-b/ingest_6401_*/*~hmac=22317a67ca8c73a9e0025ca5861571e3c524aa5b6a4f1302f25a4a757f19c469/hls-b/ingest_6401_720p/index.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="Lokal" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RwukrNaQxw9-zgWqjBhiIiFsUcQ=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",CITRA BIOSKOP
 https://etslive-2-vidio-com.akamaized.net/exp=1582290016~acl=/hls-p/ingest_geo_6684_*/*~hmac=bc9f42547e915f9dbe952a2964eb635ca798a3d26d414b5d3c456c5ad59b916e/hls-p/ingest_geo_6684_720p/index.m3u8
-
 #EXTINF:-1 tvg-ID="" tvg-name="" group-title="Lokal" tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/HBUdLVfuZstgnOKIyeCjQZQ6xTg=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6587/citra-dangdut-0ed971.jpg",CITRA DANGDUT
 https://etslive-2-vidio-com.akamaized.net/exp=1582290125~acl=/hls-b/ingest_6587_*/*~hmac=3fd0272620ba183d30a5854e474a87d87af3d3dfb30b433cf49eb6c4865d5dab/hls-b/ingest_6587_720p/index.m3u8
 
