@@ -1330,98 +1330,77 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids/Animation", 57 Channel Aktif
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
-
+#EXTINF:-1 tvg-logo="" group-title="Kids/Animation",23 FEBRUARI 2020
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="Kids/Animation", JAM 01:00 PAGI
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
 #EXTINF:-1 tvg-logo="" group-title="Kids/Animation", Silahkan hubungi admin 
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
-
 #EXTINF:-1 tvg-logo="" group-title="Kids/Animation", Jika ada yang eror 404
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hfjM2nK.png" group-title="Kids/Animation",3ABN KIDS TV 
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
+LIST CHANNEL
 A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids/Animation",Animax Sub Indonesia HD
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png" group-title="Kids/Animation",Animax Sub Indonesia SD
 http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8kraDPq.png" group-title="Kids/Animation",AniPlus 
 http://rr1.dens.tv/h/h02/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-language="Hindi" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fc/9f/2f/fc9f2f0c-44e3-eda6-1603-3f574f824319/mzl.xofmdhrf.png/750x750bb.jpeg" tvg-country="IN" group-title="Kids/Animation",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/playlist.m3u8
+
 B
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xdmM5Up.png" group-title="Kids/Animation",Baby First
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/NUflwTN.png" tvg-country="TW" tvg-url="" group-title="Kids/Animation",BabyFirst
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
 #EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/Lu3ISCk.png" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Kids/Animation",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS6RKVYziFVrkjzX8vCmm9RUpT_hxm7tNRcZVx2e5t6tpx4nR8m" group-title="Kids/Animation",Boruto TV 
 http://ws.flv.nimo.tv/live/su1599512427615r0c4ed6161b23b4d2892824141e30f13b_high.flv 
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Kids/Animation",BOOMERANG HD++
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="Kids/Animation",BOOMERANG HD+
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 
 C
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZAP0JO0-GkvS-F2y4TYpYqZ82gSnQgmX5-vY0VLU2Kph3ZdJi" group-title="Kids/Animation",Captain Stubasa 2019 TV 
 http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv 
-
 #EXTINF:0 tvg-logo="https://www.cartoonnetworkeurope.com/img/logo.png" group-title="Kids/Animation",Cartoon Network Bahasa Indonesia HD +
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Club" tvg-logo=" https://upload.wikimedia.org/wikipedia/th/1/14/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%8C%E0%B8%95%E0%B8%B9%E0%B8%99%E0%B8%84%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%8A%E0%B8%99%E0%B9%81%E0%B8%99%E0%B8%A5.jpg" group-title="Kids/Animation",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+
 D
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="Kids/Animation",Disney Channel Bahasa Indonesia HD
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_2499968=7-mp4a_98800_ind=9.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="Kids/Animation",Disney Channel Bahasa Indonesia SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv.dekagon.id/logo/disney_channel_global.png" group-title="Kids/Animation",Disney Channel Bahasa Indonesia SD
 http://103.47.132.164/PLTV/88888888/224/3221226011/02.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/de/DisneyXD.de.png" group-title="Kids/Animation",Disney XD Bahasa Indonesia
 https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD-avc1_2499968=11-DisneyXD-mp4a_98800_ind=16.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="Kids/Animation",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Ducktv-logo.jpg/125px-Ducktv-logo.jpg" group-title="Kids/Animation",Duck TV
 http://livecdnh3.tvanywhere.ae/hls/duck/04.m3u8
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZAP0JO0-GkvS-F2y4TYpYqZ82gSnQgmX5-vY0VLU2Kph3ZdJi" group-title="Kids/Animation",Captain Stubasa 2019 TV 
 http://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_high.flv 
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT8-0QbwU_pnZvfXmzjGziziVYqEtgzq0uLW40LFpPp5c_CP8W2" group-title="Kids/Animation",DETECTIFE CONAN 1 TV 
 http://ws.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv 
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQRcpxjgYQy8hCdcTtrhjKekl9A3XlXlVZJ7EqeorXVJ1wTv1S7" group-title="Kids/Animation",DETECTIFE CONAN 2 TV 
 http://ws.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_high.flv 
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTMaVEQyf4zZJdkOj2ft61g438KXqcI_Nv8Cmmk37I9K-azdHIg" group-title="Kids/Animation",DETECTIFE CONAN 3 TV 
 http://ws.flv.nimo.tv/live/su1599512427572re6b4d2bfbd968a965107eafabdad5184_high.flv 
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSK9L796tvhaFUJz1jr9_HatWJyluE_DQh6cH8cMRkuzT0_g5wN" group-title="Kids/Animation",DORAEMON SERIES 
 http://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv?fluxustv.flv 
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjauqNv1_JTtt62fuMHpMkeYLqqS3eRWOeHVvL4T9PWAOa7wQQ" group-title="Kids/Animation",DORAEMON MOVIE 
 http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv?fluxustv.flv 
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTJqNAuYEtH1bocPiCtvcnDzIS67pQOtj1F-RvOPP79-63tXMIV" group-title="Kids/Animation", DRAGON BALL KAI TV 
 http://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv 
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQcWFjgqQPgMf9QmzkJnXJBuIMpDWfQMTMaJV7mwuMLlRlrIQLt" group-title="Kids/Animation", DRAGON BALL Z TV 
 https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
 
@@ -1432,9 +1411,9 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/_definst_/tablet500k/chunklist_w11
 F
 #EXTINF:-1 tvg-logo="https://digitalrussia.tv/upload/files/48266978_525772611258059_7076947931516895232_n.png" group-title="Kids/Animation",FAN TV
 http://195.9.195.3:8080/hls/157239.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.fixundfoxi.tv/fileadmin/img/logo.png" group-title="Kids/Animation",Fix & Foxi
 https://1301485333.rsc.cdn77.org/1301485333/tracks-v1a1/mono.m3u8
+
 G
 #EXTINF:-1 tvg-id="" tvg-logo="http://bpcrpl.ca/content/uploads/2017/03/kids-logo.png" group-title="Kids/Animation",GONGMAX TV
 http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
@@ -1451,13 +1430,10 @@ J
 K
 #EXTINF:-1 tvg-logo="https://www.anten.de/wp-content/uploads/2014/02/kurdmax.jpg" group-title="Kids/Animation",KurdMax Papule
 http://31.14.40.139:1935/liveTrans/Kurmanci/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRC5dZLORqM2_fXGro3qS6J45nofvuWU3E3nMR1jnjdWwcGIXhN" group-title="Kids/Animation",Kuriakos Kids
 http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdkOWI0NmYtMWIzYy00ZTJmLTkxZmQtYjZjMGM5ODJiZDM0XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR106,0,630,1200_AL_.jpg" group-title="Kids/Animation",Kurokoai Basketball
 http://aldirect.hls.huya.com/huyalive/94525224-2604793726-11187503865995984896-3049003148-10057-A-0-1_1200.m3u8
-
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/a2lkc3R2LmFieHFfc2NyZWVuXzBfMTUxNjAwMTcyOV8wNTc/screen-0.jpg?fakeurl=1&type=.jpg" group-title="Kids/Animation",KIDS TV Bahasa Indonesia HD
 https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 L
@@ -1467,67 +1443,52 @@ http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high
 M
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/335-3359395_miao-mi-miao-mi-channel-clipart.png" group-title="Kids/Animation",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/335-3359395_miao-mi-miao-mi-channel-clipart.png" group-title="Kids/Animation",Miao Mi
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-
 #EXTINF:-1 tvg-logo="https://webstockreview.net/images/dentist-clipart-dental-visit-17.png" group-title="Kids/Animation",My kids
 http://210.210.155.35/session/570cce84-a52c-11e9-86e6-b82a72d63267/x6bnqe/s/s113/index.m3u8
 
 N
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR8tSobrUdKBTm0HeAeVM6616_lZOfykhpFV6X7tcH42R5vxKNl" group-title="Kids/Animation",Nice Binggo 
 http://61.58.60.230:9319/live/206.m3u8 
-
 #EXTINF:-1 tvg-logo="https://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="Kids/Animation",NICK JR
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8.
-
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/N/nickelodeon-logo-0462405B4C-seeklogo.com.png" group-title="Kids/Animation",Nickelodeon Asia
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.idntimes.com/content-images/post/20190721/image1-8fe35a69dcb78ef630e79e338e7fca76_600x400.png" group-title="Kids/Animation",NIKELODEON
 http://213.252.252.17/live/eds/Nickelodeon/HLS_encr/Nickelodeon.m3u8
-
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-9gWK4A-NVlM/XBFeNFG_MqI/AAAAAAABCIg/xTfcGEdkFx4KuxYEqt0Tyn7DWOa2e5acACLcBGAs/s1600/nicktoons-russia-logo-press-nickelodeon-nick.jpg" group-title="Kids/Animation",NICKTOONS
 http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+
 O
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBzp7BGwolru9XytjrckBBty17cJNgo2O57XQkEkMA2v7RtXJH" group-title="Kids/Animation", ONE PIECE TV 
 http://ws.flv.nimo.tv/live/su1599512427600r01fea2f56268e5a32e8e1d5c6dad7ede_high.flv 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ0S1bAQA1Xjjfcf_C0agfo0lkMvzsx6G9_bjNXz5O12DC9QCMC" group-title="Kids/Animation", ONE PUNCH MAN 
 http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high.flv 
 
 P
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/PBSKids.us.png" group-title="Kids/Animation",PBS Kids
 http://190.80.3.28/PBS/PBS.isml/PBS-audio_120052_eng=120000-video=1870000.m3u8
-
-
 Q
 R
 S
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="Kids/Animation",SPACETOON
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e3/Spacetoon.png" group-title="Kids/Animation",SPACETOON
 http://95.170.215.109:80/hls/m3u8/Spacetoon-Backup.m3u8
-
 
 T
 
 #EXTINF:-1 tvg-logo="http://www.tctkids.tv/images/TCTKids/TCTKidslogo.png" group-title="Kids/Animation",TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
-
 #EXTINF:-1 tvg-logo="http://pngimg.com/uploads/tom_and_jerry/tom_and_jerry_PNG42.png" group-title="Kids/Animation",Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSxhUqVpo00XIJ5iox8ofbqm0O-Kro5qfREEG6Krw10_zw7gGD9" group-title="Kids/Animation",ToonMax 
 http://rr2.dens.tv/s/s50/01.m3u8 
-
 #EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQd1cxI-p1VvBkcGJzO_Q3Rtlsra-Xgu39ucVMJvB87y1eiZ4y0" group-title="Kids/Animation",TRT Cocuk 
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8 
-
 #EXTINF:-1 logo="https://vignette.wikia.nocookie.net/international-entertainment-project/images/7/75/My_Little_Pony_Friendship_Is_Magic_-_season_7_logo_%28English%29.png/revision/latest/scale-to-width-down/350?cb=20180820045003" group-title="Kids/Animation",Tuntunik 
 http://ott-cdn.ucom.am/s46/index.m3u8 
-
 U
 V
 W
@@ -1535,76 +1496,105 @@ X
 Y
 Z
 
-KNOWLEDGE
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Knowledge",Investigation Discovery
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+ ##############KNOWLEDGE#############
 
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", 57 Channel Aktif
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",SUDAH DI UPDATE TANGGAL
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="Knowledge",23 FEBRUARI 2020
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", JAM 01:00 PAGI
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", Silahkan hubungi admin 
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="" group-title="Knowledge", Jika ada yang eror 404
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+
+list Channel
+A
+#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="Knowledge",Animal Planet Sub Bahasa Indonesia
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+B
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.seenit.co.uk/wp-content/uploads/BBC_Earth_Logo_1200.jpg" group-title="Knowledge",BBC Earth
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
+C
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/cgtn.png" group-title="Knowledge",CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="Knowledge",Crime Investigation
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
+
+D
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryScience.au.png" group-title="Knowledge",Discovery Science
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="Knowledge",Docubox
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/jv/0/09/Discovery_Channel.jpg" group-title="Knowledge",DISCOVERY CHANNEL
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" group-title="Knowledge",Discovery Turbo
+http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="Knowledge",Docubox HD
 https://1795195508.rsc.cdn77.org/1795195508/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pl/DocuBox.pl.png" group-title="Knowledge",Docubox SD
+http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 
+E
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="Knowledge",English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="Knowledge",D求索纪录
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="Knowledge",Newtv 精品记录
-http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="" group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",LOVE NATURE
-https://etslive-2-vidio-com.akamaized.net/exp=1581455788~acl=/hls-p/ingest_geo_6635_*/*~hmac=b4ff80a24cc0ebc9c28e692d16cfe01af24955ab697bf3c18de407ab331e9dd9/hls-p/ingest_geo_6635_720p/index.m3u8
-
+F
 #EXTINF:-1 tvg-logo="https://www.svlaw.at/wp-content/uploads/2018/03/Logo.png" group-title="Knowledge",Fashion TV Teens
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://www.svlaw.at/wp-content/uploads/2018/03/Logo.png" group-title="Knowledge",Fashion TV Films
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
- 
 #EXTINF:-1 tvg-logo="https://www.svlaw.at/wp-content/uploads/2018/03/Logo.png" group-title="Knowledge",Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.singtel.com/content/dam/singtel/business/sb/Product%20&%20Services/TV/catalog/ProductCatalog-AlaCarte-OutdoorChannel-logo.jpg" group-title="Knowledge",OUTDOOR CHANNEL
-https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
-
-#EXTINF:-1 tvg-logo="https://cdn.techinasia.com/data/images/69ApppIZEGfzNCsr7zFCIBVJAQxDaAIgwSq4Ymmv.jpeg" group-title="Knowledge",TECHSTORM
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/cgtn.png" group-title="Knowledge",CGTN Documentary
-http://210.210.155.35/qwr9ew/s/s20/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.underconsideration.com/brandnew/archives/animal_planet_2018_logo_before_after.png" group-title="Knowledge",Animal Planet Sub Bahasa Indonesia
-http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/jv/0/09/Discovery_Channel.jpg" group-title="Knowledge",DISCOVERY CHANNEL
-http://203.153.218.28:9981/stream/channelid/1151931232?ticket=2B28441BA5F75B65F81562F9A8DB635E8DE08CF5&profile=pass
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Knowledge",History Channel Sub Bahasa Indonesia
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=C0BFC8C057601165FDC9EFD2FB705863A8CC6A33&profile=pass
-
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="Knowledge",History 2
-http://tv.factoryiptv.com:80/fabio/fabio/42915
-
-#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/natgeoWild.png" group-title="Knowledge" ,NAT GEO WILD Sub Bahasa Indonesia 
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/HxQ4CSM4/CGTN-doc.png" group-title="Knowledge",NAT GEO People Sub Bahasa Indonesia
-http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB8604E39D479282644E09703E&profile=pass
-
-#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20200117005517/en/551357/23/NGC_Logo.jpg" group-title="Knowledge",National Geographic Sub Bahasa Indonesia
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="Knowledge",Smithsonian
-http://tv.factoryiptv.com:80/fabio/fabio/57387
-
+G
+H
 #EXTINF:-1 tvg-logo="https://c1.staticflickr.com/9/8142/7238493116_82bbf6de31_b.jpg" group-title="Knowledge",Home & Living SD
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Knowledge",History Channel Sub Bahasa Indonesia
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/383-3834012_h2-was-the-winner-of-our-restart-tv.png" group-title="Knowledge",History 2
+http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
 
+I
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Knowledge",Investigation Discovery
+http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+J
+K
+L
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="Knowledge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",LOVE NATURE
+https://etslive-2-vidio-com.akamaized.net/exp=1581455788~acl=/hls-p/ingest_geo_6635_*/*~hmac=b4ff80a24cc0ebc9c28e692d16cfe01af24955ab697bf3c18de407ab331e9dd9/hls-p/ingest_geo_6635_720p/index.m3u8
+M
+N
+#EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="Knowledge",Newtv 精品记录
+http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/natgeoWild.png" group-title="Knowledge" ,NAT GEO WILD Sub Bahasa Indonesia 
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://images.useetv.com/tvposter/natgeoWild.png" group-title="Knowledge" ,NAT GEO WILD Sub Bahasa Indonesia 
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png" group-title="Knowledge",NAT GEO People Sub Bahasa Indonesia
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
+#EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20200117005517/en/551357/23/NGC_Logo.jpg" group-title="Knowledge",National Geographic Sub Bahasa Indonesia
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
+
+O
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSMJU_9tQ7p7AL9yxk99lg7Ajr7muv151xM9D6HJObyzuJ3Z7Uu" group-title="Knowledge",OCEAN TV FHD 
 http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.singtel.com/content/dam/singtel/business/sb/Product%20&%20Services/TV/catalog/ProductCatalog-AlaCarte-OutdoorChannel-logo.jpg" group-title="Knowledge",OUTDOOR CHANNEL
+https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
+P
+Q
+R
+S
+T
+#EXTINF:-1 tvg-logo="https://cdn.techinasia.com/data/images/69ApppIZEGfzNCsr7zFCIBVJAQxDaAIgwSq4Ymmv.jpeg" group-title="Knowledge",TECHSTORM
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(f4802587-5d0c-4181-a873-bf9de86cecf6)/manifest.mpd
+U
+V
+W
+X
+Y
+Z
 
 ######### adit sopo jarwo#####################
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 01
