@@ -106,7 +106,7 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
 N
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="TV NASIONAL",NET TV HD
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mp
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="TV NASIONAL",NET TV HD
 https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="TV NASIONAL",NET TV backup
