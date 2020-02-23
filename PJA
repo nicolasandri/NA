@@ -898,12 +898,42 @@ z
 
 HIBURAN
 
-
-#EXTINF:-1 group-title="HIBURAN",73 CHANNEL AKTIF 
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", 73 Channel Aktif
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", SUDAH DI UPDATE TANGGAL
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN",23 FEBRUARI 2020
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", JAM 18.00
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", Perbaikan cinemax dan fox
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", Silahkan hubungi admin 
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", Jika ada yang eror 404
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+
+
+#EXTINF:-1 group-title="HIBURAN",21 HD (No Subtitlle)
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", 73 Channel Aktif
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", SUDAH DI UPDATE TANGGAL
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN",23 FEBRUARI 2020
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", JAM 18.00
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", Perbaikan cinemax dan fox
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", Silahkan hubungi admin 
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", Jika ada yang eror 404
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+
 
 #EXTINF:-1 group-title="HIBURAN",21 HD (No Subtitlle)
 http://51.158.190.97/hls/stream.m3u8
+
 A
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="HIBURAN",AMC (No Subtitlle)
 http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
@@ -914,7 +944,7 @@ http://170.178.189.66:1935/live/Stream1/.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/16f5571a82819e8992a748c70b256cbe63105f4b546b73d129668dc2cb701d91.png" group-title="HIBURAN", American Horrors Backup (No Subtitlle)
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="" group-title="HIBURAN",Anhui TV (Sub Mandarin)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qgVtXLrR/5-Z1-BKZ9-Imgur.png" group-title="HIBURAN",Anhui TV (Sub Mandarin)
 https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_hls/AnhuiTV.m3u8
 
 
@@ -950,6 +980,9 @@ https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_2499968=7-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HIBURAN",Cinemax (Sub Indonesia) (HD) +
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HIBURAN",Cinemax (Sub Indonesia) (HD) +
+http://streamku.live:8888/live/empire/adminempire/589.m3u8
 
 #EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="HIBURAN",CINEMA WORLD (Sub Indonesia) (HD) ++
 https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
@@ -1000,6 +1033,9 @@ https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=
 #EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="HIBURAN",FOX (Sub Indonesia) (HD) +
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
 
+#EXTINF:-1 tvg-logo="https://static-media.fox.com/foxnow/web/v3-2/img/fox_logo.jpg" group-title="HIBURAN",FOX (Sub Indonesia) (HD) +
+http://streamku.live:8888/live/empire/adminempire/581.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.foxnews.com/static/orion/styles/img/fox-news/og/og-fox-news.png" group-title="HIBURAN",FOX News (No Subtitlle)
 https://liveanevia.mncnow.id/live/eds/FoxNews/sa_hls/FoxNews.m3u8
 
@@ -1025,16 +1061,14 @@ http://iliketot.dyndns.TV/2e0e4b05aa6e428593f3b45b710045b7.m3u8?wmsAuthSign=c2Vy
 http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/315
 
 G
-
 H
+
 #EXTINF:-1 tvg-logo="https://www.satelitnatv.sk/wp-content/uploads/2016/02/hbo3_5601.jpg" group-title="HIBURAN",HBO 3
 https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/26/Hbo2.png" group-title="HIBURAN",HBO 2 (SD)
 https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
-
-#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="HIBURAN",HBO INDONESIA
-https://dl.dropboxusercontent.com/s/enj0ey50kkh04fq/HBO%20INDO.m3u8?dl=0
+#EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/www.hboasia.com/assets/img/fb-hbo-480x320.jpg" group-title="HIBURAN",HBO (No Subtitlle) (FHD) Backup
+https://dl.dropboxusercontent.com//s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="https://www.nicepng.com/png/detail/814-8149274_hbo-png-hbo-signature-logo.png" group-title="HIBURAN",HBO Signature Sub (Sub Indonesia) (SD)
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
@@ -1099,6 +1133,9 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rai_Premium_HD_-_Logo_2017.svg/1280px-Rai_Premium_HD_-_Logo_2017.svg.png" group-title="HIBURAN",RAI PREMIUM (No Subtitlle)
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRCm486gg7G94DDK4IKbq-uKyJYEqb-DLvhiRSlk7Sx4xP-kWT" group-title="HIBURAN",Red By HBO
+http://streamku.live:8888/live/empire/adminempire/689.m3u8
 S
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="HIBURAN",STAR MOVIES (Sub Arab)
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
@@ -1117,6 +1154,7 @@ https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="HIBURAN",THRILL (Sub Indonesia) (HD)
 https://liveanevia.mncnow.id/live/eds/Thrill/sa_hls/Thrill.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tlc-logo-774E9A4AB6-seeklogo.com.png" group-title="HIBURAN",TLC (Sub Indonesia) (HD) ++
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC-avc1_2499968=11-TLC-mp4a_98800_eng=3.m3u8
@@ -1149,6 +1187,10 @@ https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1
 
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rEGFjekBTRot3LmIlYTJr82xWBI=/filters:quality(90)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6399/zee-bioskop-ee9d39.jpg" group-title="HIBURAN",ZEE BIOSKOP Bahasa Indonesia (SD) BACKUP
 http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
+
+
+
+
 
 
 
