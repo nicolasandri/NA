@@ -374,16 +374,23 @@ X
 Y
 Z
 
-
-
-TV KOREA
+ 						##############TV KOREA#############
 ================================================================================================================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="TV KOREA",TvN Sub Bahasa Indonesia (HD)
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.toggle.sg/blob/11659672/7cb83ce0716bb83413abecd5efd63d97/logo-tvn-movies-data.png" group-title="TV KOREA",TvN movies Sub Bahasa Indonesia (HD)
-https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
-
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV KOREA",  17 CHANNEL TV KOREA AKTIF
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="INFO CHANNEL", 17 CHANNEL TV KOREA AKTIF
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV KOREA",SUDAH DI UPDATE TANGGAL
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV KOREA",23 FEBRUARI 2020
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV KOREA", JAM 10:00 MALAM
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV KOREA", Silahkan hubungi admin 
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV KOREA", Jika ada yang eror 404
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+LIST CHANNEL
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="TV KOREA",ARIRANG (SD)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
@@ -399,20 +406,11 @@ http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV KOREA",EBS English
 http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/gdikv72.png" tvg-country="KR" tvg-url="" group-title="TV KOREA",EBS Kids
-http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/gdikv72.png" tvg-country="KR" tvg-url="" group-title="TV KOREA",EBS Kids Backup
-http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV KOREA",EBS Plus 1 (SD)
 http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="TV KOREA",EBS Plus 2 (SD)
 http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="TV KOREA" tvg-url="" group-title="TV KOREA",CBS (HD)
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" tvg-country="TV KOREA" tvg-url="" group-title="TV KOREA",CBS (HD) BACKUP
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8
@@ -444,6 +442,24 @@ http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/FIzME5L.jpg" tvg-country="KR" tvg-url="" group-title="TV KOREA",YTN SCIENCE
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 
+
+							##############TV JEPANG#############
+================================================================================================================================
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV JAPAN",  9 CHANNEL TV JAPAN AKTIF
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="INFO CHANNEL",  9 CHANNEL TV JAPAN AKTIF
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV JAPAN",SUDAH DI UPDATE TANGGAL
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV JAPAN",23 FEBRUARI 2020
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV JAPAN", JAM 10:00 MALAM
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV JAPAN", Silahkan hubungi admin 
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV JAPAN", Jika ada yang eror 404
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+LIST CHANNEL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ATIcNOc.png" group-title="TV JAPAN",GSTV
 https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
 
@@ -471,12 +487,27 @@ http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-logo="https://www.starcat.co.jp/ch/wp-content/uploads/2017/10/6-2.jpg" group-title="TV JAPAN",Wowow Cinefil
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
 
-TV MALAYSIA
 
 
-A
+								TV MALAYSIA 15
 ================================================================================================================================
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg" tvg-ID="Malaysia" tvg-name="" group-title="TV MALAYSIA",Astro Awani
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV MALAYSIA",  15 CHANNEL TV MALAYSIA AKTIF
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="INFO CHANNEL",  15 CHANNEL TV MALAYSIA AKTIF
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV MALAYSIA",SUDAH DI UPDATE TANGGAL
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV MALAYSIA",23 FEBRUARI 2020
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV MALAYSIA", JAM 10:00 MALAM
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV MALAYSIA", Silahkan hubungi admin 
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+#EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV MALAYSIA", Jika ada yang eror 404
+https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
+
+LIST CHANNEL
+A #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg" tvg-ID="Malaysia" tvg-name="" group-title="TV MALAYSIA",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/NAURA.png" tvg-ID="Malaysia" tvg-name="" group-title="TV MALAYSIA",Astro Naura
