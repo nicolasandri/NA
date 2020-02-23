@@ -168,99 +168,70 @@ TVRI
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI NASIONAL SD
 https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI NASIONAL SD
 https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI NASIONAL BACKUP SD
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI JAKARTA
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI MALUKU
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI NTT KUPANG
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI NTB MATARAM
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI BALI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI KALTIM SAMARINDA
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI KALTENG
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI KALSEL BANJARMASIN
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI KALBAR
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI SULUT MANADO
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI SULTRA
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI SULTENG PALU
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTENGPALU)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI SULSEL MAKASAR
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI SULBAR MAJENE
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI GORONTALO
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI YOGYAKARTA
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI JATIM SURABAYA
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI JATENG SEMARANG
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI JABAR BANDUNG
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI RIAU
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI SUMUT MEDAN
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI SUMSEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI SUMBAR PADANG
 http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI ACEH
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI LAMPUNG
 http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI JAMBI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI BENGKULU
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI BABEL
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/Stream(03)/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",RUAITV
 https://dl.dropboxusercontent.com/s/ywehdny1dyqvgai/ruaitv.m3u8?dl=0
+
+
 
 LOKAL
 A
