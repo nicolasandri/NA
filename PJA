@@ -29,6 +29,7 @@ https://dl.dropboxusercontent.com/s/rxxhvjqmokera80/Perbaikan%20channel.mp4?dl=0
 
 
 								 ##############TV NASIONAL#############
+								 ================================================================================================================================
 #EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="TV NASIONAL", 41 CHANNEL TV NASIONAL AKTIF
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="INFO CHANNEL", 41 CHANNEL TV NASIONAL AKTIF
@@ -165,7 +166,7 @@ Z
 
 
 TVRI
-
+================================================================================================================================
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI NASIONAL SD
 https://liveanevia.mncnow.id/live/eds/TVRI/sa_hls/TVRI.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="TVRI",TVRI NASIONAL SD
@@ -234,6 +235,7 @@ https://dl.dropboxusercontent.com/s/ywehdny1dyqvgai/ruaitv.m3u8?dl=0
 
 
 LOKAL
+================================================================================================================================
 A
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Arek_TV.png" group-title="Lokal",Arek TV
 http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
@@ -375,7 +377,7 @@ Z
 
 
 TV KOREA
-
+================================================================================================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="TV KOREA",TvN Sub Bahasa Indonesia (HD)
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 
@@ -473,6 +475,7 @@ TV MALAYSIA
 
 
 A
+================================================================================================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Awani.jpg" tvg-ID="Malaysia" tvg-name="" group-title="TV MALAYSIA",Astro Awani
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 
@@ -540,6 +543,7 @@ Z
 
 
                                                ##############SPORTS#############
+================================================================================================================================
 
 #EXTINF:-1 group-title="INFO CHANNEL" tvg-logo="" group-title="SPORTS",78 CHANNEL SPORTS AKTIF
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
@@ -867,8 +871,8 @@ y
 z
 
 
-HIBURAN
-
+								HIBURAN
+================================================================================================================================
 #EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", 73 Channel Aktif
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
 #EXTINF:-1 tvg-logo="https://sman37.sch.id/wp-content/uploads/2018/06/Info-Penting.png" group-title="HIBURAN", SUDAH DI UPDATE TANGGAL
@@ -1149,7 +1153,8 @@ http://210.210.155.35/qwr9ew/s/s32/01.m3u8?fluxustv.m3u8
 
 
 
-RELIGI
+									RELIGI
+================================================================================================================================
 A
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-LuVqqQ1oBnA/WoraTyjbVDI/AAAAAAAAIUA/IwQvMDP3-CUtFGdaEZv_k-0d7_Y8U8dYQCK4BGAYYCw/s1600/IMG_20180123_020734-795376.jpg" group-title="Religi",Ahsan TV
 http://119.82.224.75:1935/live/ahsantv/player.m3u8
@@ -1233,8 +1238,8 @@ X
 Y
 Z
 
- ##############SPORTS#############
- 
+						 ##############SPORTS#############
+================================================================================================================================
 LAGU LOKAL
 #EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/c_music_tv.jpg" group-title="LAGU LOKAL",MUSIC TV
 https://anevia114.mncnow.id:443/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
@@ -1257,7 +1262,8 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u
 http://stream1.ninmedia.tv/popmusik/udp.stream_360p/playlist.m3u8
 
 
-LAGU POP
+								LAGU POP
+================================================================================================================================
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Clubbing_TV_logo.jpg" group-title="LAGU POP",CLUBING TV 
 https://livetvhooq.akamaized.net:443/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597850~exp=9007200828338841~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_0/chunklist.m3u8*~hmac=3f8b35244cac9f49ce5491e590812bb8770317e3206bb1603f4a8aa41efe6ff2 
 
@@ -1304,7 +1310,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 
 
  ##############KIDS#############
-
+================================================================================================================================
 #EXTINF:-1 tvg-logo="" group-title="Kids/Animation", 57 Channel Aktif
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
 #EXTINF:-1 tvg-logo="" group-title="Kids/Animation",23 FEBRUARI 2020
@@ -1473,8 +1479,8 @@ X
 Y
 Z
 
- ##############KNOWLEDGE#############
-
+ 							##############KNOWLEDGE#############
+================================================================================================================================
 #EXTINF:-1 tvg-logo="" group-title="Knowledge", 57 Channel Aktif
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
 #EXTINF:-1 tvg-logo="" group-title="Knowledge",SUDAH DI UPDATE TANGGAL
@@ -1573,372 +1579,9 @@ X
 Y
 Z
 
-######### adit sopo jarwo#####################
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 01
-http://www.supercartube.com/media/videos/h264/311_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 02
-http://www.supercartube.com/media/videos/h264/312_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 03
-http://www.supercartube.com/media/videos/h264/313_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 04
-http://www.supercartube.com/media/videos/h264/314_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 05
-http://www.supercartube.com/media/videos/h264/315_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 06
-http://www.supercartube.com/media/videos/h264/316_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 07
-http://www.supercartube.com/media/videos/h264/317_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 08
-http://www.supercartube.com/media/videos/h264/318_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 09
-http://www.supercartube.com/media/videos/h264/319_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 10
-http://www.supercartube.com/media/videos/h264/320_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 11
-http://www.supercartube.com/media/videos/h264/432_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 12
-http://www.supercartube.com/media/videos/h264/433_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 13
-http://www.supercartube.com/media/videos/h264/434_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 14
-http://www.supercartube.com/media/videos/h264/435_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 15
-http://www.supercartube.com/media/videos/h264/436_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 16
-http://www.supercartube.com/media/videos/h264/437_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 17
-http://www.supercartube.com/media/videos/h264/438_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 18
-http://www.supercartube.com/media/videos/h264/439_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 19
-http://www.supercartube.com/media/videos/h264/440_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 20
-http://www.supercartube.com/media/videos/h264/441_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 21
-http://www.supercartube.com/media/videos/h264/633_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 22
-http://www.supercartube.com/media/videos/h264/634_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 23
-http://www.supercartube.com/media/videos/h264/635_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 24
-http://www.supercartube.com/media/videos/h264/636_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 25
-http://www.supercartube.com/media/videos/h264/637_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 26
-http://www.supercartube.com/media/videos/h264/638_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 27
-http://www.supercartube.com/media/videos/h264/639_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 28
-http://www.supercartube.com/media/videos/h264/640_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 29
-http://www.supercartube.com/media/videos/h264/641_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 30
-http://www.supercartube.com/media/videos/h264/642_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 31
-http://www.supercartube.com/media/videos/h264/914_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 32
-http://www.supercartube.com/media/videos/h264/915_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 33
-http://www.supercartube.com/media/videos/h264/916_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 34
-http://www.supercartube.com/media/videos/h264/917_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 35
-http://www.supercartube.com/media/videos/h264/918_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 36
-http://www.supercartube.com/media/videos/h264/919_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 37
-http://www.supercartube.com/media/videos/h264/920_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 38
-http://www.supercartube.com/media/videos/h264/921_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 39
-http://www.supercartube.com/media/videos/h264/922_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 40
-http://www.supercartube.com/media/videos/h264/923_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 41
-http://www.supercartube.com/media/videos/h264/924_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 42
-http://www.supercartube.com/media/videos/h264/925_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 43
-http://www.supercartube.com/media/videos/h264/926_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 44
-http://www.supercartube.com/media/videos/h264/927_1080p.mp4
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x142H4Mq/sopo.jpg" group-title="ADIT & SOPO JAWRWO",ADIT SOPOJARWO 45
-http://www.supercartube.com/media/videos/h264/928_1080p.mp4
-
-############################ftv indo##########################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4wBn9rV.jpg" group-title="FTV Indonesia",Cewek Perabot Cintanya Ambyar Menembus Awan
-https://media-vidio-com.akamaized.net/uploads/1903728/ets-playlist-1200-8062f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7lx3bzW.jpg" group-title="FTV Indonesia",Terinfeksi Virus Tongseng yang Ku Mau
-https://media-vidio-com.akamaized.net/uploads/1903352/ets-playlist-1200-3e16a.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kxK09Hl.jpg" group-title="FTV Indonesia",Nanti Kita Cerita Tentang Pukis Nangka
-https://media-vidio-com.akamaized.net/uploads/1903032/ets-playlist-1200-ec515.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ii3Z78V.jpg" group-title="FTV Indonesia",Harta, Tahta, Cinta Sasha
-https://media-vidio-com.akamaized.net/uploads/1901941/ets-playlist-1200-8a412.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XNPhWyy.jpg" group-title="FTV Indonesia",Culametan Met Met Di Playground
-https://media-vidio-com.akamaized.net/uploads/1900065/ets-playlist-1200-7c1b1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PXo16zE.jpg" group-title="FTV Indonesia",Jangan Ada Sambel Diantara Kita
-https://media-vidio-com.akamaized.net/uploads/1898373/ets-playlist-700-0be50.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J0v5TE2.jpg" group-title="FTV Indonesia",Kehaluan Hakiki Calon Manten
-https://media-vidio-com.akamaized.net/uploads/1897441/ets-playlist-1200-e1489.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gzCkFy2.jpg" group-title="FTV Indonesia",Cintaku di Share Location ke Hati Kamu
-https://media-vidio-com.akamaized.net/uploads/1896851/ets-playlist-1200-79078.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZgTcK6q.jpg" group-title="FTV Indonesia",I Love 1000 Karung Beras
-https://media-vidio-com.akamaized.net/uploads/1896204/ets-playlist-1200-26b32.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DwxyoBz.jpg" group-title="FTV Indonesia",Cowok Gue Anak DWP (Dah Waktunya ke Penghulu)
-https://media-vidio-com.akamaized.net/uploads/1895027/ets-playlist-1200-572a3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s9tNPEt.jpg" group-title="FTV Indonesia",Virus Cinta Cewek Cincau
-https://media-vidio-com.akamaized.net/uploads/1893796/ets-playlist-1200-9f2fe.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hew7CpU.jpg" group-title="FTV Indonesia",Pacar Trial Nona Es Kelapa Muda
-https://media-vidio-com.akamaized.net/uploads/1893117/ets-playlist-1200-33e13.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jn5Vnpf.jpg" group-title="FTV Indonesia",Bucin Cinta, Aku Bisa Apa
-https://media-vidio-com.akamaized.net/uploads/1891298/ets-playlist-1200-2e2b4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KCyOmTz.jpg" group-title="FTV Indonesia",Siapa Takut Cewek Galak?
-https://media-vidio-com.akamaized.net/uploads/1890029/ets-playlist-1200-82a70.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H1mWKxj.jpg" group-title="FTV Indonesia",Badut Santuy To The Max
-https://media-vidio-com.akamaized.net/uploads/1866883/ets-playlist-1200-dbf14.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bNjJxnn.jpg" group-title="FTV Indonesia",Inem Asisten Seksi Repot
-https://media-vidio-com.akamaized.net/uploads/1865333/ets-playlist-900-31d5d.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4YYwIom.jpg" group-title="FTV Indonesia",Akhirnya Kopilih Aku Daripada Dia
-https://media-vidio-com.akamaized.net/uploads/1864807/ets-playlist-900-bca1f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/68ybhNq.jpg" group-title="FTV Indonesia",Neng Supir Aku Tanpamu I'Mbyar
-https://media-vidio-com.akamaized.net/uploads/1864179/ets-playlist-1200-007f2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OZAzAj9.jpg" group-title="FTV Indonesia",Biar Tak Seumur Cintaku Pantang Mundur
-https://media-vidio-com.akamaized.net/uploads/1863511/ets-playlist-1200-d1ff4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zVaxUZi.jpg" group-title="FTV Indonesia",Cintaku Bernapas dalam Bubur
-https://media-vidio-com.akamaized.net/uploads/1862362/ets-playlist-400-92508.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UulJIgX.jpg" group-title="FTV Indonesia",Jodoh Gak Akan Kemana Saingan Dimana-Mana
-https://media-vidio-com.akamaized.net/uploads/1861383/ets-playlist-900-4abd3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/moYvr1o.jpg" group-title="FTV Indonesia",Pacar Gue Bukan Cewek Gedongan
-https://media-vidio-com.akamaized.net/uploads/1860478/ets-playlist-1200-166a2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Q3lcbRt.jpg" group-title="FTV Indonesia",Biduan Gerobak Dangdut Trending
-https://media-vidio-com.akamaized.net/uploads/1859430/ets-playlist-1200-dc567.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qrod2wQ.jpg" group-title="FTV Indonesia",Pantang Pulang Sebelum Jadian
-https://media-vidio-com.akamaized.net/uploads/1858476/ets-playlist-1200-27fd5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OuPEZbC.jpg" group-title="FTV Indonesia",Modus Cinta Tingkat Kuli
-https://media-vidio-com.akamaized.net/uploads/1857514/ets-playlist-1200-757de.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8xNnLZC.jpg" group-title="FTV Indonesia",Aku Cinta Kamu 3000 Kilo
-https://media-vidio-com.akamaized.net/uploads/1856382/ets-playlist-1200-361f7.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sFjWuUP.jpg" group-title="FTV Indonesia",Aku Terlalu Palsu Untuk Cintamu yang Asli
-https://media-vidio-com.akamaized.net/uploads/1855254/ets-playlist-1200-614cf.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V8YdLml.jpg" group-title="FTV Indonesia",Jodoh Cewek Sapi Kena Cancel
-https://media-vidio-com.akamaized.net/uploads/1854077/ets-playlist-1200-d7e1a.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3tNZ0oE.jpg" group-title="FTV Indonesia",Cinta Kamu Munculnya di Ending
-https://media-vidio-com.akamaized.net/uploads/1852950/ets-playlist-1200-857d5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dt5ZTo2.jpg" group-title="FTV Indonesia",Miss Kinclong Colong Hatiku
-https://media-vidio-com.akamaized.net/uploads/1851907/ets-playlist-1200-9651c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dU7sMev.jpg" group-title="FTV Indonesia",Kekuatan Cintamu Bertegangan Tinggi
-https://media-vidio-com.akamaized.net/uploads/1851126/ets-playlist-1200-a4cae.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K683k9C.jpg" group-title="FTV Indonesia",Dear Eneng Bebekku Sayang
-https://media-vidio-com.akamaized.net/uploads/1850341/ets-playlist-1200-d8d99.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MDtFpDI.jpg" group-title="FTV Indonesia",Cowok Mreki Bikin Jatuh Hati
-https://media-vidio-com.akamaized.net/uploads/1849322/ets-playlist-1200-b4b6b.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/92wN5J1.jpg" group-title="FTV Indonesia",Kue Leker Bukan Kaleng-Kaleng
-https://media-vidio-com.akamaized.net/uploads/1848390/ets-playlist-1200-1e6bc.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c8bx39J.jpg" group-title="FTV Indonesia",Bongkar Saldo Cinta Supir Truk Modis
-https://media-vidio-com.akamaized.net/uploads/1847273/ets-playlist-1200-05e49.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuqOjBs.jpg" group-title="FTV Indonesia",Boss Killer Juteknya Level Halilintar 
-https://media-vidio-com.akamaized.net/uploads/1846126/ets-playlist-1200-7f466.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYEXZth.jpg" group-title="FTV Indonesia",Click Bait Cinta si Tinggi
-https://media-vidio-com.akamaized.net/uploads/1844859/ets-playlist-900-11f1f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ez87H8M.jpg" group-title="FTV Indonesia",Cewek Cetar Turun Kasta Dapat Tahta
-https://media-vidio-com.akamaized.net/uploads/1844084/ets-playlist-900-719ca.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/91Euqp8.jpg" group-title="FTV Indonesia",Pacarku Cantik Tapi Boong
-https://media-vidio-com.akamaized.net/uploads/1842685/ets-playlist-900-5265c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9tsVFj0.jpg" group-title="FTV Indonesia",My Wife Ngeselin tapi Ngangenin
-https://media-vidio-com.akamaized.net/uploads/1841778/ets-playlist-1200-cc2b1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tm8GnCc.jpg" group-title="FTV Indonesia",Wig-mu Alihkan Duniaku
-https://media-vidio-com.akamaized.net/uploads/1839114/ets-playlist-1200-d2f4f.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xkCKmkH.jpg" group-title="FTV Indonesia",Aku Mau Cinta yang Hunya Hinyu
-https://media-vidio-com.akamaized.net/uploads/1836878/ets-playlist-1200-d38fb.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KR9BOEn.jpg" group-title="FTV Indonesia",Mas Jawara In Your Area
-https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/__idyxqWSwQNh0ays6GgyiX_jRo=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1835163/ftv-sctv-gadis-martabak-hampir-bahagia-a76ae3.jpg" group-title="FTV Indonesia",Gadis Martabak Hampir Bahagia
-https://media-vidio-com.akamaized.net/uploads/1835163/ets-playlist-1200-6cc14.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/s-Tdlhk7A1va_mUKUikolaUvhp4=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1834053/ftv-sctv-tukang-bajaj-undercover-529e69.jpg" group-title="FTV Indonesia",Tukang Bajaj Undercover
-https://media-vidio-com.akamaized.net/uploads/1835963/ets-playlist-1200-22eaa.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/PgRUMSVeZXYTEQbyAXKOFSlQmAU=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1832817/ftv-sctv-bidan-kw-sobat-ambyar-6e21b7.jpg" group-title="FTV Indonesia",Bidan KW Sobat Ambyar
-https://media-vidio-com.akamaized.net/uploads/1832817/ets-playlist-1200-2d37a.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/EY6yK9fQdfGl5kaUyr3dvfCQ-4I=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1831851/ftv-sctv-sekretaris-metal-obat-patah-hati-b52711.jpg" group-title="FTV Indonesia",Sekretaris Metal Obat Patah Hati
-https://media-vidio-com.akamaized.net/uploads/1831851/ets-playlist-700-63563.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/AtxB11Mhq1Nt5_C7zrREQ2slNVs=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1830958/ftv-sctv-maduku-tak-sesederhana-truth-or-dare-80192f.jpg" group-title="FTV Indonesia",Maduku Tak Sesederhana Truth Or Dare
-https://media-vidio-com.akamaized.net/uploads/1830958/ets-playlist-700-c3146.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/E_cCxiO-KAMzkKfxoKKTdG8TDY4=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1738540/ftv-sctv-gebetan-gue-tajir-mewangi-1c657c.jpg" group-title="FTV Indonesia",Gebetan Gue Tajir Mewangi
-https://media-vidio-com.akamaized.net/uploads/1738540/ets-playlist-900-2c6c3.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RVswb7ydkzobtM2mi5KiEL0U6M8=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1685902/ftv-sctv-ratu-diskon-cintanya-limited-edition-cecf79.jpg" group-title="FTV Indonesia",Ratu Diskon Cintanya Limited Edition
-https://media-vidio-com.akamaized.net/uploads/1685902/ets-playlist-1600-7bf91.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/3Tdoto-u_SHIy9nJmviWkpMY31k=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1531510/ftv-sctv-pacarannya-sama-gue-nikahnya-sama-dia-sctv-7fca7c.jpg" group-title="FTV Indonesia",Pacarannya Sama Gue, Nikahnya Sama Dia
-https://media-vidio-com.akamaized.net/uploads/1531510/ets-playlist-1600-bbe29.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vVr57fgOSTN3ZfkxGYGWKlcyly8=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1657106/ftv-sctv-my-wife-anak-geng-motor-5b956b.jpg" group-title="FTV Indonesia",My Wife Anak Geng Motor
-https://media-vidio-com.akamaized.net/uploads/1657106/ets-playlist-900-b2f1d.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rhdua7eMX9RD4ySPXgADkGqHijA=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1673681/ftv-sctv-mengejar-cinta-siap-bosque-sctv-06fedb.jpg" group-title="FTV Indonesia",Mengejar Cinta? Siap Bosque
-https://media-vidio-com.akamaized.net/uploads/1673681/ets-playlist-1600-e3afc.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Elcy1ZHRzH05oz5wx4gjua7ny9k=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1662722/ftv-sctv-milyader-kece-dengan-kearifan-lokal-48d6c2.jpg" group-title="FTV Indonesia",Milyader Kece Dengan Kearifan Lokal
-https://media-vidio-com.akamaized.net/uploads/1662722/ets-playlist-1600-06596.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/rqB_dXW-Eg3KldBRbyB854GPyNM=/372x211/filters:quality(75)/vidio-web-prod-video/uploads/video/image/1680605/ftv-sctv-digombalin-miss-kecambah-auto-baper-sctv-fbcd36.jpg" group-title="FTV Indonesia",Digombalin Miss Kecambah Auto Baper
-https://media-vidio-com.akamaized.net/uploads/1680605/ets-playlist-1600-baeae.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/weKT3npWhaaOotyjvvFYwiaG6uc=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1817788/ftv-sctv-cewek-kalong-pacaran-yuk-f6755f.jpg" group-title="FTV Indonesia",Cewek Kalong Pacaran Yuk
-https://media-vidio-com.akamaized.net/uploads/1817788/ets-playlist-700-0ed5d.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/sNuXJl_4AjwNV7V2xisZ6GVwUX0=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1809819/ftv-sctv-demo-syantik-mahasiswi-cetar-626a2c.jpg" group-title="FTV Indonesia",Demo Syantik Mahasiswi Cetar 
-https://media-vidio-com.akamaized.net/uploads/1809819/ets-playlist-1200-9219d.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/LqgfOgBj1Nj7CL9FqWhIIpHcscg=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1819874/ftv-sctv-senoparty-goes-to-kandang-bebek-c8751b.jpg" group-title="FTV Indonesia",Senoparty Goes To Kandang Bebek
-https://geo-id-media-vidio-com.akamaized.net/uploads/1819874/ets-playlist-700-edafb.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/e8I27iyHqU6vE_Y-SNj-iL_YaEM=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1822341/ftv-sctv-mantan-please-do-your-magic-a4d06f.jpg" group-title="FTV Indonesia",Mantan Please Do Your Magic
-https://media-vidio-com.akamaized.net/uploads/1822341/ets-playlist-700-666a1.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/4fEEWWDgCh4IK9dQ5jMF4wykwgQ=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1821183/ftv-sctv-jiwa-kejombloanku-terguncang-a3bc83.jpg" group-title="FTV Indonesia",Jiwa Kejombloanku Terguncang
-https://geo-id-media-vidio-com.akamaized.net/uploads/1821183/ets-playlist-1200-ed0d7.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vaxS2P_A4QZwuSgpKOtExHP10Y4=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1824246/ftv-sctv-rayuan-gombal-kumbang-metropolitan-9bb025.jpg" group-title="FTV Indonesia",Rayuan Gombal Kumbang Metropolitan
-https://media-vidio-com.akamaized.net/uploads/1824246/ets-playlist-700-412b2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/RH7PhvU4OC8CHLmDSH1AAeNRdG8=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1818856/seg-2-ftv-sctv-mbok-jamu-milenial-cintanya-ambyar-69f3d3.jpg" group-title="FTV Indonesia",Mbok Jamu Milenial Cintanya Ambyar
-https://geo-id-media-vidio-com.akamaized.net/uploads/1818856/ets-playlist-700-87c71.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/8-TGhih9JFVwWVWlNbkQACyTgIM=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1823379/ftv-sctv-wasiat-eyang-bikin-baper-so-hard-fe0e52.jpg" group-title="FTV Indonesia",Wasiat Eyang Bikin Baper So Hard
-https://media-vidio-com.akamaized.net/uploads/1823379/ets-playlist-700-75202.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/u22zviQG0kxpabmRU4vodel7eCs=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1748300/ftv-sctv-menantu-bayaran-bikin-salfok-duniaku-6be1cc.jpg" group-title="FTV Indonesia",Menantu Bayaran Bikin Salfok Duniaku
-https://geo-id-media-vidio-com.akamaized.net/uploads/1748300/ets-playlist-900-3d669.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/lLVR-JUIOtWSmyx5ukbYkNARg30=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/291848/ftv-sctv-resep-cinta-bikin-romantis-7a4a2b.jpg" group-title="FTV Indonesia",Resep Cinta Bikin Romantis
-https://geo-id-media-vidio-com.akamaized.net/uploads/291848/playlist-1200-2cc18.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/TXT39JCV6ayXB6-Mv0LXDfpEqtM=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/764168/ftv-sctv-cintaku-semerbak-di-florist-9905de.jpg" group-title="FTV Indonesia",Cintaku Semerbak di Florist
-https://geo-id-media-vidio-com.akamaized.net/uploads/764168/playlist-1200-4c5f9.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YuTGJStV7v_34z26mauH5k-5gck=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1640672/ftv-sctv-resep-cinta-kaki-lima-rasa-bintang-lima-107998.jpg" group-title="FTV Indonesia",Resep Cinta Kaki Lima Rasa Bintang Lima
-https://media-vidio-com.akamaized.net/uploads/1640672/ets-playlist-1600-9abc2.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/YfOQ0Uq6IhswEfZ-CBeIybXc6gQ=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1220317/ftv-sctv-ratu-montir-sejagad-c91222.jpg" group-title="FTV Indonesia",Ratu Montir Sejagad
-https://geo-id-media-vidio-com.akamaized.net/uploads/1220317/playlist-1200-33a98.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vIYY9RSTLicgZGOiBtoITHYhfAs=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1177041/ftv-sctv-perempuan-dalam-sangkar-emas-sctv-4c1bb8.jpg" group-title="FTV Indonesia",Perempuan Dalam Sangkar Emas
-https://geo-id-media-vidio-com.akamaized.net/uploads/1177041/playlist-1200-bcc72.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/K5aGYurFjLqb9vZ53AWkCgaF7Hs=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1228364/ftv-sctv-setangkai-rambutan-cinta-697e2c.jpg" group-title="FTV Indonesia",Setangkai Rambutan Cinta
-https://geo-id-media-vidio-com.akamaized.net/uploads/1228364/playlist-1200-3004e.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/vGSrGmKXpIz3u7aZV38bQE8bCTE=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/829290/ftv-sctv-pacarku-sang-juara-no-27-0a9a7b.jpg" group-title="FTV Indonesia",Pacarku Sang Juara No 27
-https://geo-id-media-vidio-com.akamaized.net/uploads/829290/playlist-1200-4ce7f.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/NfVORRr3XkprGhdpnEkNG6nEUo8=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1651054/ftv-sctv-hatiku-di-skakmat-by-you-0c7008.jpg" group-title="FTV Indonesia",Hatiku di Skakmat by You
-https://media-vidio-com.akamaized.net/uploads/1651054/ets-playlist-1600-119ef.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/Z4KzfziP_Ro0wqOEkQKPttIphNY=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1635620/ftv-sctv-gadis-62-lupa-cinta-f1e490.jpg" group-title="FTV Indonesia",Gadis +62 Lupa Cinta
-https://media-vidio-com.akamaized.net/uploads/1635620/ets-playlist-1600-32865.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/a5xnnyJ88yo7EDZaxc12V-ZMOGg=/640x360/filters:quality(90)/vidio-web-prod-video/uploads/video/image/1608387/ftv-sctv-energi-cinta-cinderella-matre-0af4fb.jpg" group-title="FTV Indonesia",Energi Cinta Cinderella Matre
-https://media-vidio-com.akamaized.net/uploads/1608387/ets-playlist-1600-0cec5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HyiREIU.jpg" group-title="HEART SERIES",HEART S01E13
-https://media-vidio-com.akamaized.net/uploads/1861899/ets-heart-20eps-2013_fnl_rvs-dc25_5aa6f932_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nPniVN0.jpg" group-title="HEART SERIES",HEART S01E12
-https://media-vidio-com.akamaized.net/uploads/1854577/ets-heart-20eps-2012_fnl-ea3f_8ad0e2f4_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CXCnwpH.jpg" group-title="HEART SERIES",HEART S01E11
-https://media-vidio-com.akamaized.net/uploads/1847631/ets-heart-20eps-2011_fnl-20rvs-20fix-c079_59ea2bcc_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hafe2j1.jpg" group-title="HEART SERIES",HEART S01E10
-https://media-vidio-com.akamaized.net/uploads/1841277/ets-heart-20eps-2010_fnl-9c57_f6ed4238_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/axtZpsh.jpg" group-title="HEART SERIES",HEART S01E09
-https://media-vidio-com.akamaized.net/uploads/1835555/ets-heart_eps-209_mix_logo-20id-20bawah-d653_bbe51e20_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mqiyXGb.jpg" group-title="HEART SERIES",HEART S01E08
-https://media-vidio-com.akamaized.net/uploads/1828308/ets-heart_eps-208_mix_logo-20id-20bawah-b023_d7b7e890_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lfc9Pqo.jpg" group-title="HEART SERIES",HEART S01E07
-https://media-vidio-com.akamaized.net/uploads/1820525/ets-heart_eps-207_mix_logo-20id-20bawah-213b_fcf9ad7a_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Yp1rkDi.jpg" group-title="HEART SERIES",HEART S01E06
-https://media-vidio-com.akamaized.net/uploads/1813733/ets-heart_eps-206_mix_logo-20id-20bawah-7249_81ad6678_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bmFsXP7.jpg" group-title="HEART SERIES",HEART S01E05
-https://media-vidio-com.akamaized.net/uploads/1803921/ets-heart_eps-205_mix_logo-20id-20bawah-1469_8a5f5e5c_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kdm0vOi.jpg" group-title="HEART SERIES",HEART S01E04
-https://media-vidio-com.akamaized.net/uploads/1793946/ets-heart_eps-2004_mix_logo-20bawah-53ff_b45e6bb5_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FCTZz5y.jpg" group-title="HEART SERIES",HEART S01E03
-https://media-vidio-com.akamaized.net/uploads/1787164/ets-heart_eps-203_mix_logo-20bawah-61c2_cd3f6d78_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hGIKGXi.jpg" group-title="HEART SERIES",HEART S01E02
-https://media-vidio-com.akamaized.net/uploads/1778516/ets-eps_02-20heart-20online-20mix_logo-20bawah-2782_high.mp4.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AblWqdq.jpg" group-title="HEART SERIES",HEART S01E01
-https://media-vidio-com.akamaized.net/uploads/1766535/ets-eps_01-20heart-20online-20mix_logo-20bawah-f594_high.mp4.m3u8
-BORUTO
-#EXTINF:-1 tvg-logo="https://i2.wp.com/anunime.com/wp-content/uploads/2019/11/Boruto-Naruto-Next-Generations-Anunime.jpg" group-title="BORUTO",17 Feb 2020 Boruto Episode 137 "Sang Samurai Murid Pindahan!"
-https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_777049206109778_3218399700177057143_n.mp4?_nc_cat=107&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZF9tdXRlZCJ9&_nc_ohc=3QLc5y5LCxwAX8J-UkN&_nc_ht=video-xsp1-1.xx&oh=dbf70b2b24cce41e28bb373d92c1b58b&oe=5EFE8F3C
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/anunime.com/wp-content/uploads/2019/11/Boruto-Naruto-Next-Generations-Anunime.jpg" group-title="BORUTO",17 Feb 2020 Boruto Episode 138 "Ulang Tahun Hiashi"
-https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_2552553664841523_4533149445092287299_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZF9tdXRlZCJ9&_nc_ohc=m6tjJIDaEUMAX-Fwo7L&_nc_ht=video-xsp1-1.xx&oh=06a62cccff75561a3348ac80a16c996c&oe=5EBBAE89
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/anunime.com/wp-content/uploads/2019/11/Boruto-Naruto-Next-Generations-Anunime.jpg" group-title="BORUTO",Boruto Episode 139 "Teror! Onikuma Enko!"
-https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_2583384338650685_2233243520797239246_n.mp4?_nc_cat=109&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=_Ht0uoLeU94AX8Bsov8&_nc_ht=video-xsp1-1.xx&oh=813572935f741e40d596f385b4e99173&oe=5F00391B
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/anunime.com/wp-content/uploads/2019/11/Boruto-Naruto-Next-Generations-Anunime.jpg" group-title="BORUTO",17 Feb 2020 Boruto Episode 140 "Shintenshin no Jutsu"
-https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_1047792308889090_1747867314613252042_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=P0Y1aqdYWQsAX9hLR5y&_nc_ht=video-xsp1-1.xx&oh=4c60a78d9c5ae4d7474c8922f2ccd48d&oe=5EFB5108
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/anunime.com/wp-content/uploads/2019/11/Boruto-Naruto-Next-Generations-Anunime.jpg" group-title="BORUTO",17 Feb 2020 Boruto Episode 141 "Penjara Shinobi: Kastil Hozuki"
-https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_1838374716469964_2728878939851178892_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=6VBVfzYHMaEAX_ZO2sD&_nc_ht=video-xsp1-1.xx&oh=791facb6ffae395044995a774c360b8c&oe=5EFF7024
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/anunime.com/wp-content/uploads/2019/11/Boruto-Naruto-Next-Generations-Anunime.jpg" group-title="BORUTO",17 Feb 2020 Boruto Episode 142 "Ujian Tekad"
-https://video-xsp1-1.xx.fbcdn.net/v/t42.9040-2/10000000_769508436890579_2066746418978095104_n.mp4?_nc_cat=102&efg=eyJybHIiOjMwMCwicmxhIjozNDY5LCJ2ZW5jb2RlX3RhZyI6InN2ZV9zZCJ9&_nc_ohc=Oe5vWzrzlMYAX8fHblc&rl=300&vabr=129&_nc_ht=video-xsp1-1.xx&oh=0d73396a9c50d75b21cc843bc6b0fecf&oe=5E49D6DE
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/anunime.com/wp-content/uploads/2019/11/Boruto-Naruto-Next-Generations-Anunime.jpg" group-title="BORUTO",17 Feb 2020 Boruto Episode 143 "Pelaku yang mengincar Kokuri"
-https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_202443174209933_8126106934786615557_n.mp4?_nc_cat=106&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=dEaHa-VAr_kAX_Hg16B&_nc_ht=video-xsp1-1.xx&oh=0bbdeb848cca956d0eae2ee351f1726e&oe=5ECC3BA9
-
-#EXTINF:-1 tvg-logo="https://i2.wp.com/anunime.com/wp-content/uploads/2019/11/Boruto-Naruto-Next-Generations-Anunime.jpg" group-title="BORUTO",17 Feb 2020 Boruto Episode 144 "Rahasia Kokuri"
-https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_103272441196455_7194650370572791610_n.mp4?_nc_cat=108&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=lI70pttM02kAX_S4UDX&_nc_ht=video-xsp1-1.xx&oh=9586e544fda2f86310d2b3501b67cbf4&oe=5EB6BF90
 
 DORAEMON
+================================================================================================================================
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",17 Feb 2020 Doraemon : Pahlawan Serangga
 https://video-xsp1-1.xx.fbcdn.net/v/t39.24130-2/10000000_536048427033903_7366911856606255713_n.mp4?_nc_cat=104&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=2WtnjxYD1R8AX-XoKjU&_nc_ht=video-xsp1-1.xx&oh=dfaa980e9b363c1ba43e89e80d08eac9&oe=5EB87B04
 
@@ -2111,14 +1754,11 @@ https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_1052883285070921_895789
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon :Kurir Gelembung Sabun
 https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_214335163061212_4414392556325640890_n.mp4?_nc_cat=111&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=xMTI4YQ1jcMAX_0hTXa&_nc_ht=video-sin2-2.xx&oh=e935f462fd2ba9fa02bc6d3eb9fe7cfa&oe=5E9093DB
 
-
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon :Semprotan Trampolin
 https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_2801820693188119_4975037303819544301_n.mp4?_nc_cat=102&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=7-IQuuG_gzsAX-2CrQj&_nc_ht=video-sin2-2.xx&oh=d220f40fc9e204e5f93ee83872d9a470&oe=5EDB6240
 
-
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon :Bubuk Sifat Manusia
 https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_489164154998641_6505989258778196548_n.mp4?_nc_cat=101&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=6NEBkbza6FYAX_idoLa&_nc_ht=video-sin2-2.xx&oh=b6d01db88e86c8a11e9310d336598e44&oe=5EBF233F
-
 
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon :Permen Disiplin
 https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_2534281340162684_4096724634526738607_n.mp4?_nc_cat=103&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=1GNXH_9wD08AX-yRwE7&_nc_ht=video-sin2-2.xx&oh=7483e6ba4ec164cade6e0636b9d2bee9&oe=5ED57E50
@@ -2135,29 +1775,6 @@ https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_1522248181280117_187867
 #EXTINF:-1 tvg-logo="https://s3-ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2018/06/09174949/Doraemon-PNG-Pic-990x556.png" group-title="DORAEMON",Doraemon :Cairan Bikin Banyak Makanan
 https://video-sin2-2.xx.fbcdn.net/v/t39.24130-2/10000000_171152484203922_7721712269050343585_n.mp4?_nc_cat=105&efg=eyJ2ZW5jb2RlX3RhZyI6Im9lcF9oZCJ9&_nc_ohc=l5MfVEGMi5sAX9mj9nd&_nc_ht=video-sin2-2.xx&oh=15cc68955d19ba0b65d3026503d29a02&oe=5EC50F77
 
-Film request
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/de/Gundala_%282019%29_poster.jpg/220px-Gundala_%282019%29_poster.jpg" group-title="FILM INDO REQUEST", Gundala (2019)
-https://dl.dropboxusercontent.com/s/w3jbdqhmjp7j8f2/Nonton%20Gundala%20%282019%29%20Subtitle%20Indonesia%20Terbaru%20-%20Download%20Streaming%20Online%20Gratis.mp4?dl=0
-
-#EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/0jbvhGZyHkQ8xnY1Vzx9x603fPg=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2923780/original/014120800_1569567162-danurr1.jpg" group-title="FILM INDO REQUEST",  Danur 3-Sunyaruri (2019)
-https://dl.dropboxusercontent.com/s/cwp0qo30fwku9m8/Nonton%20Danur%203-%20Sunyaruri%20%282019%29%20Subtitle%20Indonesia%20Terbaru%20-%20Download%20Streaming%20Online%20Gratis_2.mp4?dl=0
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/37/Poster_Si_Doel_The_Movie.jpg/220px-Poster_Si_Doel_The_Movie.jpg" group-title="FILM INDO REQUEST", Si Doel the Movie 2 (2019) 
-https://dl.dropboxusercontent.com/s/88w9fhgh1fub765/Nonton%20Si%20Doel%20the%20Movie%202%20%282019%29%20Subtitle%20Indonesia%20Terbaru%20-%20Download%20Streaming%20Online%20Gratis.mp4?dl=0
-
-#EXTINF:-1 tvg-logo="" group-title="FILM INDO REQUEST",
-
-#EXTINF:-1 tvg-logo="" group-title="FILM INDO REQUEST",
-
-
-#EXTINF:-1 tvg-logo="" group-title="FILM BARAT REQUEST",
-
-#EXTINF:-1 tvg-logo="" group-title="FILM BARAT REQUEST",
-
-#EXTINF:-1 tvg-logo="" group-title="FILM BARAT REQUEST",
-
-#EXTINF:-1 tvg-logo="" group-title="FILM BARAT REQUEST",
-
 #EXTINF:-1 tvg-logo="https://whathefan.com/wp-content/uploads/2018/11/maxresdefault-10-1.jpg" group-title="FILM ANIME REQUEST",Gintama 2- Rules Are Made to Be Broken Sub Indo
 https://dl.dropboxusercontent.com/s/kc8gg7kf9o4epzy/Nonton%20anime%20%26%20download%20anime%20Gintama%202-%20Rules%20Are%20Made%20to%20Be%20Broken%20Sub%20Indo%20-%20Nonton%20Anime.mp4?dl=0
 
@@ -2173,563 +1790,4 @@ https://dl.dropboxusercontent.com/s/04llvjmu4j4lfy3/Nonton%20Anime%20Gintama%202
 #EXTINF:-1 tvg-logo="https://whathefan.com/wp-content/uploads/2018/11/maxresdefault-10-1.jpg" group-title="FILM ANIME REQUEST",Gintama 2 - The Exceedingly Strange Gintama-chan Episode 003 Sub Indo
 https://dl.dropboxusercontent.com/s/6ani6fkel0uwwj1/Nonton%20Anime%20Gintama%202%20-%20The%20Exceedingly%20Strange%20Gintama-chan%20Episode%20003%20Sub%20Indo%20-%20Nonton%20Anime.mp4?dl=0
 
-#EXTINF:-1 tvg-logo="" group-title="FILM ANIME REQUEST",
-
-#EXTINF:-1 tvg-logo="" group-title="FILM ANIME REQUEST",
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLB8mJ74/Dreadout.jpg" group-title="VOD Film Indonesia",Dreadout Sub Indo (2019)
-https://cdn.clonefile.icu/drive/index.php?id=PNw1sQLyfOUCClVQe6BNbQfvuWQWhzq4Vs24%2FZH2UXT%2Bnh46ODR0zx7yo2Fgyog0%2Fa5KCJafCOqynrbF3g4ESTkgGjmAHE7woZ3NIt43EBQzciaQsJHqHUvtr8nGB6sPn2bjlGAD0PN5abCy7xa2%2Bjtbi3372A%2BGvNHCJs3CTPzciJt4mLyk8jt%2BgmrRfxp1SaGc12%2Bpt4vLODuj1s4XWn&ref=https%3A%2F%2Fwww.duniafilm21.fun%2Fdreadout-2019%2F&res=default
-
-#EXTINF:0 tvg-logo="https://assets-a2.kompasiana.com/items/album/2019/02/14/okb-5c64e9ee43322f14f3499886.jpg?t=o&v=350" group-title="VOD Film Indonesia",Orang Kaya Baru (2019)
-https://hls.kotaksilver.casa/554733/720_161/playlist.m3u8?r=720p
-
-#EXTINF:0 tvg-logo="https://web3.21cineplex.com/movie-images/09SUNI.jpg" group-title="VOD Film Indonesia",Sunyi (2019)
-https://hls.kotaksilver.casa/584134/720_465/playlist.m3u8?r=720p
-
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzcwYjY3ZjktODgyYy00ZWM5LWJhNzgtYzE4MmM4MjQ0ZjQwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UY268_CR16,0,182,268_AL_.jpg" group-title="VOD Film Indonesia", Terlalu Tampan (2019)
-https://hls.kotaksilver.casa/572667/720_716/playlist.m3u8?r=720p
-
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTNlMWM3ZjAtMzA2MC00ODg1LWIzMjQtYzBhYzIzN2JiZGVhXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_UX182_CR0,0,182,268_AL_.jpg" group-title="VOD Film Indonesia",PSP: Gaya Mahasiswa (2019)
-https://hls.kotaksilver.casa/577713/720_768/playlist.m3u8?r=720p
-
-#EXTINF:-1 tvg-logo="https://web3.21cineplex.com/movie-images/09YBE2.jpg" group-title="VOD Film Indonesia",Yo Wes Ben 2 (2019)
-https://www.googleapis.com/drive/v3/files/1RAz-XqeDKLpjI8WRziZKTYen8RulaKWx?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
-
-#EXTINF:-1 tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_800/https://id.bookmyshow.com/blog-hiburan/wp-content/uploads/2018/12/Keluarga-Cemara.jpg" group-title="VOD Film Indonesia",KELUARGA CEMARA (2018)
-https://www.googleapis.com/drive/v3/files/1WGEdGmWd-DI3oYzjcPpyXiDX_OF2RLun?alt=media&key=AIzaSyDI4cz86wTqneDEwwThcv0RZxdG82Eu_ts
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6Hb8abuuGb0A9MlZbKlswmteWwEg4amIA56i41Su148xf427i" group-title="VOD Film Indonesia",Si Doel The Movie (2018)
-https://cdn.clonefile.icu/drive/index.php?id=l52x4%2FdE70ZQAfzu%2BEykDA7k3Xc%2BWG148%2FvZJo2xD9OyWEWdhzSHVb4oI6BcD%2FsISBDKuz7Ey2iIaFzFIeGfHiMo863AQyf%2BU9kziSp5L%2Bk1%2FoEvCKb6LUsjBkGur93SWApcNY3fFudj9EdXdemRu9oluci27iQEPbW2RZzAcLfuCweOB%2Betm8G7uJ4okdLc4gooi5NF5ywgu%2FeOaO7jkQ&ref=https%3A%2F%2Fbos21.bid%2Fsi-doel-the-movie%2F&res=default
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQGv33aquFESk8QJJUN3kC7uCrnvQR4ww7QRSkKV2rnHgYtH4NT" group-title="VOD Film Indonesia",Galih & Ratna (2017)
-https://cdn.clonefile.icu/drive/index.php?id=2IKzfUfPWhpWtdiR2O8hHwhyCGfe5LaWDF7xkPUTkRX8diBNxNg8V4LR9Z1QDxLisQ9FUtdebB0aSIaK5MiiA2%2BG5FmJK3Rui2TutfP6hhbN8NXRvGCciquh7GAMg9m9Q73Op0jt%2Fh%2B7OYsf3cRPHyYROaU3MivJsIla52LsqfAAZ%2BYSBqzSdHhNleb3YEHPM%3D&ref=https%3A%2F%2Fbos21.bid%2Fgalih-ratna%2F&res=default
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTN7Qimb-4Gaxufxdoe4dsy7Pf3Buu5z6erKfcXP3wWcqII5dg8" group-title="VOD Film Indonesia",Soekarno: Indonesia Merdeka (2013)
-https://cdn.clonefile.icu/drive/index.php?id=84nd8Mx3NJYejjUvuIDa%2FQUpAC9xCyyUbbG0yusyfQ0o6KBE%2BIFKmUYsNxb9AB9dDAOrHSn19CMXFYSByDHDQQR2giLcXAHcrEBxHaR12yP8kO%2FWQ7PlTGnwdepQCMZ%2BkVxW61BuBr8Z75K5i1wnt3HepkrNtZ3kAR9rAhulyA6sT%2BuNmRh%2F7PHtx5qNNvpNEoPq%2Bs68ocBThkUkvlqGI0&ref=https%3A%2F%2Fbos21.bid%2Fsoekarno-indonesia-merdeka%2F&res=default
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQXbOKzrhyjvxCjlAm7aHnA2RmsPFNwnEpODdxIEVfQPYurzG-p" group-title="VOD Film Indonesia",Habibie & Ainun (2012)
-https://cdn.cloneapi.icu/drive/index.php?id=zS0GFxoJ%2FmkCjFjD73MyTAXyBOmiUjwe4Jdo0gbkHsaSo32T1hpDxHhtLuJLndiQwMLWsyzb6tQJYxccapFee5DWaC6hWg6k0DAjpNjNvrv3HBjAjWfGTRx82fWehG7nVTqyl0CEcvM1Y0JB3nIN7B%2FVej5T5%2FFoSbc9NdWVBkS%2FbNXujPLQFW8dIn2BgjYvI%3D&ref=https%3A%2F%2Fbos21.bid%2Fhabibie-ainun%2F&res=default
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J7pBxRfW/mola.png" group-title="VOD Film Indonesia",DIRGAHAYU RI 74
-https://cdn-mxs-01.akamaized.net/Content/HLS/VOD/ddccc5e3-0677-490c-8821-9edc0542bdf2/c0de6451-cd85-84e0-fcd7-ea805ff7a6f2/Stream(07)/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/J7pBxRfW/mola.png" group-title="VOD Film Indonesia",REVIEW PREMIER LEAGUE FHD
-https://cdn02.mola.tv/Content/HLS/VOD/397ce7ab-d730-4ea9-b867-0e0a023f68ae/72f5c641-ccb4-018f-21f8-6f718d8ade2c/Stream(07)/index.m3u8
-
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Annabelle: Creation (2017)
-http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Godzilla: Planet of the Monsters (2017)
-https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wish Upon (2017)
-http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wonder Woman (2017)
-http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Almost Christmas (2016)
-https://archive.org/download/AlmostChristmas20161080pRemux/Almost%20Christmas%20(2016)%201080p%20Remux.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bad Santa 2 (2016)
-https://archive.org/download/BadSanta22016UNRATED1080pRemux/Bad%20Santa%202%20(2016)%20UNRATED%201080p%20Remux.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Captain America: Civil War (2016)
-http://deadlyblogger.com/NewRelease/captain2016.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Colossal (2016)
-https://ia601501.us.archive.org/22/items/LaMaravillasDeLaVida201702/LaMaravillasDeLaVida2017_02.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Doctor Strange (2016)
-http://deadlyblogger.com/NewRelease/strange2016.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Nocturnal Animals (2016)
-https://archive.org/download/NocturnalAnimals20161080pRemux/Nocturnal%20Animals%20(2016)%201080p%20Remux.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Rogue One: A Star Wars Story (2016)
-http://deadlyblogger.com/NewRelease/rogue1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Rules Don't Apply (2016)
-https://archive.org/download/RulesDontApply20161080pRemux/Rules%20Dont%20Apply%20(2016)%201080p%20Remux.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Viral (2016) [Dual-ES]
-https://ia801507.us.archive.org/18/items/viral_201709/viral.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X-Men: Apocalypse (2016)
-http://deadlyblogger.com/NewRelease/xmen2016.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Avengers: Age of Ultron (2015)
-http://deadlyblogger.com/NewRelease/avengers2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Home (2015)
-https://archive.org/download/Home.2015.720p.YIFYTopArchive.IR/Home.2015.720p.YIFY_TopArchive.IR.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hateful Eight (2015)
-http://deadlyblogger.com/NewRelease/hateful2015.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Transporter Refueled (2015)
-https://archive.org/download/TheTransporterRefueled20151080pBluRayX264DTSJYK/The%20Transporter%20Refueled%202015%201080p%20BluRay%20x264%20DTS-JYK.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",3 Days to Kill (2014) 
-http://www.deadlyblogger.com/NewRelease/3days.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",A Haunted House 2 (2014)
-http://www.deadlyblogger.com/NewRelease/haunted2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Buck Wild (2014)
-https://archive.org/download/BuckWild2013720p/Buck.Wild.2013.720p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Captain America: The Winter Soldier (2014)
-http://deadlyblogger.com/NewRelease/wintersoldier.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Dracula Untold (2014)
-http://deadlyblogger.com/NewRelease/dracula.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Free Fall (2014)
-https://archive.org/download/FreeFall2014720p/Free%20Fall%20(2014)%20720p.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Get on Up (2014)
-http://deadlyblogger.com/NewRelease/getonup.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Guardians of the Galaxy (2014)
-http://deadlyblogger.com/NewRelease/guardians2014.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",John Wick (2014)
-http://deadlyblogger.com/NewRelease/johnwick.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Madea's Neighbors from Hell (2014)
-http://www.deadlyblogger.com/NewRelease/fromhell2014.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Maleficent (2014)
-http://www.deadlyblogger.com/NewRelease/maleficent.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Mr. Peabody & Sherman (2014)
-http://www.deadlyblogger.com/NewRelease/sherman2014.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Need for Speed (2014)
-http://www.deadlyblogger.com/NewRelease/needforspeed.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Non-Stop (2014)
-http://www.deadlyblogger.com/NewRelease/nonstop2014.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Paranormal Activity: The Marked Ones (2014)
-http://www.deadlyblogger.com/NewRelease/markedones.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Pompeii (2014)
-http://www.deadlyblogger.com/NewRelease/pompeii2014.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Ride Along (2014)
-http://www.deadlyblogger.com/NewRelease/ridealong2014.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Rio 2 (2014)
-http://www.deadlyblogger.com/NewRelease/rio2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",School Dance (2014)
-http://www.deadlyblogger.com/NewRelease/schooldance.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Taken 3 (2014)
-http://deadlyblogger.com/NewRelease/taken3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Amazing Spider-Man 2 (2014)
-http://www.deadlyblogger.com/NewRelease/amazin2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Lego Movie (2014)
-http://www.deadlyblogger.com/NewRelease/legomovie2014.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Pirate Fairy (2014)
-http://www.deadlyblogger.com/NewRelease/tinker2014.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Single Moms Club (2014)
-http://www.deadlyblogger.com/NewRelease/singlemom.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Veronica Mars (2014)
-http://www.deadlyblogger.com/NewRelease/veronicamars.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",12 Years a Slave (2013)
-http://www.deadlyblogger.com/NewRelease/12slave.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",47 Ronin (2013)
-http://www.deadlyblogger.com/NewRelease/47ronin.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Afflicted (2013)
-http://www.deadlyblogger.com/NewRelease/afflicted2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",After Earth (2013)
-http://www.deadlyblogger.com/NewRelease/after.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",American Hustle (2013)
-http://www.deadlyblogger.com/NewRelease/hustle2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Anchorman 2: The Legend Continues (2013)
-http://www.deadlyblogger.com/NewRelease/anchorman2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bad Grandpa (2013)
-http://www.deadlyblogger.com/NewRelease/badgrandpa2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bad Words (2013)
-http://www.deadlyblogger.com/NewRelease/badwords.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Battle of the Year (2013)
-http://www.deadlyblogger.com/NewRelease/carrie2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Carrie (2013)*
-https://archive.org/download/Kickay.blogspot.com_Carrie.2013.HD.1080p_201401/%5Bkickay.blogspot.com%5D%20Carrie%202013%20HD%201080p.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Delivery Man (2013)
-http://www.deadlyblogger.com/NewRelease/deliveryman.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Empire State (2013)
-http://www.deadlyblogger.com/NewRelease/empirestate.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Epic (2013)
-http://www.deadlyblogger.com/NewRelease/epic1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Escape Plan (2013)
-http://www.deadlyblogger.com/NewRelease/escapeplan2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Free Birds (2013)
-http://www.deadlyblogger.com/NewRelease/freebirds2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Frozen (2013)
-http://www.deadlyblogger.com/NewRelease/disneyfrozen.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Furious 6 (2013)
-http://www.deadlyblogger.com/NewRelease/fast6.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Grown Ups 2 (2013)
-http://www.deadlyblogger.com/NewRelease/grown2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Grudge Match (2013)
-http://www.deadlyblogger.com/NewRelease/grudgematch.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Identity Thief (2013)
-http://www.deadlyblogger.com/NewRelease/identitythief.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Insidious - Chapter 2 (2013)
-http://www.deadlyblogger.com/NewRelease/insidious2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Iron Man 3 (2013)
-http://www.deadlyblogger.com/NewRelease/ironman3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Kevin Hart: Let Me Explain (2013)
-http://www.deadlyblogger.com/NewRelease/kevin.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Kick-Ass 2 (2013)
-http://www.deadlyblogger.com/NewRelease/kickass2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Killing Season (2013)
-http://www.deadlyblogger.com/NewRelease/killings.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Last Vegas (2013)
-http://www.deadlyblogger.com/NewRelease/lastvegas2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Lego Star Wars: The Yoda Chronicles (2013)
-http://www.deadlyblogger.com/NewRelease/legoyoda1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Man of Steel (2013)
-http://www.deadlyblogger.com/NewRelease/steel.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Man of Tai Chi (2013)
-http://www.deadlyblogger.com/NewRelease/tai.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Monsters University (2013)
-http://www.deadlyblogger.com/NewRelease/monsters2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Now You See Me (2013)
-http://www.deadlyblogger.com/NewRelease/nowyouseeme.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Olympus Has Fallen (2013)
-http://www.deadlyblogger.com/NewRelease/fallen1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Prisoners (2013)
-http://www.deadlyblogger.com/NewRelease/prisoners.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Pup (2013)
-https://archive.org/download/TorrentPopular.comPup20131080p1080p/Pup.2013.1080p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Repentance (2013)
-http://www.deadlyblogger.com/NewRelease/repentance.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Runner Runner (2013)
-http://www.deadlyblogger.com/NewRelease/repentance.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saving Mr. Banks (2013)
-http://www.deadlyblogger.com/NewRelease/savingbanks.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Star Trek: Into Darkness (2013)
-http://deadlyblogger.com/NewRelease/darkness.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bling Ring (2013)
-http://www.deadlyblogger.com/NewRelease/blingring.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Call (2013)
-http://www.deadlyblogger.com/NewRelease/thecall.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Conjuring (2013)
-http://www.deadlyblogger.com/NewRelease/conjuring.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Grandmaster (2013)
-http://www.deadlyblogger.com/NewRelease/grandmaster.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Family (2013)
-http://www.deadlyblogger.com/NewRelease/thefamily2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hangover Part III (2013)
-http://www.deadlyblogger.com/NewRelease/hangover3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Heat (2013)
-http://www.deadlyblogger.com/NewRelease/theheat.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hobbit: The Desolation of Smaug (2013)
-http://www.deadlyblogger.com/NewRelease/smaug2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hunger Games: Catching Fire (2013)
-http://www.deadlyblogger.com/NewRelease/hungergames2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Internship (2013)
-http://www.deadlyblogger.com/NewRelease/internship2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Jungle Book: Return 2 the Jungle (2013)
-http://www.deadlyblogger.com/NewRelease/junglebook2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Mortal Instruments: City of Bones (2013)
-http://www.deadlyblogger.com/NewRelease/themort1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Starving Games (2013)
-http://www.deadlyblogger.com/NewRelease/starving2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Smurfs 2 (2013)
-http://www.deadlyblogger.com/NewRelease/smurfs2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Wolf of Wall Street (2013)
-http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Wolverine (2013)
-http://www.deadlyblogger.com/NewRelease/thewolverine.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",This Is the End (2013)
-http://www.deadlyblogger.com/NewRelease/theend.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Toy Story of Terror (2013)
-http://www.deadlyblogger.com/NewRelease/storyterror.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Turbo (2013)
-http://www.deadlyblogger.com/NewRelease/turbo.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",We're the Millers (2013)
-http://www.deadlyblogger.com/NewRelease/millers.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",World War Z (2013)
-http://www.deadlyblogger.com/NewRelease/world.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Flight (2012)
-http://www.deadlyblogger.com/NewRelease/flight1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Men in Black 3 (2012)
-http://www.deadlyblogger.com/NewRelease/mnb3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Pitch Perfect (2012)
-http://www.deadlyblogger.com/NewRelease/pitchperfect.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Project X (2012)
-http://www.deadlyblogger.com/NewRelease/projectx.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Prometheus (2012)
-http://www.deadlyblogger.com/NewRelease/prometheus.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Safe House (2012)
-http://www.deadlyblogger.com/NewRelease/safehouse.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Spring Breakers (2012)
-http://www.deadlyblogger.com/NewRelease/springbreakers.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bourne Legacy (2012)
-http://www.deadlyblogger.com/NewRelease/bourne4.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hobbit: An Unexpected Journey (2012)
-http://www.deadlyblogger.com/NewRelease/hobbit1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hunger Games (2012)
-http://www.deadlyblogger.com/NewRelease/hungergame1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",This Is 40 (2012)
-http://www.deadlyblogger.com/NewRelease/thisis40.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Think Like a Man (2012)
-http://www.deadlyblogger.com/NewRelease/thinklike1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Woggie (2012)
-https://archive.org/download/Woggie-CompleteMovie/ooooooooooooo1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn 5: Bloodlines (2012)
-http://www.deadlyblogger.com/NewRelease/wrongturn5.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Fast Five (2011)
-http://www.deadlyblogger.com/NewRelease/fast5.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",King of Paper Chasin' (2011)
-http://www.deadlyblogger.com/NewRelease/kingpaper.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Rise of the Planet of the Apes (2011)
-http://www.deadlyblogger.com/NewRelease/apes7.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Girl with the Dragon Tattoo (2011)
-http://www.deadlyblogger.com/NewRelease/dragontattoo.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Grey (2011)
-http://www.deadlyblogger.com/NewRelease/grey.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hangover Part II (2011)
-http://www.deadlyblogger.com/NewRelease/hangover2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hit List (2011)
-http://www.deadlyblogger.com/NewRelease/hitlist.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Kick (2011)
-http://www.deadlyblogger.com/NewRelease/thekick.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Transformers: Dark of the Moon (2011)
-http://www.deadlyblogger.com/NewRelease/transformers3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn 4 - Bloody Beginnings (2011)
-http://www.deadlyblogger.com/NewRelease/wrongturn4.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X: First Class (2011)
-http://www.deadlyblogger.com/NewRelease/xmen4.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Everything Must Go (2010)
-http://www.deadlyblogger.com/NewRelease/mustgo.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Grown Ups (2010)
-http://www.deadlyblogger.com/NewRelease/grown1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Hot Tub Time Machine (2010)
-http://www.deadlyblogger.com/NewRelease/hottub2010.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Insidious (2010)
-http://www.deadlyblogger.com/NewRelease/insidious1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Iron Man 2 (2010)
-http://www.deadlyblogger.com/NewRelease/ironman2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Jackass 3D (2010)
-http://www.deadlyblogger.com/NewRelease/jackass3d.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw 3D - The Final Chapter (2010)
-http://www.deadlyblogger.com/NewRelease/saw7.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Tangled (2010)
-http://www.deadlyblogger.com/NewRelease/tangled2010.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Next Three Days (2010)
-http://www.deadlyblogger.com/NewRelease/3days.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Other Guys (2010)
-http://www.deadlyblogger.com/NewRelease/otherguys.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Social Network (2010)
-https://archive.org/download/TheSocialNetwork2010720pBrRipX264700MBYIFY/The%20Social%20Network%20(2010)%20720p%20BrRip%20x264%20-%20700MB%20-%20YIFY.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Unstoppable (2010)
-http://www.deadlyblogger.com/NewRelease/unstoppable.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",A Christmas Carol (2009)
-http://www.deadlyblogger.com/NewRelease/acc2009.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Chiaroscuro Baby (2009)
-https://archive.org/download/ChiaroscuroBaby/ChiaroscuroBaby-1280x720_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Fast & Furious (2009)
-http://www.deadlyblogger.com/NewRelease/fast4.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Home (2009)
-https://archive.org/download/Home2009/Home2009_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Land of the Lost (2009)
-http://www.deadlyblogger.com/NewRelease/landlost.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Law Abiding Citizen (2009)
-http://www.deadlyblogger.com/NewRelease/lawcitizen.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Madea Goes to Jail (2009)
-http://www.deadlyblogger.com/NewRelease/madea1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Orphan (2009)
-http://www.deadlyblogger.com/NewRelease/orphan2009.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw VI (2009)
-http://www.deadlyblogger.com/NewRelease/saw6.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Chinese Room (2009)
-https://archive.org/download/TheChineseRoom/thechineseroom.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Hangover (2009)
-http://www.deadlyblogger.com/NewRelease/hangover1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Taking of Pelham 123 (2009)
-http://www.deadlyblogger.com/NewRelease/pelham123.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Transformers: Revenge of the Fallen (2009)
-http://www.deadlyblogger.com/NewRelease/transformers2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn 3 - Left for Dead (2009)
-http://www.deadlyblogger.com/NewRelease/wrongturn3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X-Men Origins: Wolverine (2009)
-http://www.deadlyblogger.com/NewRelease/origin.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Big Buck Bunny (2008)
-https://archive.org/download/BigBuckBunny_328/BigBuckBunny_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Iron Man (2008)
-http://www.deadlyblogger.com/NewRelease/ironman1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Meet the Browns (2008)
-http://www.deadlyblogger.com/NewRelease/browns1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw V (2008)
-http://www.deadlyblogger.com/NewRelease/saw5.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Semi-Pro (2008)
-http://www.deadlyblogger.com/NewRelease/semipro.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Seven Pounds (2008)
-http://www.deadlyblogger.com/NewRelease/sevenp.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Sita Sings the Blues (2008)
-https://archive.org/download/Sita_Sings_the_Blues_1080p_dirac_vorbis.ogg/Sita_Sings_the_Blues_1080p_dirac_vorbis.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Sobaka (2008)
-https://archive.org/download/Sobaka/sobaka.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Step Brothers (2008)
-http://www.deadlyblogger.com/NewRelease/stepbro.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The House Bunny (2008)
-http://www.deadlyblogger.com/NewRelease/housebunny2014.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",American Gangster (2007)
-http://www.deadlyblogger.com/NewRelease/agangster.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Blades of Glory (2007)
-http://www.deadlyblogger.com/NewRelease/glory.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Hot Fuzz (2007)
-http://www.deadlyblogger.com/NewRelease/hotfuzz.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Am Legend (2007)
-http://www.deadlyblogger.com/NewRelease/iaml.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Insecurity (2007)
-https://archive.org/download/insecurity/Insecurity_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Ratatouille (2007)
-http://www.deadlyblogger.com/NewRelease/ratatouille.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw IV (2007)
-http://www.deadlyblogger.com/NewRelease/saw4.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Steal This Film 2 (2007)
-https://archive.org/download/StealThisFilmII/Steal_This_Film_II.720p_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bourne Ultimatum (2007)
-http://www.deadlyblogger.com/NewRelease/bourne3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Transformers (2007)
-http://www.deadlyblogger.com/NewRelease/transformers1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn 2: Dead End (2007)
-http://www.deadlyblogger.com/NewRelease/wrongturn2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Zeitgeist - The Movie (2007)
-https://archive.org/download/zeitgeist_movie/Zeitgeist_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bah Humduck! - A Looney Tunes Christmas (2006)
-https://archive.org/download/Bugs_Bunny_Collection/Bah%2C%20Humduck%21%20-%20A%20Looney%20Tunes%20Christmas%20(2006)%20-%20[arsenaloyal].mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Children of Men (2006)
-https://archive.org/download/ChildrenOfMen20061080pX26510bitJoy/Children%20of%20Men%202006%20(1080p%20x265%2010bit%20Joy).mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Deja Vu (2006)
-http://www.deadlyblogger.com/NewRelease/dejavu.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Elephants Dream (2006)
-https://archive.org/download/ElephantsDream/ed_hd_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Killa Season (2006)
-http://www.deadlyblogger.com/NewRelease/killa1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Madea's Family Reunion (2006)
-http://www.deadlyblogger.com/NewRelease/madea2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Mickey Saves Santa (2006)
-http://www.deadlyblogger.com/NewRelease/saw3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw III (2006)
-http://www.deadlyblogger.com/NewRelease/saw3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Steal This Film (2006)
-https://archive.org/download/STEAL_THIS_FILM/StealThisFilm.Part1_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Step Up (2006)
-https://archive.org/download/StepUp20061080pX264SciencefunMux/Step%20Up%20%282006%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Talladega Nights: The Ballad of Ricky Bobby (2006)
-http://www.deadlyblogger.com/NewRelease/talla.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Fast and the Furious - Tokyo Drift (2006)
-http://www.deadlyblogger.com/NewRelease/fast3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wholesale Souls Inc. (2006)
-https://archive.org/download/WholesaleSoulsInc/wholesale-souls-inc_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X-Men: The Last Stand (2006)
-http://www.deadlyblogger.com/NewRelease/xmen3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Between Hurricanes (2005)
-https://archive.org/download/BetwHurr/BETWEEN-HURRICANES_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bewitched (2005)
-http://www.deadlyblogger.com/NewRelease/bewitched.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Dirty (2005)
-http://www.deadlyblogger.com/NewRelease/dirty1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Four Brothers (2005)
-http://www.deadlyblogger.com/NewRelease/fourb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw II (2005)
-http://www.deadlyblogger.com/NewRelease/saw2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Exorcism of Emily Rose (2005)
-https://archive.org/download/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY/The.Exorcism.of.Emily.Rose.UNRATED.2005.1080p.BrRip.x264.BOKUTOX.YIFY.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Anchorman: The Legend of Ron Burgundy (2004)
-http://www.deadlyblogger.com/NewRelease/anchorman.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Blade: Trinity (2004)
-http://www.deadlyblogger.com/NewRelease/blade3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Dirty Dancing - Havana Nights (2004)
-http://www.deadlyblogger.com/NewRelease/dirtydancing2004.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Godzilla: Final Wars (2004)
-https://archive.org/download/GodzillaFinalWars/Godzilla%20Final%20Wars.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Hellboy (2004)
-https://archive.org/download/Hellboy2004DirectorsCut1080pX26510bitJoy/Hellboy%202004%20Directors%20Cut%20(1080p%20x265%2010bit%20Joy).mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",I Robot (2004)
-http://www.deadlyblogger.com/NewRelease/irobot.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Kicking & Screaming (2005)
-http://www.deadlyblogger.com/NewRelease/kicking.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Limbo (2004)
-https://archive.org/download/RandallPullenTheDaysofLimbo/The_Days_Of_LimboDIVX_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Mickey's Twice Upon a Christmas (2004)
-http://www.deadlyblogger.com/NewRelease/mickeytwice.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Napoleon Dynamite (2004)
-http://www.deadlyblogger.com/NewRelease/napolean.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Saw (2004)
-http://www.deadlyblogger.com/NewRelease/saw1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bourne Supremacy (2004)
-http://www.deadlyblogger.com/NewRelease/bourne2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Day After Tomorrow (2004)
-http://www.deadlyblogger.com/NewRelease/theday2004.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Polar Express (2004)
-http://www.deadlyblogger.com/NewRelease/polarexpress2004.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",2 Fast 2 Furious (2003)
-http://www.deadlyblogger.com/NewRelease/fast2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Bad Boys II (2003)
-http://www.deadlyblogger.com/NewRelease/badboys2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Battle Royale II - Requiem (2003)
-https://archive.org/download/01BattleRoyaleSpecialEdition/02%20-%20Battle%20Royale%20II%20-%20Requiem.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Elf (2003)
-http://www.deadlyblogger.com/NewRelease/elf1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Honey (2003)
-https://archive.org/download/StepUp20061080pX264SciencefunMux/Honey%20%282003%29%201080p%20x264%20%5bSciencefun%20Mux%5d.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Finding Nemo (2003)
-http://www.deadlyblogger.com/NewRelease/nemo2003.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Looney Tunes Back in Action (2003)
-https://archive.org/download/Bugs_Bunny_Collection/Looney%20Tunes%20Back%20In%20Action%20(2003)%20-%20[arsenaloyal].mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Malibu's Most Wanted (2003)
-http://www.deadlyblogger.com/NewRelease/malibu1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Nobody Needs To Know (2003)
-https://archive.org/download/Nobody_Needs_To_Know/nobody-needs-to-know_512kb.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Old School (2003)
-http://www.deadlyblogger.com/NewRelease/oldschool1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",#EXTINF:-1,The Lord of the Rings: The Return of the King (2003)
-http://www.deadlyblogger.com/NewRelease/returnking1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Matrix Reloaded (2003)
-http://www.deadlyblogger.com/NewRelease/matrix2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Matrix Revolutions (2003)
-http://www.deadlyblogger.com/NewRelease/matrix3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Wrong Turn (2003)
-http://www.deadlyblogger.com/NewRelease/wrongturn1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X2 (2003)
-http://www.deadlyblogger.com/NewRelease/xmen2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",28 Days Later (2002)
-http://www.deadlyblogger.com/NewRelease/28days.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Blade II (2002)
-http://www.deadlyblogger.com/NewRelease/blade2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Dragon Ball Z: Fusion - Last Saiyan (2002)
-https://archive.org/download/DragonBallZFusionTheLastSaiyanVHS/Dragon%20Ball%20Z%20Fusion%20The%20Last%20Saiyan%20VHS.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Friday After Next (2002)
-http://www.deadlyblogger.com/NewRelease/friday3.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Godzilla Against Mechagodzilla (2002)
-https://archive.org/download/GodzillaAgainstMechagodzilla_201703/Godzilla%20Against%20Mechagodzilla.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Home Alone 4 (2002)
-http://www.deadlyblogger.com/NewRelease/homealone4.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Men in Black II (2002)
-http://www.deadlyblogger.com/NewRelease/mnb2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Paid in Full (2002)
-http://www.deadlyblogger.com/NewRelease/paidin.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Shottas (2002)
-http://www.deadlyblogger.com/NewRelease/shottas.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Tarzan & Jane (2002)
-http://www.deadlyblogger.com/NewRelease/tarzanjane.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Bourne Identity (2002)
-http://www.deadlyblogger.com/NewRelease/bourne1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Lord of the Rings: The Two Towers (2002)
-http://www.deadlyblogger.com/NewRelease/twotowers.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Powerpuff Girls Movie (2002)
-https://archive.org/download/PowerpuffGirlsMovie/The%20Powerpuff%20Girls%20Movie.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Ali (2001)
-http://www.deadlyblogger.com/NewRelease/ali1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Jay and Silent Bob Strike Back (2001)
-http://www.deadlyblogger.com/NewRelease/strikeback.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Mickey's Magical Christmas: Snowed in at the House of Mouse (2001)
-http://www.deadlyblogger.com/NewRelease/mmagicalchristmas.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Planet of the Apes (2001)
-http://www.deadlyblogger.com/NewRelease/apes6.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Pootie Tang (2001)
-http://www.deadlyblogger.com/NewRelease/pootie.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Return to Cabin by the Lake (2001)
-http://www.deadlyblogger.com/NewRelease/cabin2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Animal (2001)
-http://www.deadlyblogger.com/NewRelease/animal.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Fast and the Furious (2001)
-http://www.deadlyblogger.com/NewRelease/fast1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",The Lord of the Rings: The Fellowship of the Ring (2001)
-http://www.deadlyblogger.com/NewRelease/fellowship1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Training Day (2001)
-http://www.deadlyblogger.com/NewRelease/training.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Baller Blockin' (2000)
-http://www.deadlyblogger.com/NewRelease/blockin.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Battle Royale (2000) [EN-Subs]
-https://archive.org/download/01BattleRoyaleSpecialEdition/01%20-%20Battle%20Royale%20-%20Special%20Edition.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Cabin by the Lake (2000)
-http://www.deadlyblogger.com/NewRelease/cabin1.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",How the Grinch Stole Christmas (2000)
-http://www.deadlyblogger.com/NewRelease/grinch2000.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Men of Honor (2000)
-https://archive.org/download/MenOfHonor20001080pX264ItaEnSciencefunMux/Men%20of%20Honor%20%282000%29%201080p%20x264%20ita%20en%20%5bSciencefun%20Mux%5d.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Next Friday (2000)
-http://www.deadlyblogger.com/NewRelease/friday2.mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",Tweety's High Flying Adventure (2000)
-https://archive.org/download/Bugs_Bunny_Collection/Tweety%27s%20High%20Flying%20Adventure%20(2000)%20-%20[arsenaloyal].mp4
-#EXTINF:-1 logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQoeWfUOd0Ivz3ooxXENTRqFuWEQG1uRutnbMeUpoTKeq0rOdiV" group-title="VOD KOLEKSI",X-Men (2000)
-http://www.deadlyblogger.com/NewRelease/xmen1.mp4
 
