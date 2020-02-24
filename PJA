@@ -80,7 +80,7 @@ https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="SERVER STABIL: TV NASIONAL",NET TV HD
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="SERVER STABIL: TV NASIONAL",RAJAWALI TV SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="SERVER STABIL: TV NASIONAL",RAJAWALI TV HD
 https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582573247~exp=9007200837314238~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=9ee138c2a1077e884fcb2f50df214c960232c42384a1236f7ce140d7a0462353
 
 EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="SERVER STABIL: TV NASIONAL",RCTI HD
