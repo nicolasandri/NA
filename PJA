@@ -50,10 +50,10 @@ A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV HD
 https://dl.dropboxusercontent.com/s/rw72qhzzpq8ix9x/ANTV.m3u8?dl=0
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV HD backup
 http://210.210.155.35/session/ce9a34fe-1aa3-11ea-975d-ad15b46102b5/qwr9ew/s/s102/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV HD backup
 https://cdnkbl1.useetv.com/joss/15/antv/chunklist_w1358544013_b894100_sleng.m3u8?enc=n-p1apIWDxX7iniddiZGBA&exp=1582524828
 B
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MAqagBW.png"  group-title="TV NASIONAL",BERITA SATU
