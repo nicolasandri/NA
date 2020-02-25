@@ -44,62 +44,76 @@ https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
 https://dl.dropboxusercontent.com/s/iooprgrlp4xho69/promo.mp4?dl=0
 LIST CHANNEL:
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="SERVER STABIL: TV NASIONAL",ANTV HD 
-https://cdn-livetv5.metube.id/hls/antv_480/index.m3u8
+#EXTINF:-1 tvg-ID="ANTV.id" tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="SERVER STABIL : TV NASIONAL",ANTV HD
+https://delivery.macan.live/stream/id_antv/index.m3u8?token=BBjZUfXZ&v=20200202
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="SERVER STABIL: TV NASIONAL",BERITA SATU
-https://liveanevia.mncnow.id/live/eds/BeritaSatu/sa_hls/BeritaSatu.m3u8
+#EXTINF:-1 tvg-ID="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="SERVER STABIL : TV NASIONAL",BERITA SATU HD
+https://delivery.macan.live/stream/id_beritasatu/index.m3u8?token=BBjZUfXZ&v=20200202
 
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-berita-satu-tv-1458.jpg" group-title="SERVER STABIL: TV NASIONAL",BERITA SATU WORLD 
+#EXTINF:-1 tvg-ID="BeritaSatuWorld.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="SERVER STABIL : TV NASIONAL",BERITA SATU WORLD HD
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 
-#EXTINF:-1 logo="https://i.imgur.com/HyCOcSE.png" group-title="SERVER STABIL: TV NASIONAL",CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="CNNIndonesia.id" tvg-logo="https://i.imgur.com/HyCOcSE.png" group-title="SERVER STABIL : TV NASIONAL",CNN INDONESIA HD
+https://delivery.macan.live/stream/id_cnn/index.m3u8?token=BBjZUfXZ&v=20200202
 
-#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="SERVER STABIL: TV NASIONAL",CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1 tvg-ID="CNBCIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png" group-title="SERVER STABIL : TV NASIONAL",CNBC INDONESIA HD
+https://delivery.macan.live/stream/id_cnbc/index.m3u8?token=BBjZUfXZ&v=20200202
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zSvJbZe.png" group-title="SERVER STABIL: TV NASIONAL",GLOBAL TV HD
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 tvg-ID="GTV.id" tvg-logo="https://i.imgur.com/zSvJbZe.png" group-title="SERVER STABIL : TV NASIONAL",GLOBAL TV HD
+https://delivery.macan.live/stream/id_gtv/index.m3u8?token=BBjZUfXZ&v=20200202
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="SERVER STABIL: TV NASIONAL",INDOSIAR HD
-https://cdn-livetv5.metube.id/hls/indosiar_480/index.m3u8
+#EXTINF:-1 tvg-ID="Indosiar.id" tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="SERVER STABIL : TV NASIONAL",INDOSIAR HD
+https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=BBjZUfXZ&v=20200202
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="SERVER STABIL: TV NASIONAL",KOMPAS TV SD
-https://liveanevia.mncnow.id/live/eds/KompasTV/sa_hls/KompasTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OIOvO9l.png" group-title="SERVER STABIL: TV NASIONAL",METRO TV HD
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 tvg-ID="idx.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo-idx.png/220px-Logo-idx.png" group-title="SERVER STABIL : TV NASIONAL",IDX HD
+https://delivery.macan.live/stream/idx/index.m3u8?token=BBjZUfXZ&v=20200202
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fb/MNCNews_tegak.png/1200px-MNCNews_tegak.png" group-title="SERVER STABIL: TV NASIONAL",MNC News
+#EXTINF:-1 tvg-ID="iNews.id" tvg-logo="https://i.pinimg.com/originals/e1/2b/35/e12b35abea7ddf9501cabdfbe51257dd.png" group-title="SERVER STABIL : TV NASIONAL",INEWS HD
+https://delivery.macan.live/stream/id_inews/index.m3u8?token=BBjZUfXZ&v=20200202
+
+#EXTINF:-1 tvg-ID="KompasTv.id" tvg-logo="https://i.imgur.com/Ta2xnFI.png" group-title="SERVER STABIL : TV NASIONAL",KOMPAS TV HD
+https://delivery.macan.live/stream/id_kompastv/index.m3u8?token=BBjZUfXZ&v=20200202
+
+
+#EXTINF:-1 tvg-ID="MetroTV.id" tvg-logo="https://i.imgur.com/OIOvO9l.png" group-title="SERVER STABIL : TV NASIONAL",METRO TV HD
+https://delivery.macan.live/stream/id_metrotv/index.m3u8?token=BBjZUfXZ&v=20200202
+
+
+#EXTINF:-1 tvg-ID="MNCNews.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/fb/MNCNews_tegak.png/1200px-MNCNews_tegak.png" group-title="SERVER STABIL : TV NASIONAL",MNC News SD
 https://liveanevia.mncnow.id/live/eds/MNCNews/sa_hls/MNCNews.m3u8
 
-#EXTINF:0 group-title="SERVER STABIL: TV NASIONAL"tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/MNCTV.png",MNCTV HD
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+#EXTINF:-1 tvg-ID="MNCTV.id" tvg-logo="https://inilahonline.com/wp-content/uploads/2018/07/MNCTV.png" group-title="SERVER STABIL : TV NASIONAL",MNCTV HD
+https://delivery.macan.live/stream/id_mnctv/index.m3u8?token=BBjZUfXZ&v=20200202
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="SERVER STABIL: TV NASIONAL",NET TV HD
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="SERVER STABIL: TV NASIONAL",RAJAWALI TV HD
-https://livetvhooq.akamaized.net/902d04d98a094dc6a78e73166d108e3d/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582573247~exp=9007200837314238~acl=/902d04d98a094dc6a78e73166d108e3d/*/profile_0/chunklist.m3u8*~hmac=9ee138c2a1077e884fcb2f50df214c960232c42384a1236f7ce140d7a0462353
-
-EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="SERVER STABIL: TV NASIONAL",RCTI HD
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-
-#EXTINF:-1 logo="https://i.imgur.com/3iJmgDt.png" group-title="SERVER STABIL: TV NASIONAL",SCTV HD
-https://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sEZBAP8.png" group-title="SERVER STABIL: TV NASIONAL",TRANS 7 FHD
-https://stream-04.sg1.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G7Rn0-CZCrAqmyjzmCEYSfk)/dm/3/x6p1gw7/s/live-4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2642q4E.png" group-title="SERVER STABIL: TV NASIONAL",TRANS TV HD
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w192084491_b384000_sleng.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="SERVER STABIL: TV NASIONAL",TV ONE HD
-https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybPLunRmFxa4Dqwz4QZxl2TI)/dm/3/x619221/s/live-3.m3u8
-#https://livetvhooq.akamaized.net/205606ce940f479dafb9ba6d71d61139/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1582574867~exp=9007200837315858~acl=/205606ce940f479dafb9ba6d71d61139/*/profile_0/chunklist.m3u8*~hmac=bfe3fd1b886c620f696e7e0ff86ca55501fd1dd6e9cd01c9adfa12bd656786db
+#EXTINF:-1 tvg-ID="NetTV.id" tvg-logo="https://i.imgur.com/RKcaIaZ.png" group-title="SERVER STABIL : TV NASIONAL",NET TV HD
+https://delivery.macan.live/stream/id_nettv/index.m3u8?token=BBjZUfXZ&v=20200202
 
 
+#EXTINF:-1 tvg-ID="RajawaliTV.id" tvg-logo="https://i.imgur.com/kLCs9AL.png" group-title="SERVER STABIL : TV NASIONAL",RAJAWALI TV HD
+https://delivery.macan.live/stream/id_rajawalitv/index.m3u8?token=BBjZUfXZ&v=20200202
+
+
+#EXTINF:-1 tvg-ID="RCTI.id" tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="SERVER STABIL : TV NASIONAL",RCTI HD
+https://delivery.macan.live/stream/id_rcti/index.m3u8?token=BBjZUfXZ&v=20200202
+
+#EXTINF:-1 tvg-ID="SCTV.id" tvg-logo="https://i.imgur.com/3iJmgDt.png" group-title="SERVER STABIL : TV NASIONAL",SCTV HD
+https://delivery.macan.live/stream/id_sctv/index.m3u8?token=BBjZUfXZ&v=20200202
+
+#EXTINF:-1 tvg-ID="Trans7.id" tvg-logo="https://i.imgur.com/sEZBAP8.png" group-title="SERVER STABIL : TV NASIONAL",TRANS 7 HD
+https://delivery.macan.live/stream/id_trans7/index.m3u8?token=BBjZUfXZ&v=20200202
+
+
+#EXTINF:-1 tvg-ID="TransTV.id" tvg-logo="https://i.imgur.com/2642q4E.png" group-title="SERVER STABIL : TV NASIONAL",TRANS TV HD
+https://delivery.macan.live/stream/id_transtv/index.m3u8?token=BBjZUfXZ&v=20200202
+
+
+#EXTINF:-1 tvg-ID="TVOne.id" tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="SERVER STABIL : TV NASIONAL",TV ONE HD
+https://delivery.macan.live/stream/id_tvone/index.m3u8?token=BBjZUfXZ&v=20200202
+
+
+#EXTINF:-1 tvg-ID="TVRI.id" tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="SERVER STABIL : TV NASIONAL",TVRI NASIONAL HD
+https://delivery.macan.live/stream/id_tvri/index.m3u8?token=BBjZUfXZ&v=20200202
 
 A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="BACKUP : TV NASIONAL",ANTV HD
