@@ -142,7 +142,7 @@ https://delivery.macan.live/stream/id_cnbc/index.m3u8?token=BBjZUfXZ&v=20200202
 https://delivery.macan.live/stream/id_gtv/index.m3u8?token=BBjZUfXZ&v=20200202
 
 #EXTINF:-1 tvg-ID="Indosiar.id" tvg-logo="https://i.imgur.com/bz3ox9M.png" group-title="SERVER STABIL PAID: TV NASIONAL",INDOSIAR HD
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=BBjZUfXZ&v=20200202
+https://etslive-2-vidio-com.akamaized.net/exp=1582992616~acl=/hls-p/ingest_102_*/*~hmac=2967f15fef9feb68b1c01bc8f3958575c17f9987b53df8eed3289117c086e3c2/hls-p/ingest_102_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-ID="idx.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Logo-idx.png/220px-Logo-idx.png" group-title="SERVER STABIL PAID: TV NASIONAL",IDX HD
